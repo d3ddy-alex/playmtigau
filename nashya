@@ -1,84 +1,202 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movies True",Channel Gratis tidak utuk di perdagangkan
+#EXTINF:-1 group-title="Movies",Channel Gratis tidak utuk di perdagangkan
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 group-title="Movies True",Konsumsi kalangan Sendiri
+#EXTINF:-1 group-title="Movies",Konsumsi kalangan Sendiri
 http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
-#EXTINF:-1 group-title="Movies True",Nashya Studio DigitAll
+#EXTINF:-1 group-title="Movies",Nashya Studio DigitAll
 http://nn2.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-title="Movies True",KIX
-https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",AXN
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",HBO
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",HBO Hits
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",HBO Signature
-https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",FXHD
-https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",Fox Thai
-https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",Fox Action
-https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",Fox Life
-https://www.livedoomovie.com/02_FOX_Life_HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",Fox Family
-https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",Fox Movies
-https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",Warner
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",tvN
+#EXTINF:-1 group-title="Movies",tvN
 http://23.237.112.138:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
-#EXTINF:-1 group-title="Movies True",True Film HD
-https://livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies True",True Film HD2
-https://livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",Animal Planet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",Discovery
-https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",Discovery Asia
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",H2
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",History
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",Natgeo People
-https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",Natgeo Wild
-https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary",National Geographic
-https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment",TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",EBS 1
-http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Comedy Central
-https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movies",Fox HD
+https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Fox Action Movies (TH)
+https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Fox Movies Premium (TH)
+https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO (Thai)
+https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Warner TV (HD)
+https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
+#EXTINF:-1 group-title="Movies",AXN HD
+https://www.doofree88.com/streaming/hd-axn_720/index.m3u8
+#EXTINF:-1 group-title="Movies",FX HD
+https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO Red
+https://www.doofree88.com/streaming/sd-redalt_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Movie Hits
+https://www.doofree88.com/streaming/sd-moviehits_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Thai Film
+https://www.doofree88.com/streaming/sd-thaifilm_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Film Asia
+https://www.doofree88.com/streaming/sd-filmasia_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Asian Series
+https://www.doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
+#EXTINF:-1 group-title="Movies",X-Zyte HD
+https://www.doofree88.com/streaming/hd-xzyte_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Comedy Central
+https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
+#EXTINF:-1 group-title="Movies",TVN
+https://www.doofree88.com/streaming/hd-tvn_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Fox Crime
+https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Fox Thai
+https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Fox Family Movies
+https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Film HD
+https://www.doofree88.com/streaming/hd-tfilm_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Film HD 2
+https://www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Mono Plus
+https://www.doofree88.com/streaming/sd-monoplus_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Fox Life
+https://www.doofree88.com/streaming/hd-foxlife_720/index.m3u8
+#EXTINF:-1 group-title="Movies",Thrill
+https://www.doofree88.com/streaming/sd-thrill_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Chinese Legends
+https://www.doofree88.com/streaming/sd-starchineselegend_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Celestial Classic Movies
+https://www.doofree88.com/streaming/sd-celestial_480/index.m3u8
+#EXTINF:-1 group-title="Movies",Z Nung
+https://www.doofree88.com/streaming/sd-znung_480/index.m3u8
+#EXTINF:-1 group-title="MOVIE",WARNER TV HD
+https://live.mawintv2.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",AXN HD
+https://live.mawintv2.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX ACTION TH
+https://live.mawintv2.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX ACTION EN
+https://live.mawintv2.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX MOVIES PREMIUM TH
+https://live.mawintv2.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX MOVIES PREMIUM EN
+https://live.mawintv2.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FX Thailand
+https://live.mawintv2.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",HBO HD
+https://live.mawintv2.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",HBOHit HD
+https://live.mawintv2.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",HBOSignature HD
+https://live.mawintv2.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",RedbyHBO HD
+https://live.mawintv2.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FoxCrimeHD TH
+https://live.mawintv2.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FoxCrimeHD EN
+https://live.mawintv2.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX THAI
+https://live.mawintv2.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX THAI EN
+https://live.mawintv2.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX FAMILY HD THAI
+https://live.mawintv2.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FOX FAMILY HD
+https://live.mawintv2.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",TRUE FILM HD1
+https://live.mawintv2.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",TRUE FILM HD2
+https://live.mawintv2.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",HISTORY HD
+https://live.mawintv2.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",HISTORY2 HD
+https://live.mawintv2.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",DISCOVERY HD WORLD
+https://live.mawintv2.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",DISCOVERY
+https://live.mawintv2.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",ANIMALPLANET
+https://live.mawintv2.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",NETIONAL GEO HD TH
+https://live.mawintv2.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",NETIONAL GEO HD EN
+https://live.mawintv2.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",BBC EARTH HD
+https://live.mawintv2.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",NET GEO WILD HD TH
+https://live.mawintv2.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",NET GEO WILD HD EN
+https://live.mawintv2.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",NET PEOPLE HD
+https://live.mawintv2.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",SAMRUJLOK
+https://live.mawintv2.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 group-title="DISCOVERY CHANNEL",MYSCI HD
+https://live.mawintv2.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="movies",channel8thailand
+https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Movie CH1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:-1 group-title="Movies",Movie CH3
+http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
+#EXTINF:-1 group-title="Movies",FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 group-title="Movies",Movie CH1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Movie CH3
+http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
+#EXTINF:-1 group-title="Movies",upmovie
+http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
+#EXTINF:-1 group-title="Movies",channel8thailand
+https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 group-title="Docu",Explore Life
+https://www.doofree88.com/streaming/sd-explife_480/index.m3u8
+#EXTINF:-1 group-title="Docu",Explore Sci
+https://www.doofree88.com/streaming/sd-expsci_480/index.m3u8
+#EXTINF:-1 group-title="Docu",Explore Wild
+https://www.doofree88.com/streaming/sd-expwild_480/index.m3u8
+#EXTINF:-1 group-title="Docu",Nat Geo Wild
+https://www.doofree88.com/streaming/hd-natgeowild_720/index.m3u8
+#EXTINF:-1 group-title="Docu",Nat Geo People
+https://www.doofree88.com/streaming/hd-natgeopeople_720/index.m3u8
+#EXTINF:-1 group-title="Docu",BBC Earth
+https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
+#EXTINF:-1 group-title="Docu",BBC Lifestyle
+https://www.doofree88.com/streaming/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 group-title="Docu",Animal Planet
+https://www.doofree88.com/streaming/sd-animalplaneteng_480/index.m3u8
+#EXTINF:-1 group-title="Docu",H2
+https://www.doofree88.com/streaming/hd-history2_720/index.m3u8
+#EXTINF:-1 group-title="Docu",History
+https://www.doofree88.com/streaming/hd-history_720/index.m3u8
+#EXTINF:-1 group-title="Docu",National Geographic
+https://www.doofree88.com/streaming/hd-natgeo_720/index.m3u8
+#EXTINF:-1 group-title="Docu",Discovery Asia
+https://www.doofree88.com/streaming/hd-discovery_720/index.m3u8
+
+#EXTINF:-1 group-title="KIDS",Spark Play
+https://www.doofree88.com/streaming/sd-sparkplay_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",Spark Jump
+https://www.doofree88.com/streaming/sd-sparkjump_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",Cartoon Network
+https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",Disney Channel
+https://www.doofree88.com/streaming/sd-disney_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",Disney XD
+https://www.doofree88.com/streaming/hd-disneyxd_720/index.m3u8
+#EXTINF:-1 group-title="KIDS",Cartoon Club
+https://www.doofree88.com/streaming/sd-cartoonclub_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",Boomerang
+https://www.doofree88.com/streaming/sd-boomerang_480/index.m3u8
 #EXTINF:-1 group-title="KIDS",Baby TV
-https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/sd-babytv_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",Miaomi
+https://www.doofree88.com/streaming/sd-miaomi_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",Nick Jr
+https://www.doofree88.com/streaming/sd-nickjr_480/index.m3u8
+#EXTINF:-1 group-title="KIDS",ANIPLUS _session
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="KIDS",DISNEY XD
+https://live.mawintv2.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Network
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1 group-title="KIDS",Disney XD
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS",Toonee
 http://96.30.124.100:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Boomerang
-https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr
-https://www.livedoomovie.com/02_Nick_Jr_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Miao Mi
-https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS",Teletoon
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="KIDS",Duck TV
@@ -97,7 +215,6 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Kuriakos KIDS
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="TV Lokal",Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yhYmNd7/logo-useeprime-small1.png" group-title="TV Lokal",Usee Prime
@@ -144,7 +261,6 @@ http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="TV Lokal",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
 #EXTINF:-1 group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",MNC News
@@ -167,7 +283,7 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 #EXTINF:-1 group-title="Entertainment",Citra Drama
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SK16HMBj/VISION.png" group-title="Entertainment",Vision Prime
+#EXTINF:-1 group-title="Entertainment",Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:-1 group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
@@ -189,7 +305,7 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576525268~exp=9007200831266259~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=2fecf8350db0a84ffd39bd33f7c465a5f24a8f3fc57462d977f9ff309524869b
 #EXTINF:-1 group-title="Lifestyle",People are Awesome
 https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576525468~exp=9007200831266459~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=dd7afa5712efdaaa14bdcfdb29a7925af7709dab23cd782a083838f7e497df31
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Lifestyle",IdKU
+#EXTINF:-1 group-title="Lifestyle",IdKU
 https://dl.dropbox.com/s/zv2m4oiaye3rkzn/idku2.m3u8?dl=0
 #EXTINF:-1 group-title="Lifestyle",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
@@ -215,7 +331,6 @@ https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 group-title="Knowledge",Outdoor Channel
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
-
 #EXTINF:-1 group-title="Nashya Sport",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony Ten 1
@@ -228,14 +343,6 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-#EXTINF:-1 group-title="Nashya Sport",beIN Sports 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",beIN Sports 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Liga Indonesia
@@ -260,16 +367,6 @@ http://111.40.205.78/PLTV/88888888/224/3221225603/index.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier Football 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier Football 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier Football 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier Football 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Premier Football HD 5
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sports one
 https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/ukrfoot1.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692848&dip=OWJmNjBlNjIxMGY4ZWRkZTZkMDVhY2QzNDExMWRlMjQ=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
 #EXTINF:-1 group-title="Nashya Sport",Sports two
@@ -292,10 +389,6 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="Nashya Sport",RED BULL HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BT SPORT 2 HD
-https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BT Sport ESPN
-https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",OLYMPIC 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 group-title="Nashya Sport",劲爆体育
@@ -306,10 +399,6 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",Euro Sports 1 HD
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Euro Sports 2 HD
-http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sports 1 Main Event
 http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sports 2 Action
@@ -322,32 +411,6 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sports 5 FHD Cricket
 http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:-1 group-title="Nashya Sport",TrueSport 5
-https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",TrueSport 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",TrueSport 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BT Sport 1 HD
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BT Sport 2 HD
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SkyNet Sport HD
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SkyNet Sport 1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SkyNet Sport 4
-https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SkyNet Sport 5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SkyNet Sport 6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sport TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sport TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",BT Sports 1 HD
 http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Fight Sports
@@ -378,10 +441,6 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Premier 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Champion TV 1
 https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/ukrfoot1.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692848&dip=OWJmNjBlNjIxMGY4ZWRkZTZkMDVhY2QzNDExMWRlMjQ=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
 #EXTINF:-1 group-title="Nashya Sport",Champion TV 2
@@ -438,7 +497,6 @@ https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 http://203.154.243.89:11739
 #EXTINF:-1 group-title="Nashya Sport",?????
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
 #EXTINF:-1 group-title="KIDS",Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 #EXTINF:-1 group-title="KIDS",Animax
@@ -541,9 +599,7 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",Celebes TV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="TV Lokal ID",TEGAR TV JOGJA
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="TV Lokal ID",JTV
+#EXTINF:-1 group-title="TV Lokal ID",JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="TV Lokal ID",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -619,8 +675,6 @@ http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",RCTV Cirebon
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
-#EXTINF:-1 group-title="TV Lokal ID",Nirwana TV Bali
-http://122.248.43.138:1935/ch8/myStream/live.m3u8
 #EXTINF:-1 group-title="Movies ID",AXN BU
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 group-title="Movies ID",AXN HD BU
@@ -633,20 +687,8 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 group-title="Movies ID",HBO HD BU
 http://203.153.218.28:9981/stream/channelid/37129950?ticket=32C4890A41BB652852713A506C0CD58333172C4A&profile=pass
-#EXTINF:-1 group-title="Movies ID",HBO
-http://csrv.club:80/x5MEh/EZdEv/1805
-#EXTINF:-1 group-title="Movies ID",HBO SUB Eng
-http://95.170.215.118/hls/m3u8/HBO.m3u8
-#EXTINF:-1 group-title="Movies ID",HBO HD
-http://95.170.215.118:80/hls/m3u8/HBO.m3u8
 #EXTINF:-1 group-title="Movies ID",HBO 2 (SD)
 http://tv.factoryiptv.com:80/fabio/fabio/37086
-#EXTINF:-1 group-title="Movies ID",HBO 2 SUB Eng
-http://95.170.215.118/hls/m3u8/HBO-2.m3u8
-#EXTINF:-1 group-title="Movies ID",HBO 3 SUB Eng
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-#EXTINF:-1 group-title="Movies ID",HBO 3 HD
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 #EXTINF:-1 group-title="Movies ID",HBO Hits BU
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 #EXTINF:-1 group-title="Movies ID",FX
@@ -661,7 +703,7 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 #EXTINF:-1 group-title="Movies ID",FOX Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4KBkw13v/JGO.png" group-title="Movies ID",JGO
+#EXTINF:-1 group-title="Movies ID",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:-1 group-title="Movies ID",FLIK
 https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
@@ -697,14 +739,12 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
 #EXTINF:-1 group-title="Movies ID",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-
 #EXTINF:-1 group-title="TV Lokal ID",RUMAH TV
 http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",NABAWI TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
-
 #EXTINF:-1 group-title="Music",MIX
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:-1 group-title="Music",Zing
@@ -733,8 +773,6 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Music",MTV+
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="Music",MTV Live
-https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 group-title="Music",Box Hits
@@ -823,7 +861,6 @@ https://www.djing.com/tv/session_french-touch.m3u8
 https://www.djing.com/tv/h-01-fta.m3u8
 #EXTINF:-1 group-title="Music",DJING KARAOKE
 https://www.djing.com/tv/karaoke.m3u8
-
 #EXTINF:-1 group-title="Radio",DMS FM Ambon
 http://live2.indostreamserver.com:8130/stream
 #EXTINF:-1 group-title="Radio",Telstar FM Makassar
@@ -858,8 +895,6 @@ http://202.147.199.101:8000/;
 http://101.50.0.77:8000/smartfm.aac
 #EXTINF:-1 group-title="Radio",Sonora Sby
 http://stream.suararadio.com:8000/surabaya_sonorasurabaya_mono
-#EXTINF:-1 group-title="Radio",Sukapura Tasik
-http://stream.suararadio.com:8000/tasik_sukapurafm_mp3
 #EXTINF:-1 group-title="Radio",Top Bumiayu
 http://stream.suararadio.com:8000/topfm951_mono
 #EXTINF:-1 group-title="Radio",TraxFM Jkt
@@ -878,8 +913,6 @@ http://185.47.62.52:8000/;
 http://cloudstreaming.mramedia.com:8001/live
 #EXTINF:-1 group-title="Radio",Hard Rock Sby
 http://cloudstreaming.mramedia.com:8011/live
-#EXTINF:-1 group-title="Radio",MandalaFM Banyuwangi
-http://stream.suararadio.com:8000/964_MANDALA_FM_Mono
 #EXTINF:-1 group-title="Radio",Andika 105.7FM
 http://stream2.andikafm.com:1057/andikafm
 #EXTINF:-1 group-title="Radio",Ardan 105.9FM
@@ -890,9 +923,6 @@ http://onlineradiobox.com/ping/id.bahana
 http://cloudstreaming.mramedia.com:8004/live
 #EXTINF:-1 group-title="Radio",Cakra 90.5FM
 http://dengerin.radiocakrabandung.com:8905/;
-#EXTINF:-1 group-title="Radio",City Radio 95.9FM
-http://streaming.cityradio.id:8000/cityradio.ogg
-
 #EXTINF:-1 group-title="SPORT",Liga Indonesia
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 group-title="SPORT",MNC Soccer
@@ -905,38 +935,8 @@ https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:-1 group-title="SPORT",PACUAN KUDA
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Premier Football 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Premier Football 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 group-title="SPORT",BeinSport 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",BeinSport 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",FOX Sport 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",FOX Sport 2
-https://www.livedoomovie.com/02_FoxSport2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",FOX Sport 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT",Arena Sport 2
 https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
-#EXTINF:-1 group-title="SPORT",True Sport 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",SkyNet Sport HD
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",SkyNet Sport 1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",SkyNet Sport 5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",SkyNet Sport 6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="SPORT",Betis TV
@@ -953,8 +953,6 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="SPORT",ON Sport
 http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
-#EXTINF:-1 group-title="SPORT",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 group-title="SPORT",TV All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="SPORT",Al Kass Sports 1
@@ -987,14 +985,6 @@ https://dl.dropbox.com/s/8do2ge2qhjurgca/foxsport2.m3u8?dl=0
 https://dl.dropbox.com/s/9qxu4a3oh6epn9e/foxsport3.m3u8?dl=0
 #EXTINF:-1 group-title="SPORT",Usee Sport
 https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
-#EXTINF:-1 group-title="SPORT",Astro Super Sport 1
-http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
-#EXTINF:-1 group-title="SPORT",Astro Super Sport 2
-http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
-#EXTINF:-1 group-title="SPORT",Astro Super Sport 3
-http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
-#EXTINF:-1 group-title="SPORT",Astro Super Sport 4
-http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #EXTINF:-1 group-title="FEED",Bein Sports NBA
 http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
 #EXTINF:-1 group-title="FEED",Bein Sports News
@@ -1024,6 +1014,10 @@ http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
 #EXTINF:-1 group-title="FEED",Bein Sports 12 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Liga Indonesia
+https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Liga Indonesia 2
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Usee Sport 1
 https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Usee Sport 2
@@ -1032,32 +1026,14 @@ https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Champions tv 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Fight Sport -INDO-
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport -INDO-
-http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport 1 -INDO-
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport 2 -INDO-
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport 3 -INDO-
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Soccer Channel 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Soccer Channel 2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport 1
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport 2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",MNC Sport 1 -INDO-
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",MNC Sport 2 -INDO-
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT 1
 https://dl.dropbox.com/s/75azqlctqjx5dba/netizen_astro1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT2
@@ -1080,12 +1056,26 @@ http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SKYNET8 sport SD
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sport TV1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sport TV2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sport TV3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 1
+https://dl.dropbox.com/s/74vitvt2lma1rgg/Livesport.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 2
+https://dl.dropbox.com/s/olmtah18gge0km6/Livesport2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 3
+https://dl.dropbox.com/s/iuv41s0sxrg3mo3/Live1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 4
+https://dl.dropbox.com/s/l4flpns7pmkzuv5/Live2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 5
+https://dl.dropbox.com/s/vhmldfggh4noa8y/Live3.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 6
+https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live%204.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 7
+https://dl.dropbox.com/s/7trldus602grhbm/Live%205.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1581695636/ei/NG5GXp27Ho-S1Aa65bRo/ip/125.164.157.158/id/zdZ0eIfhbzQ.0/source/yt_live_broadcast/requiressl/yes/tx/23813227/txs/23813225%2C23813226%2C23813227%2C23813228%2C23813229%2C23813230%2C23813231/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgf1oGRk1Qak_rhfmOOrVQXXfFSkwqXz0Jwmgf7XTikxYCIQDWQl95kHXOKdA_uQkpZ82E5xbfzX_HDIT6-gd3A_jWPw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 9
+https://dl.dropbox.com/s/omttlx53wpraf77/Bein1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 10
+https://dl.dropbox.com/s/piieteu6mq49rp3/Bein2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ST Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ST Sports Premium
@@ -1118,10 +1108,6 @@ http://210.210.155.66/h/h22/01.m3u8
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport HD 1 -USA-
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport HD 2 -USA-
-http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX Sport HD 3 -USA-
-http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Most Video TV
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Olympics Channel
@@ -1170,8 +1156,6 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",AUTOMOTO TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",UFC
-http://mfe17.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2%3C/stream_url
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",UFC NETWORK
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",RTSH Sport
@@ -1188,14 +1172,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",BT SPORT 2 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 3
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",True Premier 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",True Premier 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",NBA TV
 http://31.220.0.134:8081/live/nba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",GOLF
@@ -1226,14 +1204,8 @@ http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",True Premier Football 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",True Premier Football 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Arena Sport 2
 https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Arena Sport 5
-https://sport7.ws/lba/MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=/g7/ar5sport.m3u8?token=MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=&id=MzhlMDE2NWE0MDZjNDg0ZGQzMWU3N2FkYjU1MjA1NmM=&vip=1571042024&dip=ZjMxNTU0YWJhZTk0MWVjNTg3YmRlODNlMmE3NjQzYWM=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Dubai Racing
@@ -1244,24 +1216,12 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Setanta Sports 2
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",True Sport 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",True Sport 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",True Sport 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Eurosport 1
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Eurosport 2
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SPORT TV 2 (Opt. 2)
-http://62.203.143.51:9981/play/SPORTV2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SPORT TV 2 HD
-http://62.203.143.51:9981/play/SPORT2HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ST Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ST Sports Premium
@@ -1288,190 +1248,258 @@ http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
 http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SKYNET5 sport
 http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
-#EXTINF:-1,SKYNET6 sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SKYNET6 sport
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SKYNET8 sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",SKYNET8 sport
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FOX SPORT
 http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX-SPORT SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FOX-SPORT SD
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX-SPORT2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FOX-SPORT2 SD
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX-SPORT2xx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FOX-SPORT2xx
 http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX-SPORT3 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FOX-SPORT3 SD
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FOX-SPORT3xx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FOX-SPORT3xx
 http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 1 Asia SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 1 Asia SD
 https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
-#EXTINF:-1tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 2 Asia
-https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 2 Asia SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 2 Asia SD
 https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",TRUESport5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",TRUESport5
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",TRUESport6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",TRUESport6
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",TRUESport7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",TRUESport7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports RUSIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sports RUSIA
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports RUSIA2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sports RUSIA2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/529/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sky Sports Main Events
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Main Events
 https://cstream5.com/hls/skysports1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",NBA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",NBA TV
 https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",MBC Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",MBC Sports
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SBS Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",SBS Sports
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports News
 http://95.170.215.120/hls/m3u8/Bein-Sport-News-ALI-MCR-NGC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 1 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 2 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 3 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 4 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 4 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 5 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 5 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 6 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 7 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 7 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 8 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 8 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 9 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 9 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 10 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 10 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 11 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 11 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports 12 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports 12 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sky Sports 3 Premier League
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports 3 Premier League
 http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sky Sports 4 Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports 4 Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ATGV 1 SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ATGV 1 SPORT
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FLOW SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",KUWAIT ONE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sports NBA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Bein Sports NBA
 http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",BT SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",BT SPORT 1 HD
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",BT SPORT 2 (Extra Server)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",BT SPORT 2 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Liga Indonesia
-https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Liga Indonesia 2
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",NBCSN SPORT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",NBCSN SPORT HD
 https://dl.dropbox.com/s/hvdg5matjnqd9fx/beinsspd.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",La Liga HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",La Liga HD
 https://dl.dropbox.com/s/ff5pvk4v88bvhim/spanyol.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Serie A HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Serie A HD
 https://dl.dropbox.com/s/v03mnyy63zlgi12/itali.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Ligue 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Ligue 1
 https://dl.dropbox.com/s/tytynvtppo1ott8/prancis.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 1 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 1 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 2 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 2 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 3 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 3 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 4 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 4 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 5 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 5 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 6 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 6 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",CCTV-5+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",CBC SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",CBC SPORT
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Setanta Eurasia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Setanta Eurasia
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Setanta Sports +
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Setanta Sports +
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Abu Dhabi Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Abu Dhabi Sports 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Abu Dhabi Sports 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Abu Dhabi Sports 5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Abu Dhabi Sports 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",MU TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",MU TV
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_700k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",MOTOR SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",MOTOR SPORT
 http://45.58.62.92:8084
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",AF: KTV SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",AF: KTV SPORT
 http://www.elahmad.com/tv/m3u8/ktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",VARZESH TV SPORT IR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",VARZESH TV SPORT IR
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ONE CHANNEL SPORT ARAB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ONE CHANNEL SPORT ARAB
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FIGHT TIME USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FIGHT TIME USA
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ALL SPORT CBS SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ALL SPORT CBS SPORT
 http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",FLOW SPORTS 1 HD UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",FLOW SPORTS 1 HD UK
 http://161.0.157.38/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 1 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 1 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 2 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 2 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 3 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 3 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 4 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 4 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 5 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 5 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",beIN Sports 6 Arab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",beIN Sports 6 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",World Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",World Football
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports Focus
+#EXTINF:-1tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports Focus
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports Premium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sports Premium
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports Life
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sports Life
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports Arena
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ART Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ART Sports 1
 http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ART Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ART Sports 2
 http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ART Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ART Sports 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",rm tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Dsport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",BAHRAIN TV SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",BAHRAIN TV SPORTS
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Sports Kool
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sports Kool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Horizon Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SPORTSCAST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Super Sports 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Super Sports 8
 http://51.158.144.124:8090/CR/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",PTV Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",PTV Sports
 http://51.158.144.124:8090/CR/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ATS Sports
-http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",PremierHD1 Backup 2
+https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",PremierHD2 Backup 2
+http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",PremierHD3 Backup 2
+https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",PremierHD4 Backup 2
+https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",PremierHD5 Backup 2
+https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Premier League
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Golf
+https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Football
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Cricket
+https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya"group-title="Thailand Channels",SkynetsportHD
+http://119.59.116.136:8889/threstr/skynethd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Skynetsport1 HD
+http://119.59.116.136:8889/threstr/skynetsport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Skynetsport2 HD
+http://119.59.116.136:8889/threstr/skynetsport2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Skynetsport3 HD
+http://119.59.116.136:8889/threstr/skynetsport3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Skynetsport4 HD
+http://119.59.116.136:8889/threstr/skynetsport4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Skynetsport5 HD
+http://119.59.116.136:8889/threstr/skynetsport5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Skynetsport6 HD
+http://119.59.116.136:8889/threstr/skynetsport6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Truesport 5
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Truesport 6
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Truesport 7
+http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",NFL
+https://www.doofree88.com/streaming/hd-nfl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Tennis Backup 2
+http://119.59.116.136:8889/threstr/tennis/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",|USA| Tennis Channel HD
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",T-SPORT
+https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",SMM TV
+https://www.doofree88.com/streaming/sd-smmtv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",BTSPORTHD1
+https://live.mawintv2.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",BTSPORTHD2
+https://live.mawintv2.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ArenaSport 1
+https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ArenaSport 3
+https://www.doofree88.com/streaming/rs-arena3_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ArenaSport 4
+https://www.doofree88.com/streaming/rs-arena4_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",ArenaSport 5
+https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",MUTV
+https://www.doofree88.com/streaming/uk-mutv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",LFCTV
+https://www.doofree88.com/streaming/uk-lfctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",EUROSPORT 1
+https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",EUROSPORT 2
+http://5.135.92.133:52841/out/u/512_1.m3u8
 
 #EXTINF:-1 group-title="MOVIES 24/7",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
@@ -1579,14 +1607,8 @@ http://cableserver1.cableguy.pro:82/live?cId=472&uId=2255&deviceUser=roggiemkd&d
 http://cableserver1.cableguy.pro:82/live?cId=473&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="MOVIES 24/7",MAX PREMIUM
 http://cableserver1.cableguy.pro:82/live?cId=474&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="MOVIES 24/7",MAX KINO
-http://cableserver1.cableguy.pro:82/live?cId=471&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="MOVIES 24/7",MAX 1
-http://cableserver1.cableguy.pro:82/live?cId=475&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="MOVIES 24/7",MAX 2
 http://cableserver1.cableguy.pro:82/live?cId=476&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="MOVIES 24/7",MAX 4
-http://cableserver1.cableguy.pro:82/live?cId=478&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="MOVIES 24/7",MAX 5
 http://cableserver1.cableguy.pro:82/live?cId=480&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="MOVIES 24/7",MAX 7
@@ -1631,7 +1653,6 @@ https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-
 https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="MOVIES 24/7",Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-
 #EXTINF:-1 group-title="VOD Nashya",Dark Phoenix (2019)
 https://cdn.cloneapi.icu/drive/index.php?id=xNnumPG4RJVWyyeODhLuyQgwyplayl%2FEhdR7rbXXVrgzA7XVcl9SAH5Fw55DkwyXPcvT4Pnzb19FGSdrLMlPI6Cd7zO35Oo3PuMhNqcdTYWbTl9dxeNh%2Bt%2FV3upiQ%2Brbk%3D&ref=&res=720
 #EXTINF:-1 group-title="VOD Nashya",John Wick: Chapter 3 - Parabellum (2019)
@@ -1668,8 +1689,6 @@ https://cdn.cloneapi.icu/drive/index.php?id=6cO0ba9OqQ8RYx%2FzxKemcgqGKT4YWJdjsg
 https://cdn.cloneapi.icu/drive/index.php?id=F6UfECcKggqr5uFMfABhLgjPhADy2C8Vj6Rw3E%2BkOKQNNcXiAl06OD2jbu19bnGG0qajWLO%2FD6UCPRCRL4fjxFZ9RZwDRz2pz98E5r%2F84MO0zJPAoBXsjZm19LBvzfQ1ff1qVMqT7fotU%2FjzQFSbZ8%2BFMXIlAdhCry9AvigQpw0npQ5%2Fn9yfOkBEPP6BA4k78ftZKWCw%2BIu6uIkukzYaJKd%2BgeaX2Cgr8tGrA49LAkWA%3D%3D&ref=https%3A%2F%2Fsogafime.net%2Fmaleficent-2-mistress-of-evil-2019%2F&res=720
 #EXTINF:-1 group-title="VOD Nashya",Frozen2 2019
 https://cdn.clonefile.icu/drive/index.php?id=kB%2FTKlT2KtFYM2pQNLATiQM8XiSVmwJPlWfzIRWELkrBQGLPdF4IKPUqI9vsgagc4xivQv32ikFJesHq%2BjU5X9RyQ6LkfXowYbHSUi87pFBUJZYlclHmvhT577oN5wMh0BszB2yMrTaVMz3sz4VUm0oVex7kVOL1eT5xxfpBd07PFtYZrsQN33ODOEH2A5bC7oP4DcCFzunReQRRK0etGf&ref=https%3A%2F%2Fsogafime.net%2Ffrozen-ii-2019%2F&res=default
-#EXTINF:-1 group-title="VOD Nashya",Dora lost city 2019
-https://cdn.apidev.icu/drive/index.php?id=gMZHRseRMrjxGV57GKvCSgmKpDzy5B%2BX4QYJelkINeJQOtHA4NaUG2aRponx%2BHSY3qC9iPBftfMcLaQBup8DTyfUGpobY9toTA%2FIr6NfZofbshaKbKSrCsI6VOc5sSyu6FIwHu3fTZK1Ak%2FyoeA85SXkyFGphUAV6wlE2y4CGFdEUUPp2B5gb%2BUOorBVA5QhPI%2FRAriDfIXxguC%2BF%2FYsAMwXF3W%2FQOzwkZ8M5yEZSJ0w%3D%3D&ref=https%3A%2F%2Fsogafime.net%2Fdora-and-the-lost-city-of-gold-2019%2F&res=720
 #EXTINF:-1 group-title="VOD Nashya",Train your dragon3 2019
 https://cdn.apidev.icu/drive/index.php?id=rxozTbQ1ywGIhc8clLSrHA0TEEhLEnpLotKh1Pi%2FQIu3QZwBeiEyYipAW15vJTABa8UbJCUi1wexm%2B7Q7oeWI804ElUiHzB3x0VbVCqwPPxkkjvRTmu%2BlJj96qbsRyXbKiVoRZbViKvPP4%2FVrJM0D7mSBuTh1uHXdAohByYeQtf%2BCIHmVJ1b902jTt5yMvtxPUivUfh4qgZoqy8LOc1isXT2Vj99okA1OCypoADAVOSQ%3D%3D&ref=https%3A%2F%2Fsogafime.net%2Fhow-to-train-your-dragon-3-2019%2F&res=default
 #EXTINF:-1 group-title="VOD Nashya",John wick 3 2019
@@ -1710,8 +1729,6 @@ https://cdn.apidev.icu/drive/index.php?id=5OMEtKxtQJ8ux9aJpERMOwQ7paIYjC8bRwrjzF
 https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
 #EXTINF:-1 group-title="VOD Nashya ID",DANUR 2
 https://cdn.apidev.icu/drive/index.php?id=ZeCY2fIn9COiecFNbPy%2BlAw%2BrhP0EgIhhOmXS6W8pUlicAGnOnEAEzHePpSEBnEkS%2B05C4o9zkeQg4FmhlutYd1j0bhFV0XFVGHBXYJXWPeKuAZf0NdqFJ0slErgadJFCK5tdvgdj56vmS69iwKdo9uvSh2Hgrnek5qS8%2FW%2Be8HP5%2BI7m9f9su85oWu3Q3n%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fdanur-2-maddah%2F&res=default
-#EXTINF:-1 group-title="VOD Nashya ID",PENGABDI SETAN
-https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Nashya ID",MUNAFIK
 https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
 #EXTINF:-1 group-title="VOD Nashya ID",TABU : MENGUSIK GERBANG IBLIS (2019)
@@ -1804,8 +1821,6 @@ http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp
 http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
 #EXTINF:-1 group-title="VOD Nashya ID",Partikelir (2018)
 http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
-#EXTINF:-1 group-title="VOD Nashya ID",Dilan 1991 (2019)
-https://www.googleapis.com/drive/v3/files/1uVpsJP2M9WXQHisAfCDJP6lb53J_PBx_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Nashya ID",Saur Sepuh- Satria Madangkara (1988)
 https://cdn-stream.metube.id/videom3u8/cyfwVuAoyHtqkHQhtqtZ/240p/list.m3u8
 #EXTINF:-1 group-title="VoD",Ratu Diskon Cintanya Limited Edition
@@ -1904,6 +1919,24 @@ https://cdn.apidev.icu/drive/index.php?id=YyJKBqUFsZ39HMBDPxDKeg99%2BxWEoUTt99d1
 https://cdn.apidev.icu/drive/index.php?id=dLW%2BiX4K62pyU1hVMYgyeQyTI8pN6AH4WekP8ynVc4iCheuuUnDx9wZTFaYvUPTOK9iMHBqFONlAeXknT%2FK1l%2Fxh%2Bdv3Ze1k4mURn70VQcpRQcCnC7slpg7k%2BqX5sawS%2BaPK8cofGj30xN%2FHqVdSfj5nTCst21DZUFBzCa8xLvwqYbQrfFqctyiZYPlpiwzELZoyHPQqZ2%2Bk1uSX31s6zVlB4%2B5ap7icf8jhxqbamZxQ%3D%3D&ref=https%3A%2F%2Fwww.robinsonptsa.org%2Falas-pati-hutan-mati-2018%2F&res=720
 #EXTINF:-1 group-title="VoD",Perjanjian Dengan Iblis (2019)
 https://cdn.clonefile.icu/drive/index.php?id=fctC8wpqMzbRTWa9oHkCwQeW%2B4y09Vaw0PNv%2F5C69y3MMrDHkF3gG9dJDJ6eKsHpku9wqbfDSAf0N0hAGrJHT0fb7IMRhhDTVrxKEH5xnAcjPaj7ljQSqBwWuTjAfi2ZyMOwcuLfJh9CKRypqOcSHvGdWcPSbhJ31dByKf9dzrIBEovy%2Bb2Z1m1wfdxENzVhadfAehKi7OtYFjR4PRD3UD&ref=http%3A%2F%2Fahhamovie.com%2Fperjanjian-dengan-iblis-2019%2F&res=default
+#EXTINF:-1 group-title="VoD",Warkop DKI: Pintar Pintar Bodoh (1980)
+http://srv29.nf21.net/files/15-2019-10-09-8e76b24e377fc2f92fa285524b10d6b1.mp4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Maju Kena Mundur Kena (1983)
+http://srv29.nf21.net/files/15-2019-10-09-3659d298fa9b29e16db0339cb997ac95.mp4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Itu Bisa Diatur (1984)
+http://srv29.nf21.net/files/15-2019-10-09-14bea8bdae274c3a922f7d29c58d8d73.mp4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Tahu Diri Dong (1984)
+http://srv29.nf21.net/files/15-2019-10-09-5800651e161619b8165734c584181e76.mp4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Kesempatan Dalam Kesempitan (1985)
+http://srv29.nf21.net/files/15-2019-10-09-38faca9819e03a23f4667e72a9412629.mp4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Gantian Dong (1985)
+http://srv29.nf21.net/files/15-2019-10-09-9e09061a2b64e714ba164bcd19d42a34.mp4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Malu Malu Mau (1988)
+https://www.googleapis.com/drive/v3/files/1ucAdEKLCcv72iFcGOm75Kfc9Rh-ezgM4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Salah Masuk (1992)
+https://www.googleapis.com/drive/v3/files/125TSKmh9nMTIeCi6PjhzbY7T1-Yt_uJW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VoD",Warkop DKI: Pencet Sana Pencet Sini (1994)
+https://www.googleapis.com/drive/v3/files/1ufNonpnbX0W9hGgUqi0yjsvjR9_xW5o-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VoD Mandarin",《电影千局1》
 https://135zyv6.xw0371.com/2019/03/19/K9W3TbRk4Ge0oiF7/playlist.m3u8
 #EXTINF:-1 group-title="VoD Mandarin",《电影齐天大圣之火焰山》
@@ -2104,7 +2137,7 @@ https://dl.dropbox.com/s/grzji9pwe4jrkhh/Inews2.m3u8?dl=0
 https://dl.dropbox.com/s/7nsujica2t6rxen/NetTv2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",TV KU
 https://dl.dropbox.com/s/4t9yylra6cotb90/TVKU%20New.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Nashya ID Backup",id KU
+#EXTINF:-1 group-title="Nashya ID Backup",id KU
 https://dl.dropbox.com/s/zv2m4oiaye3rkzn/idku2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",Ruang Trampil
 https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
@@ -2202,7 +2235,7 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217856~exp=9007200832958847~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_2/chunklist.m3u8*~hmac=24f419c40ccac5072390082acca35aed43a27244f3bff8e197a1d66fc2b81092
 #EXTINF:-1 group-title="Backup Nashya",Clubbing
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217872~exp=9007200832958863~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=1f0135c861ce6577b868a79d085bbf01ab7e9db6215d71565e383b661335169d
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="Backup Nashya",JAKTV
+#EXTINF:-1 group-title="Backup Nashya",JAKTV
 https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217916~exp=9007200832958907~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=b0e46a8555fc20b9692127b3fa54fddf6136779421465e59a66cfa8a19abd616
 #EXTINF:-1 group-title="Backup Nashya",JTV
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217938~exp=9007200832958929~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=36bdb68ceb75ef7e66bf698efef7322c1c30f07017a94e4c2ff58481f5310574
@@ -2216,7 +2249,7 @@ https://livetvhooq.akamaized.net/8b4f753fdcc94067bfcd243350f36999/ap-southeast-1
 https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218360~exp=9007200832959351~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=e7ae7c5b6e1ff8789306a6fdcfe9182ee871b99e066318e1f5c61964974cf3e9
 #EXTINF:-1 group-title="Backup Nashya",Entertainment Weekly
 https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218401~exp=9007200832959392~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_2/chunklist.m3u8*~hmac=0bf01e6f09599ca3bbd298911362a6d08c8aa3c547d9be3794b3877f580d09f4
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Backup Nashya",idKU
+#EXTINF:-1 group-title="Backup Nashya",idKU
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218436~exp=9007200832959427~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=465c440bb34513e9d901f62fe1cafe619150e9b92b7858dfb9638a919359de55
 #EXTINF:-1 group-title="Backup Nashya",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
@@ -2240,11 +2273,11 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:-1 group-title="Backup Nashya",INDOSIAR LIGA SHOPEE
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="Backup Nashya",Ruang Terampil
+#EXTINF:-1 group-title="Backup Nashya",Ruang Terampil
 https://dl.dropbox.com/s/r6k06vq0sh5og9r/offline.mp4?dl=0
 #EXTINF:-1 group-title="Backup Nashya",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Backup Nashya",Idku
+#EXTINF:-1 group-title="Backup Nashya",Idku
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Backup Nashya",Indosiar
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -2546,8 +2579,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 group-title="Malaysia",Astro CITRA
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
-#EXTINF:-1 group-title="Malaysia",Astro Warna
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 #EXTINF:-1 group-title="Malaysia",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 group-title="Malaysia",Astro Go Shop
@@ -2568,8 +2599,6 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 #EXTINF:-1 group-title="Malaysia",Astro Naura
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 group-title="Malaysia",Astro Warna
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 #EXTINF:-1 group-title="Malaysia",ASTRO MOVIE
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Malaysia",ASTRO CHINESE
@@ -3034,8 +3063,6 @@ http://223.82.250.72/live/cctv-11/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
 #EXTINF:-1 group-title="Chinnese",CCTV-12
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="Chinnese",CCTV-13
-http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
 #EXTINF:-1 group-title="Chinnese",CCTV-14 少儿频道
 http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="Chinnese",CCTV-14FHD
@@ -3300,8 +3327,6 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 group-title="Canada",Canada Star TV
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 group-title="Canada",CNTV
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 #EXTINF:-1 group-title="Canada",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 #EXTINF:-1 group-title="Canada",Knowledge Kids
@@ -3342,8 +3367,6 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 group-title="England",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 group-title="England",Ahlulbayt TV
-http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="England",Al Araby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="England",Al-Hiwar
@@ -3678,8 +3701,6 @@ https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
 #EXTINF:-1 group-title="News America",Cheddar Big News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
-#EXTINF:-1 group-title="America",Christian Youth Channel
-http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
 #EXTINF:-1 group-title="America",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 group-title="America",CMC
@@ -3920,8 +3941,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 #EXTINF:-1 group-title="America",NBC San Jose CA (KNTV)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="America",NBC San Jose CA (KNTV)
-https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:-1 group-title="America",NBC San Jose CA (KNTV)
 https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:-1 group-title="America",New Orleans TV
@@ -4168,8 +4187,6 @@ http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
 http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
 #EXTINF:-1 group-title="America",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
-#EXTINF:-1 group-title="America",WHPR
-http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 group-title="America",Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 group-title="America",WMCN
@@ -4350,225 +4367,209 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 group-title="EMIRATE",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hew7CpU.jpg" group-title="FTV Indonesia",Pacar Trial Nona Es Kelapa Muda
+#EXTINF:-1 group-title="FTV Indonesia",Pacar Trial Nona Es Kelapa Muda
 https://media-vidio-com.akamaized.net/uploads/1893117/ets-playlist-1200-33e13.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn5Vnpf.jpg" group-title="FTV Indonesia",Bucin Cinta, Aku Bisa Apa
+#EXTINF:-1 group-title="FTV Indonesia",Aku Bisa Apa
 https://media-vidio-com.akamaized.net/uploads/1891298/ets-playlist-1200-2e2b4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCyOmTz.jpg" group-title="FTV Indonesia",Siapa Takut Cewek Galak?
+#EXTINF:-1 group-title="FTV Indonesia",Siapa Takut Cewek Galak?
 https://media-vidio-com.akamaized.net/uploads/1890029/ets-playlist-1200-82a70.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1mWKxj.jpg" group-title="FTV Indonesia",Badut Santuy To The Max
+#EXTINF:-1 group-title="FTV Indonesia",Badut Santuy To The Max
 https://media-vidio-com.akamaized.net/uploads/1866883/ets-playlist-1200-dbf14.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bNjJxnn.jpg" group-title="FTV Indonesia",Inem Asisten Seksi Repot
+#EXTINF:-1 group-title="FTV Indonesia",Inem Asisten Seksi Repot
 https://media-vidio-com.akamaized.net/uploads/1865333/ets-playlist-900-31d5d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YYwIom.jpg" group-title="FTV Indonesia",Akhirnya Kopilih Aku Daripada Dia
+#EXTINF:-1 group-title="FTV Indonesia",Akhirnya Kopilih Aku Daripada Dia
 https://media-vidio-com.akamaized.net/uploads/1864807/ets-playlist-900-bca1f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/68ybhNq.jpg" group-title="FTV Indonesia",Neng Supir Aku Tanpamu I'Mbyar
+#EXTINF:-1 group-title="FTV Indonesia",Neng Supir Aku Tanpamu I'Mbyar
 https://media-vidio-com.akamaized.net/uploads/1864179/ets-playlist-1200-007f2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZAzAj9.jpg" group-title="FTV Indonesia",Biar Tak Seumur Cintaku Pantang Mundur
+#EXTINF:-1 group-title="FTV Indonesia",Biar Tak Seumur Cintaku Pantang Mundur
 https://media-vidio-com.akamaized.net/uploads/1863511/ets-playlist-1200-d1ff4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zVaxUZi.jpg" group-title="FTV Indonesia",Cintaku Bernapas dalam Bubur
+#EXTINF:-1 group-title="FTV Indonesia",Cintaku Bernapas dalam Bubur
 https://media-vidio-com.akamaized.net/uploads/1862362/ets-playlist-400-92508.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UulJIgX.jpg" group-title="FTV Indonesia",Jodoh Gak Akan Kemana Saingan Dimana-Mana
+#EXTINF:-1 group-title="FTV Indonesia",Jodoh Gak Akan Kemana Saingan Dimana-Mana
 https://media-vidio-com.akamaized.net/uploads/1861383/ets-playlist-900-4abd3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYvr1o.jpg" group-title="FTV Indonesia",Pacar Gue Bukan Cewek Gedongan
+#EXTINF:-1 group-title="FTV Indonesia",Pacar Gue Bukan Cewek Gedongan
 https://media-vidio-com.akamaized.net/uploads/1860478/ets-playlist-1200-166a2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3lcbRt.jpg" group-title="FTV Indonesia",Biduan Gerobak Dangdut Trending
+#EXTINF:-1 group-title="FTV Indonesia",Biduan Gerobak Dangdut Trending
 https://media-vidio-com.akamaized.net/uploads/1859430/ets-playlist-1200-dc567.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qrod2wQ.jpg" group-title="FTV Indonesia",Pantang Pulang Sebelum Jadian
+#EXTINF:-1 group-title="FTV Indonesia",Pantang Pulang Sebelum Jadian
 https://media-vidio-com.akamaized.net/uploads/1858476/ets-playlist-1200-27fd5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuPEZbC.jpg" group-title="FTV Indonesia",Modus Cinta Tingkat Kuli
+#EXTINF:-1 group-title="FTV Indonesia",Modus Cinta Tingkat Kuli
 https://media-vidio-com.akamaized.net/uploads/1857514/ets-playlist-1200-757de.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8xNnLZC.jpg" group-title="FTV Indonesia",Aku Cinta Kamu 3000 Kilo
+#EXTINF:-1 group-title="FTV Indonesia",Aku Cinta Kamu 3000 Kilo
 https://media-vidio-com.akamaized.net/uploads/1856382/ets-playlist-1200-361f7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sFjWuUP.jpg" group-title="FTV Indonesia",Aku Terlalu Palsu Untuk Cintamu yang Asli
+#EXTINF:-1 group-title="FTV Indonesia",Aku Terlalu Palsu Untuk Cintamu yang Asli
 https://media-vidio-com.akamaized.net/uploads/1855254/ets-playlist-1200-614cf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V8YdLml.jpg" group-title="FTV Indonesia",Jodoh Cewek Sapi Kena Cancel
+#EXTINF:-1 group-title="FTV Indonesia",Jodoh Cewek Sapi Kena Cancel
 https://media-vidio-com.akamaized.net/uploads/1854077/ets-playlist-1200-d7e1a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3tNZ0oE.jpg" group-title="FTV Indonesia",Cinta Kamu Munculnya di Ending
+#EXTINF:-1 group-title="FTV Indonesia",Cinta Kamu Munculnya di Ending
 https://media-vidio-com.akamaized.net/uploads/1852950/ets-playlist-1200-857d5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dt5ZTo2.jpg" group-title="FTV Indonesia",Miss Kinclong Colong Hatiku
+#EXTINF:-1 group-title="FTV Indonesia",Miss Kinclong Colong Hatiku
 https://media-vidio-com.akamaized.net/uploads/1851907/ets-playlist-1200-9651c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dU7sMev.jpg" group-title="FTV Indonesia",Kekuatan Cintamu Bertegangan Tinggi
+#EXTINF:-1 group-title="FTV Indonesia",Kekuatan Cintamu Bertegangan Tinggi
 https://media-vidio-com.akamaized.net/uploads/1851126/ets-playlist-1200-a4cae.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K683k9C.jpg" group-title="FTV Indonesia",Dear Eneng Bebekku Sayang
+#EXTINF:-1 group-title="FTV Indonesia",Dear Eneng Bebekku Sayang
 https://media-vidio-com.akamaized.net/uploads/1850341/ets-playlist-1200-d8d99.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MDtFpDI.jpg" group-title="FTV Indonesia",Cowok Mreki Bikin Jatuh Hati
+#EXTINF:-1 group-title="FTV Indonesia",Cowok Mreki Bikin Jatuh Hati
 https://media-vidio-com.akamaized.net/uploads/1849322/ets-playlist-1200-b4b6b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92wN5J1.jpg" group-title="FTV Indonesia",Kue Leker Bukan Kaleng-Kaleng
+#EXTINF:-1 group-title="FTV Indonesia",Kue Leker Bukan Kaleng-Kaleng
 https://media-vidio-com.akamaized.net/uploads/1848390/ets-playlist-1200-1e6bc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8bx39J.jpg" group-title="FTV Indonesia",Bongkar Saldo Cinta Supir Truk Modis
+#EXTINF:-1 group-title="FTV Indonesia",Bongkar Saldo Cinta Supir Truk Modis
 https://media-vidio-com.akamaized.net/uploads/1847273/ets-playlist-1200-05e49.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuqOjBs.jpg" group-title="FTV Indonesia",Boss Killer Juteknya Level Halilintar 
+#EXTINF:-1 group-title="FTV Indonesia",Boss Killer Juteknya Level Halilintar
 https://media-vidio-com.akamaized.net/uploads/1846126/ets-playlist-1200-7f466.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYEXZth.jpg" group-title="FTV Indonesia",Click Bait Cinta si Tinggi
+#EXTINF:-1 group-title="FTV Indonesia",Click Bait Cinta si Tinggi
 https://media-vidio-com.akamaized.net/uploads/1844859/ets-playlist-900-11f1f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ez87H8M.jpg" group-title="FTV Indonesia",Cewek Cetar Turun Kasta Dapat Tahta
+#EXTINF:-1 group-title="FTV Indonesia",Cewek Cetar Turun Kasta Dapat Tahta
 https://media-vidio-com.akamaized.net/uploads/1844084/ets-playlist-900-719ca.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/91Euqp8.jpg" group-title="FTV Indonesia",Pacarku Cantik Tapi Boong
+#EXTINF:-1 group-title="FTV Indonesia",Pacarku Cantik Tapi Boong
 https://media-vidio-com.akamaized.net/uploads/1842685/ets-playlist-900-5265c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tsVFj0.jpg" group-title="FTV Indonesia",My Wife Ngeselin tapi Ngangenin
+#EXTINF:-1 group-title="FTV Indonesia",My Wife Ngeselin tapi Ngangenin
 https://media-vidio-com.akamaized.net/uploads/1841778/ets-playlist-1200-cc2b1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tm8GnCc.jpg" group-title="FTV Indonesia",Wig-mu Alihkan Duniaku
+#EXTINF:-1 group-title="FTV Indonesia",Wig-mu Alihkan Duniaku
 https://media-vidio-com.akamaized.net/uploads/1839114/ets-playlist-1200-d2f4f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xkCKmkH.jpg" group-title="FTV Indonesia",Aku Mau Cinta yang Hunya Hinyu
+#EXTINF:-1 group-title="FTV Indonesia",Aku Mau Cinta yang Hunya Hinyu
 https://media-vidio-com.akamaized.net/uploads/1836878/ets-playlist-1200-d38fb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KR9BOEn.jpg" group-title="FTV Indonesia",Mas Jawara In Your Area
+#EXTINF:-1 group-title="FTV Indonesia",Mas Jawara In Your Area
 https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/__idyxqWSwQNh0ays6GgyiX_jRo=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1835163/ftv-sctv-gadis-martabak-hampir-bahagia-a76ae3.jpg" group-title="FTV Indonesia",Gadis Martabak Hampir Bahagia
+#EXTINF:-1 group-title="FTV Indonesia",Gadis Martabak Hampir Bahagia
 https://media-vidio-com.akamaized.net/uploads/1835163/ets-playlist-1200-6cc14.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s-Tdlhk7A1va_mUKUikolaUvhp4=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1834053/ftv-sctv-tukang-bajaj-undercover-529e69.jpg" group-title="FTV Indonesia",Tukang Bajaj Undercover
+#EXTINF:-1 group-title="FTV Indonesia",Tukang Bajaj Undercover
 https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/PgRUMSVeZXYTEQbyAXKOFSlQmAU=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1832817/ftv-sctv-bidan-kw-sobat-ambyar-6e21b7.jpg" group-title="FTV Indonesia",Bidan KW Sobat Ambyar
+#EXTINF:-1 group-title="FTV Indonesia",Bidan KW Sobat Ambyar
 https://media-vidio-com.akamaized.net/uploads/1832817/ets-playlist-1200-2d37a.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EY6yK9fQdfGl5kaUyr3dvfCQ-4I=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1831851/ftv-sctv-sekretaris-metal-obat-patah-hati-b52711.jpg" group-title="FTV Indonesia",Sekretaris Metal Obat Patah Hati
+#EXTINF:-1 group-title="FTV Indonesia",Sekretaris Metal Obat Patah Hati
 https://media-vidio-com.akamaized.net/uploads/1831851/ets-playlist-700-63563.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AtxB11Mhq1Nt5_C7zrREQ2slNVs=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1830958/ftv-sctv-maduku-tak-sesederhana-truth-or-dare-80192f.jpg" group-title="FTV Indonesia",Maduku Tak Sesederhana Truth Or Dare
+#EXTINF:-1 group-title="FTV Indonesia",Maduku Tak Sesederhana Truth Or Dare
 https://media-vidio-com.akamaized.net/uploads/1830958/ets-playlist-700-c3146.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/E_cCxiO-KAMzkKfxoKKTdG8TDY4=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1738540/ftv-sctv-gebetan-gue-tajir-mewangi-1c657c.jpg" group-title="FTV Indonesia",Gebetan Gue Tajir Mewangi
+#EXTINF:-1 group-title="FTV Indonesia",Gebetan Gue Tajir Mewangi
 https://media-vidio-com.akamaized.net/uploads/1738540/ets-playlist-900-2c6c3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RVswb7ydkzobtM2mi5KiEL0U6M8=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1685902/ftv-sctv-ratu-diskon-cintanya-limited-edition-cecf79.jpg" group-title="FTV Indonesia",Ratu Diskon Cintanya Limited Edition
+#EXTINF:-1 group-title="FTV Indonesia",Ratu Diskon Cintanya Limited Edition
 https://media-vidio-com.akamaized.net/uploads/1685902/ets-playlist-1600-7bf91.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3Tdoto-u_SHIy9nJmviWkpMY31k=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1531510/ftv-sctv-pacarannya-sama-gue-nikahnya-sama-dia-sctv-7fca7c.jpg" group-title="FTV Indonesia",Pacarannya Sama Gue, Nikahnya Sama Dia
+#EXTINF:-1 group-title="FTV Indonesia",Nikahnya Sama Dia
 https://media-vidio-com.akamaized.net/uploads/1531510/ets-playlist-1600-bbe29.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vVr57fgOSTN3ZfkxGYGWKlcyly8=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1657106/ftv-sctv-my-wife-anak-geng-motor-5b956b.jpg" group-title="FTV Indonesia",My Wife Anak Geng Motor
+#EXTINF:-1 group-title="FTV Indonesia",My Wife Anak Geng Motor
 https://media-vidio-com.akamaized.net/uploads/1657106/ets-playlist-900-b2f1d.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rhdua7eMX9RD4ySPXgADkGqHijA=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1673681/ftv-sctv-mengejar-cinta-siap-bosque-sctv-06fedb.jpg" group-title="FTV Indonesia",Mengejar Cinta? Siap Bosque
+#EXTINF:-1 group-title="FTV Indonesia",Mengejar Cinta? Siap Bosque
 https://media-vidio-com.akamaized.net/uploads/1673681/ets-playlist-1600-e3afc.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Elcy1ZHRzH05oz5wx4gjua7ny9k=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1662722/ftv-sctv-milyader-kece-dengan-kearifan-lokal-48d6c2.jpg" group-title="FTV Indonesia",Milyader Kece Dengan Kearifan Lokal
+#EXTINF:-1 group-title="FTV Indonesia",Milyader Kece Dengan Kearifan Lokal
 https://media-vidio-com.akamaized.net/uploads/1662722/ets-playlist-1600-06596.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rqB_dXW-Eg3KldBRbyB854GPyNM=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1680605/ftv-sctv-digombalin-miss-kecambah-auto-baper-sctv-fbcd36.jpg" group-title="FTV Indonesia",Digombalin Miss Kecambah Auto Baper
+#EXTINF:-1 group-title="FTV Indonesia",Digombalin Miss Kecambah Auto Baper
 https://media-vidio-com.akamaized.net/uploads/1680605/ets-playlist-1600-baeae.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/weKT3npWhaaOotyjvvFYwiaG6uc=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1817788/ftv-sctv-cewek-kalong-pacaran-yuk-f6755f.jpg" group-title="FTV Indonesia",Cewek Kalong Pacaran Yuk
+#EXTINF:-1 group-title="FTV Indonesia",Cewek Kalong Pacaran Yuk
 https://media-vidio-com.akamaized.net/uploads/1817788/ets-playlist-700-0ed5d.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sNuXJl_4AjwNV7V2xisZ6GVwUX0=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1809819/ftv-sctv-demo-syantik-mahasiswi-cetar-626a2c.jpg" group-title="FTV Indonesia",Demo Syantik Mahasiswi Cetar 
+#EXTINF:-1 group-title="FTV Indonesia",Demo Syantik Mahasiswi Cetar
 https://media-vidio-com.akamaized.net/uploads/1809819/ets-playlist-1200-9219d.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LqgfOgBj1Nj7CL9FqWhIIpHcscg=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1819874/ftv-sctv-senoparty-goes-to-kandang-bebek-c8751b.jpg" group-title="FTV Indonesia",Senoparty Goes To Kandang Bebek
+#EXTINF:-1 group-title="FTV Indonesia",Senoparty Goes To Kandang Bebek
 https://geo-id-media-vidio-com.akamaized.net/uploads/1819874/ets-playlist-700-edafb.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/e8I27iyHqU6vE_Y-SNj-iL_YaEM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1822341/ftv-sctv-mantan-please-do-your-magic-a4d06f.jpg" group-title="FTV Indonesia",Mantan Please Do Your Magic
+#EXTINF:-1 group-title="FTV Indonesia",Mantan Please Do Your Magic
 https://media-vidio-com.akamaized.net/uploads/1822341/ets-playlist-700-666a1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4fEEWWDgCh4IK9dQ5jMF4wykwgQ=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1821183/ftv-sctv-jiwa-kejombloanku-terguncang-a3bc83.jpg" group-title="FTV Indonesia",Jiwa Kejombloanku Terguncang
+#EXTINF:-1 group-title="FTV Indonesia",Jiwa Kejombloanku Terguncang
 https://geo-id-media-vidio-com.akamaized.net/uploads/1821183/ets-playlist-1200-ed0d7.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vaxS2P_A4QZwuSgpKOtExHP10Y4=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1824246/ftv-sctv-rayuan-gombal-kumbang-metropolitan-9bb025.jpg" group-title="FTV Indonesia",Rayuan Gombal Kumbang Metropolitan
+#EXTINF:-1 group-title="FTV Indonesia",Rayuan Gombal Kumbang Metropolitan
 https://media-vidio-com.akamaized.net/uploads/1824246/ets-playlist-700-412b2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RH7PhvU4OC8CHLmDSH1AAeNRdG8=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1818856/seg-2-ftv-sctv-mbok-jamu-milenial-cintanya-ambyar-69f3d3.jpg" group-title="FTV Indonesia",Mbok Jamu Milenial Cintanya Ambyar
+#EXTINF:-1 group-title="FTV Indonesia",Mbok Jamu Milenial Cintanya Ambyar
 https://geo-id-media-vidio-com.akamaized.net/uploads/1818856/ets-playlist-700-87c71.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8-TGhih9JFVwWVWlNbkQACyTgIM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1823379/ftv-sctv-wasiat-eyang-bikin-baper-so-hard-fe0e52.jpg" group-title="FTV Indonesia",Wasiat Eyang Bikin Baper So Hard
+#EXTINF:-1 group-title="FTV Indonesia",Wasiat Eyang Bikin Baper So Hard
 https://media-vidio-com.akamaized.net/uploads/1823379/ets-playlist-700-75202.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u22zviQG0kxpabmRU4vodel7eCs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1748300/ftv-sctv-menantu-bayaran-bikin-salfok-duniaku-6be1cc.jpg" group-title="FTV Indonesia",Menantu Bayaran Bikin Salfok Duniaku
+#EXTINF:-1 group-title="FTV Indonesia",Menantu Bayaran Bikin Salfok Duniaku
 https://geo-id-media-vidio-com.akamaized.net/uploads/1748300/ets-playlist-900-3d669.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lLVR-JUIOtWSmyx5ukbYkNARg30=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/291848/ftv-sctv-resep-cinta-bikin-romantis-7a4a2b.jpg" group-title="FTV Indonesia",Resep Cinta Bikin Romantis
+#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Bikin Romantis
 https://geo-id-media-vidio-com.akamaized.net/uploads/291848/playlist-1200-2cc18.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TXT39JCV6ayXB6-Mv0LXDfpEqtM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/764168/ftv-sctv-cintaku-semerbak-di-florist-9905de.jpg" group-title="FTV Indonesia",Cintaku Semerbak di Florist
+#EXTINF:-1 group-title="FTV Indonesia",Cintaku Semerbak di Florist
 https://geo-id-media-vidio-com.akamaized.net/uploads/764168/playlist-1200-4c5f9.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YuTGJStV7v_34z26mauH5k-5gck=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1640672/ftv-sctv-resep-cinta-kaki-lima-rasa-bintang-lima-107998.jpg" group-title="FTV Indonesia",Resep Cinta Kaki Lima Rasa Bintang Lima
+#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Kaki Lima Rasa Bintang Lima
 https://media-vidio-com.akamaized.net/uploads/1640672/ets-playlist-1600-9abc2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YfOQ0Uq6IhswEfZ-CBeIybXc6gQ=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1220317/ftv-sctv-ratu-montir-sejagad-c91222.jpg" group-title="FTV Indonesia",Ratu Montir Sejagad
+#EXTINF:-1 group-title="FTV Indonesia",Ratu Montir Sejagad
 https://geo-id-media-vidio-com.akamaized.net/uploads/1220317/playlist-1200-33a98.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vIYY9RSTLicgZGOiBtoITHYhfAs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1177041/ftv-sctv-perempuan-dalam-sangkar-emas-sctv-4c1bb8.jpg" group-title="FTV Indonesia",Perempuan Dalam Sangkar Emas
+#EXTINF:-1 group-title="FTV Indonesia",Perempuan Dalam Sangkar Emas
 https://geo-id-media-vidio-com.akamaized.net/uploads/1177041/playlist-1200-bcc72.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/K5aGYurFjLqb9vZ53AWkCgaF7Hs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1228364/ftv-sctv-setangkai-rambutan-cinta-697e2c.jpg" group-title="FTV Indonesia",Setangkai Rambutan Cinta
+#EXTINF:-1 group-title="FTV Indonesia",Setangkai Rambutan Cinta
 https://geo-id-media-vidio-com.akamaized.net/uploads/1228364/playlist-1200-3004e.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vGSrGmKXpIz3u7aZV38bQE8bCTE=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/829290/ftv-sctv-pacarku-sang-juara-no-27-0a9a7b.jpg" group-title="FTV Indonesia",Pacarku Sang Juara No 27
+#EXTINF:-1 group-title="FTV Indonesia",Pacarku Sang Juara No 27
 https://geo-id-media-vidio-com.akamaized.net/uploads/829290/playlist-1200-4ce7f.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NfVORRr3XkprGhdpnEkNG6nEUo8=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1651054/ftv-sctv-hatiku-di-skakmat-by-you-0c7008.jpg" group-title="FTV Indonesia",Hatiku di Skakmat by You
+#EXTINF:-1 group-title="FTV Indonesia",Hatiku di Skakmat by You
 https://media-vidio-com.akamaized.net/uploads/1651054/ets-playlist-1600-119ef.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Z4KzfziP_Ro0wqOEkQKPttIphNY=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1635620/ftv-sctv-gadis-62-lupa-cinta-f1e490.jpg" group-title="FTV Indonesia",Gadis +62 Lupa Cinta
+#EXTINF:-1 group-title="FTV Indonesia",Gadis +62 Lupa Cinta
 https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/a5xnnyJ88yo7EDZaxc12V-ZMOGg=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1608387/ftv-sctv-energi-cinta-cinderella-matre-0af4fb.jpg" group-title="FTV Indonesia",Energi Cinta Cinderella Matre
+#EXTINF:-1 group-title="FTV Indonesia",Energi Cinta Cinderella Matre
 https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HyiREIU.jpg" group-title="HEART SERIES",HEART S01E13
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E13
 https://media-vidio-com.akamaized.net/uploads/1861899/ets-heart-20eps-2013_fnl_rvs-dc25_5aa6f932_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPniVN0.jpg" group-title="HEART SERIES",HEART S01E12
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E12
 https://media-vidio-com.akamaized.net/uploads/1854577/ets-heart-20eps-2012_fnl-ea3f_8ad0e2f4_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CXCnwpH.jpg" group-title="HEART SERIES",HEART S01E11
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E11
 https://media-vidio-com.akamaized.net/uploads/1847631/ets-heart-20eps-2011_fnl-20rvs-20fix-c079_59ea2bcc_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hafe2j1.jpg" group-title="HEART SERIES",HEART S01E10
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E10
 https://media-vidio-com.akamaized.net/uploads/1841277/ets-heart-20eps-2010_fnl-9c57_f6ed4238_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/axtZpsh.jpg" group-title="HEART SERIES",HEART S01E09
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E09
 https://media-vidio-com.akamaized.net/uploads/1835555/ets-heart_eps-209_mix_logo-20id-20bawah-d653_bbe51e20_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqiyXGb.jpg" group-title="HEART SERIES",HEART S01E08
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E08
 https://media-vidio-com.akamaized.net/uploads/1828308/ets-heart_eps-208_mix_logo-20id-20bawah-b023_d7b7e890_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lfc9Pqo.jpg" group-title="HEART SERIES",HEART S01E07
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E07
 https://media-vidio-com.akamaized.net/uploads/1820525/ets-heart_eps-207_mix_logo-20id-20bawah-213b_fcf9ad7a_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yp1rkDi.jpg" group-title="HEART SERIES",HEART S01E06
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E06
 https://media-vidio-com.akamaized.net/uploads/1813733/ets-heart_eps-206_mix_logo-20id-20bawah-7249_81ad6678_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmFsXP7.jpg" group-title="HEART SERIES",HEART S01E05
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E05
 https://media-vidio-com.akamaized.net/uploads/1803921/ets-heart_eps-205_mix_logo-20id-20bawah-1469_8a5f5e5c_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdm0vOi.jpg" group-title="HEART SERIES",HEART S01E04
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E04
 https://media-vidio-com.akamaized.net/uploads/1793946/ets-heart_eps-2004_mix_logo-20bawah-53ff_b45e6bb5_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FCTZz5y.jpg" group-title="HEART SERIES",HEART S01E03
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E03
 https://media-vidio-com.akamaized.net/uploads/1787164/ets-heart_eps-203_mix_logo-20bawah-61c2_cd3f6d78_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hGIKGXi.jpg" group-title="HEART SERIES",HEART S01E02
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E02
 https://media-vidio-com.akamaized.net/uploads/1778516/ets-eps_02-20heart-20online-20mix_logo-20bawah-2782_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AblWqdq.jpg" group-title="HEART SERIES",HEART S01E01
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E01
 https://media-vidio-com.akamaized.net/uploads/1766535/ets-eps_01-20heart-20online-20mix_logo-20bawah-f594_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fcJMeV.jpg" group-title="FILM INDONESIA",Akibat Hamil Muda (1993) 
-https://www.googleapis.com/drive/v3/files/1o8qTvUcYya9MxtiRaznSm9j8rgZF4yie?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://img.tek.id/img/content/2019/09/02/19983/gundala-superhero-lokal-yang-tampil-apik-1iyTImFzMO.jpg" group-title="FILM INDONESIA",Gundala (2019) [1080]
+#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [1080]
 https://www.googleapis.com/drive/v3/files/1FkKXOrwqpcYwITFyMdnyynsknXF5wlgb?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://img.tek.id/img/content/2019/09/02/19983/gundala-superhero-lokal-yang-tampil-apik-1iyTImFzMO.jpg" group-title="FILM INDONESIA",Gundala (2019) [720]
+#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [720]
 https://www.googleapis.com/drive/v3/files/1Pzc1aOuqaiBOKBi8mJeOBMeA8y2Lhvkk?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://img.tek.id/img/content/2019/09/02/19983/gundala-superhero-lokal-yang-tampil-apik-1iyTImFzMO.jpg" group-title="FILM INDONESIA",Gundala (2019) [Backup]
+#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [Backup]
 http://www.supercartube.com/media/videos/h264/999_720p.mp4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-pSE0rQ7lyDE/Uy2StgL_m_I/AAAAAAAAATw/CCUYc_DW-34/s1600/images.jpeg" group-title="FILM INDONESIA",Setetes Noda Manis (1994) [720p]
+#EXTINF:-1 group-title="FILM INDONESIA",Setetes Noda Manis (1994) [720p]
 https://cdn-stream.metube.id/videom3u8/IQPzJVerMxx6sVUwsoLE/720p/list.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4D9mwcv.jpg" group-title="FILM INDONESIA",Si Doel the Movie 1 (2018) 
-http://139.99.80.145/vod/Si%20Doel%20the%20Movie.mp4
-#EXTINF:-1 tvg-logo="https://id.bookmyshow.com/blog-hiburan/wp-content/uploads/2019/05/Si-Doel-the-Movie-2-book-now.jpg" group-title="FILM INDONESIA",Si Doel the Movie 2 (2019) [720p]
-http://i55.indiworlds.com:182/d/2milq24j7db4joax4eda3nhs3zorryzevfyvqfndoq3tqv5mr7mkghu7ymgkfru4p6u2pnf2/Si.Doel.the.Movie.2.2019.WEB-DL.720p.FMZM.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6irnST.jpg" group-title="FILM INDONESIA",Twivortiare (2019) [720p]
-https://www.googleapis.com/drive/v3/files/1kS6kHoNS8H0mJM0UP-9xyV_56Nh4vbS6?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6irnST.jpg" group-title="FILM INDONESIA",Twivortiare (2019) [1080p]
-https://www.googleapis.com/drive/v3/files/1lNqXj0Hjsii8Rkk8K3YH-B-Q_dOTDetA?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHNoDYs.jpg" group-title="FILM INDONESIA",Wedding Agreement (2019) [720p]
-https://www.googleapis.com/drive/v3/files/1r6i_pDTrXqDRAwP05MNldCu9yki1kzW7?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHNoDYs.jpg" group-title="FILM INDONESIA",Wedding Agreement (2019) [1080p]
-https://www.googleapis.com/drive/v3/files/15gT6RVm4aZ7GQ0pJppnTFp6rIIVWYKuf?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UfHWKXj.jpg" group-title="FILM INDONESIA",Wiro Sableng (2018) [720p]
-https://www.googleapis.com/drive/v3/files/1Df58qC_1Xm1Wwau_1pDOKJqG1XkhIDgh?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SpfPUwQ.png" group-title="FILM INDONESIA NEW",Basahhh [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Basahhh [720p]
 https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b1600.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SpfPUwQ.png" group-title="FILM INDONESIA NEW",Basahhh [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Basahhh [1080p]
 https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hma6NE1.png" group-title="FILM INDONESIA NEW",Get Married 3 [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 3 [720p]
 https://media-vidio-com.akamaized.net/uploads/1507491/get-20married-203-20feature-20-20convert-08af-b1200.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hma6NE1.png" group-title="FILM INDONESIA NEW",Get Married 3 [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 3 [1080p]
 https://media-vidio-com.akamaized.net/uploads/1507491/ets-get-20married-203-20feature-20-20convert-08af-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Qv7fs6.png" group-title="FILM INDONESIA NEW",Get Married 2 [360p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 2 [360p]
 https://media-vidio-com.akamaized.net/uploads/1507784/ets-get-20married-202-20feature-20-20convert-fea7-b900.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/soRaypa.png" group-title="FILM INDONESIA NEW",Get Married 1 [416p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 1 [416p]
 https://media-vidio-com.akamaized.net/uploads/1507783/get-20married-20feature-20-20convert-ea65-b1200.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WphvYvx.png" group-title="FILM INDONESIA NEW",Ketika [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Ketika [720p]
 https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b1600.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WphvYvx.png" group-title="FILM INDONESIA NEW",Ketika [1080]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Ketika [1080]
 https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vmRLYO.png" group-title="FILM INDONESIA NEW",Kukejar Cinta ke Negeri Cina [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Kukejar Cinta ke Negeri Cina [720p]
 https://media-vidio-com.akamaized.net/uploads/1508152/kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b1200.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vmRLYO.png" group-title="FILM INDONESIA NEW",Kukejar Cinta ke Negeri Cina [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Kukejar Cinta ke Negeri Cina [1080p]
 https://media-vidio-com.akamaized.net/uploads/1508152/ets-kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VPVLs4s.png" group-title="FILM INDONESIA NEW",Manusia Setengah Salmon [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Manusia Setengah Salmon [720p]
 https://media-vidio-com.akamaized.net/uploads/1508117/manusia-20setengah-20salmon-20feature-convert-39e7-b1200.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VPVLs4s.png" group-title="FILM INDONESIA NEW",Manusia Setengah Salmon [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Manusia Setengah Salmon [1080p]
 https://media-vidio-com.akamaized.net/uploads/1508117/ets-manusia-20setengah-20salmon-20feature-convert-39e7-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8JLCTTn.jpg" group-title="FILM INDONESIA NEW",Mau dong... ah [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Mau dong... ah [720p]
 https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_6f3c5f3e_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8JLCTTn.jpg" group-title="FILM INDONESIA NEW",Mau dong... ah [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Mau dong... ah [1080p]
 https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_2f4d8615_premier.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XuuTcEP.jpg" group-title="FILM INDONESIA NEW",Promise [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Promise [720p]
 https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_805ceb28_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XuuTcEP.jpg" group-title="FILM INDONESIA NEW",Promise [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Promise [1080p]
 https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_b07d8137_premier.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fK2ulTl.jpg" group-title="FILM INDONESIA NEW",Quickie Express [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Quickie Express [720p]
 https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b1600.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fK2ulTl.jpg" group-title="FILM INDONESIA NEW",Quickie Express [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Quickie Express [1080p]
 https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfjT1di.jpg" group-title="FILM INDONESIA NEW",Super Didi [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Super Didi [720p]
 https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b1600.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfjT1di.jpg" group-title="FILM INDONESIA NEW",Super Didi [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Super Didi [1080p]
 https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcSZCy1.jpg" group-title="FILM INDONESIA NEW",The Mentalist [720p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",The Mentalist [720p]
 https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b1600.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcSZCy1.jpg" group-title="FILM INDONESIA NEW",The Mentalist [1080p]
+#EXTINF:-1 group-title="FILM INDONESIA NEW",The Mentalist [1080p]
 https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b8000.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXzpBw5B/keris-siamang-tunggal.jpg" group-title="FILM INDONESIA NEW",Kris Siamang Tunggal
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Kris Siamang Tunggal
 https://video.fsub8-1.fna.fbcdn.net/v/t39.24130-2/10000000_472054756773940_6572890734099874254_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_p2p=0&_nc_oc=AQnzi5Darj69U7rRD6O2Af_DEhULydj9BXPJK3inXmRW2WTJk5iSzbZ7clgZVkGaLho&_nc_ht=video.fsub8-1.fna&oh=af4dd576448e3e78a1ec3a5cf3820836&oe=5EC846E8
