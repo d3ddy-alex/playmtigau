@@ -123,7 +123,7 @@ https://live.mawintv2.com/02_NatPeopleHD_720p/chunklist.m3u8
 https://live.mawintv2.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1 group-title="DISCOVERY CHANNEL",MYSCI HD
 https://live.mawintv2.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies",channel8thailand
+#EXTINF:-1 group-title="Movies",channel8thailand
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Movie CH1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
@@ -137,7 +137,7 @@ http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
 http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movies",upmovie
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movies",channel8thailand
+#EXTINF:-1 group-title="Movies",channel8thailand+
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 group-title="Docu",Explore Life
@@ -164,7 +164,6 @@ https://www.doofree88.com/streaming/hd-history_720/index.m3u8
 https://www.doofree88.com/streaming/hd-natgeo_720/index.m3u8
 #EXTINF:-1 group-title="Docu",Discovery Asia
 https://www.doofree88.com/streaming/hd-discovery_720/index.m3u8
-
 #EXTINF:-1 group-title="KIDS",Spark Play
 https://www.doofree88.com/streaming/sd-sparkplay_480/index.m3u8
 #EXTINF:-1 group-title="KIDS",Spark Jump
@@ -228,29 +227,37 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png" group-title="TV Lokal",GTV
 https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="TV Lokal",ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/8d5d9996-a900-11e9-987e-825088dfe94c/qwr9ew/s/s102/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="TV Lokal",INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="TV Lokal",TVRI
 https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="TV Lokal",RTV
 http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="TV Lokal",RCTI+
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hhVMBt96/MNCTV.png" group-title="TV Lokal",MNCTV
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R3MxcYvV/ITV.png" group-title="TV Lokal",iNewsTV
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="TV Lokal",Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="TV Lokal",TV ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
+#http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="TV Lokal",SCTV
-http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="TV Lokal",KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+https://dl.dropbox.com/s/1dmro5w278wwb6r/Kompas2.m3u8?dl=0
+#http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+#http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="TV Lokal",NET TV
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://dl.dropbox.com/s/7nsujica2t6rxen/NetTv2.m3u8?dl=0
+#http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZBQkzKpC/JAWAPOS.png" group-title="TV Lokal",Jawapos TV
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 #EXTINF:-1 group-title="TV Lokal",MYTV
@@ -3151,6 +3158,26 @@ https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="India",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
+#EXTINF:-1 group-title="India",sony entairnment
+http://1959377946.rsc.cdn77.org/1959377946/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India",Sony max
+http://1132864118.rsc.cdn77.org/1132864118/index.m3u8
+#EXTINF:-1 group-title="India",Colors
+http://1784075063.rsc.cdn77.org/1784075063/index.m3u8
+#EXTINF:-1 group-title="India",ZEE BOLLYWOOD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
+#EXTINF:-1 group-title="India",STAR GOLD
+http://skdn.redi-vo.com/iptv/ch1704?code=103131497823984&key=40708
+#EXTINF:-1 group-title="India",STAR PLUS
+http://skdn.redi-vo.com/iptv/ch1706?code=103131497823984&key=41959
+#EXTINF:-1 group-title="India",COLORS HD
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49779
+#EXTINF:-1 group-title="India",ZEE CINEMA
+http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
+#EXTINF:-1 group-title="India",BEIN MOVIES 1
+http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
+#EXTINF:-1 group-title="India",BEIN MOVIES 2
+http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
 #EXTINF:-1 group-title="Japan",BS 日本映画
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8
 #EXTINF:-1 group-title="Japan",BS 日本映画
