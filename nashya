@@ -1464,20 +1464,20 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",MNC Sport 2 -INDO-
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT 1
-http://bit.ly/39OuUDJ
-#http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+#http://bit.ly/39OuUDJ
 #https://dl.dropbox.com/s/75azqlctqjx5dba/netizen_astro1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT2
-http://bit.ly/38NriSs
-#http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+#http://bit.ly/38NriSs
 #https://dl.dropbox.com/s/c2zsw10qdub584b/netizen_astro2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT 3
-http://bit.ly/2SLIUIZ
-#http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+#http://bit.ly/2SLIUIZ
 #https://dl.dropbox.com/s/v0h68576s8rc717/netizen_astro3.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT 4
-http://bit.ly/2vRMEja
-#http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+#http://bit.ly/2vRMEja
 #https://dl.dropbox.com/s/6tma11wgc3w0srn/netizen_astro4.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SKYNET1 sport SD
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
