@@ -808,11 +808,13 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
+https://etslive-2-vidio-com.akamaized.net/exp=1580395362~acl=/hls-p/ingest_geo_6685_*/*~hmac=9b531f5ac174297a12ebac25ec2793405e92da406d39b31a607d9f91562a88e3/hls-p/ingest_geo_6685_720p/index.m3u8
+#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
+https://etslive-2-vidio-com.akamaized.net/exp=1580395403~acl=/hls-p/ingest_geo_6686_*/*~hmac=db3d69e5f9a640076c290df143f4105030873b08b984b89954779a45d32e41d8/hls-p/ingest_geo_6686_720p/index.m3u
+#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports
@@ -822,11 +824,13 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Liga Indonesia
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",USEE SPORT 1 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
+https://edgejt6.useetv.com/joss/15/useesport/chunklist_w820764305_b1344100_sleng.m3u8?enc=wSrHzFKztEPeJjc1yQ4fTA&exp=1580326484
+#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
 #EXTINF:-1 group-title="Nashya Sport",Usee Sport 1
 https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",USEE SPORT 2 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
+https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w1573499887_b1344100_sleng.m3u8?enc=bqaiQVjG_S0dwcAa6U1uuw&exp=1580326513
+#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
 #EXTINF:-1 group-title="Nashya Sport",Usee Sport 2
 https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports 1
