@@ -817,10 +817,10 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Liga Indonesia
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Usee Sport 1
-https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",Usee Sport 2
-https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
+#EXTINF:0 group-title="Nashya Sport",USEE SPORT 1
+https://dl.dropboxusercontent.com/s/ytgv5aqzwg6qufg/useesport1.m3u8?dl=0
+#EXTINF:0 group-title="Nashya Sport",USEE SPORT 2
+https://dl.dropboxusercontent.com/s/2lcoa00kgw31nhw/useesport2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports 2
@@ -1455,10 +1455,10 @@ http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
 https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Liga Indonesia 2
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Usee Sport 1
-https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Usee Sport 2
-https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
+#EXTINF:0 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",USEESPORT 1
+https://dl.dropboxusercontent.com/s/ytgv5aqzwg6qufg/useesport1.m3u8?dl=0
+#EXTINF:0 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",USEESPORT 2
+https://dl.dropboxusercontent.com/s/2lcoa00kgw31nhw/useesport2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Champions tv 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Champions tv 2
