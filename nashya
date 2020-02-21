@@ -6,11 +6,11 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist.m3u
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv", Selamat Menikmati
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Kalau buffer harap maklum
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/logos/tivi/musictv.png" group-title="NashyaIPtv",Kalau buffer harap maklum
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",channel gratisan
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/logos/tivi/mtvhits.png" group-title="NashyaIPtv",channel gratisan
 http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Link Mati diganti dengan yang lain
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/logos/tivi/channelv.png" group-title="NashyaIPtv",Link Mati diganti dengan yang lain
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="NashyaIPtv", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
@@ -50,7 +50,7 @@ https://dl.dropbox.com/s/9t5mmkp3s5366dt/Berita%20satu.m3u8?dl=0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="tvg-logo="https://tvbeta.my.id/logos/tivi/cnnin.png" group-title="NashyaIPtv", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w978902341_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="NashyaIPtv",NIFTY
+#EXTINF:-1 tvg-logo="" group-title="NashyaIPtv",NIFTY
 https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="NashyaIPtv", idKU
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
@@ -76,6 +76,7 @@ https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southea
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
+
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/thrill.png" group-title="NashyaIPtv",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/thrill.png" group-title="NashyaIPtv",Thrill HD
@@ -86,42 +87,24 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 group-title="Movies",FOX Action Movies
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NashyaIPtv",Astro Fox Action Movies
-http://3.0.93.95:25461/fox_fbr/id/3
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fofamo.png" group-title="Movies",FOX Family Movies HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fofamo.png" group-title="NashyaIPtv",FOX Family Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://tvbeta.my.id/logos/tivi/fofamo.png" group-title="NashyaIPtv",Fox Movies Family
-http://3.0.93.95:25461/fox_fbr/id/2
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/fox.png" group-title="NashyaIPtv",Fox
-http://3.0.93.95:25461/fox_fbr/id/4
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/fox.png" group-title="NashyaIPtv",FOX HD
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-#EXTINF:-1tvg-logo="https://tvbeta.my.id/logos/tivi/foxmo.png"  group-title="NashyaIPtv",Fox Movies
-http://3.0.93.95:25461/fox_fbr/id/1
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/foxmo.png" group-title="NashyaIPtv",FOX Movies HD
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/hitsmovies.png" group-title="NashyaIPtv",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/foxcrime.png" group-title="NashyaIPtv",FOX Crime HD
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/foxcrime.png" group-title="NashyaIPtv",Fox Crime
-http://3.0.93.95:25461/fox_fbr/id/5
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="NashyaIPtv",Fox Life
-http://3.0.93.95:25461/fox_fbr/id/6
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/logos/tivi/foxlife.png" group-title="Entertainment",FOX Life HD
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="NashyaIPtv",Fox Sport 1
-http://3.0.93.95:25461/fox_fbr/id/7
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="NashyaIPtv",FOX Sport 1 HD
 https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="NashyaIPtv",Fox Sport 2
-http://3.0.93.95:25461/fox_fbr/id/8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="NashyaIPtv",FOX Sport 2 HD
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="NashyaIPtv",Fox Sport 3
-http://3.0.93.95:25461/fox_fbr/id/9
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="NashyaIPtv",FOX Sport 3 HD
 https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4KBkw13v/JGO.png" group-title="NashyaIPtv",JGO
@@ -808,13 +791,11 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580395362~acl=/hls-p/ingest_geo_6685_*/*~hmac=9b531f5ac174297a12ebac25ec2793405e92da406d39b31a607d9f91562a88e3/hls-p/ingest_geo_6685_720p/index.m3u8
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580395403~acl=/hls-p/ingest_geo_6686_*/*~hmac=db3d69e5f9a640076c290df143f4105030873b08b984b89954779a45d32e41d8/hls-p/ingest_geo_6686_720p/index.m3u
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports
@@ -824,15 +805,21 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Liga Indonesia
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",USEE SPORT 1 HD
-https://edgejt6.useetv.com/joss/15/useesport/chunklist_w820764305_b1344100_sleng.m3u8?enc=wSrHzFKztEPeJjc1yQ4fTA&exp=1580326484
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
 #EXTINF:-1 group-title="Nashya Sport",Usee Sport 1
 https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",USEE SPORT 2 HD
-https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w1573499887_b1344100_sleng.m3u8?enc=bqaiQVjG_S0dwcAa6U1uuw&exp=1580326513
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
 #EXTINF:-1 group-title="Nashya Sport",Usee Sport 2
 https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
+#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 1
+http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 2
+http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 3
+http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 4
+http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports 2
@@ -1467,14 +1454,14 @@ http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
 https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",Liga Indonesia 2
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",USEESPORT 1
-https://dl.dropboxusercontent.com/s/ytgv5aqzwg6qufg/useesport1.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",USEESPORT 2
-https://dl.dropboxusercontent.com/s/2lcoa00kgw31nhw/useesport2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",CHAMPIONtv 1
-https://dl.dropboxusercontent.com/s/6cim8t5aq5ta2n3/Champ1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png"group-title="Sportivo Nashya",CHAMPIONtv 2
-https://dl.dropboxusercontent.com/s/1rxru3jj70b5tmv/Champ2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Usee Sport 1
+https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Usee Sport 2
+https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Soccer Channel 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Soccer Channel 2
@@ -1484,20 +1471,20 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",MNC Sport 2 -INDO-
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT 1
-http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
-#http://bit.ly/39OuUDJ
+http://bit.ly/39OuUDJ
+#http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
 #https://dl.dropbox.com/s/75azqlctqjx5dba/netizen_astro1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT2
-http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
-#http://bit.ly/38NriSs
+http://bit.ly/38NriSs
+#http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
 #https://dl.dropbox.com/s/c2zsw10qdub584b/netizen_astro2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT 3
-http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
-#http://bit.ly/2SLIUIZ
+http://bit.ly/2SLIUIZ
+#http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
 #https://dl.dropbox.com/s/v0h68576s8rc717/netizen_astro3.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ASTRO SUPER SPORT 4
-http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
-#http://bit.ly/2vRMEja
+http://bit.ly/2vRMEja
+#http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #https://dl.dropbox.com/s/6tma11wgc3w0srn/netizen_astro4.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SKYNET1 sport SD
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
@@ -1513,26 +1500,6 @@ http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",SKYNET8 sport SD
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 1
-https://dl.dropbox.com/s/74vitvt2lma1rgg/Livesport.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 2
-https://dl.dropbox.com/s/olmtah18gge0km6/Livesport2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 3
-https://dl.dropbox.com/s/iuv41s0sxrg3mo3/Live1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 4
-https://dl.dropbox.com/s/l4flpns7pmkzuv5/Live2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 5
-https://dl.dropbox.com/s/vhmldfggh4noa8y/Live3.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 6
-https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live%204.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 7
-https://dl.dropbox.com/s/7trldus602grhbm/Live%205.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1581695636/ei/NG5GXp27Ho-S1Aa65bRo/ip/125.164.157.158/id/zdZ0eIfhbzQ.0/source/yt_live_broadcast/requiressl/yes/tx/23813227/txs/23813225%2C23813226%2C23813227%2C23813228%2C23813229%2C23813230%2C23813231/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgf1oGRk1Qak_rhfmOOrVQXXfFSkwqXz0Jwmgf7XTikxYCIQDWQl95kHXOKdA_uQkpZ82E5xbfzX_HDIT6-gd3A_jWPw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 9
-https://dl.dropbox.com/s/omttlx53wpraf77/Bein1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya", Sport Nashya 10
-https://dl.dropbox.com/s/piieteu6mq49rp3/Bein2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ST Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",ST Sports Premium
@@ -1541,16 +1508,6 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_300_320x24
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_300_320x240_197186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",All Sport
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sport 1
-http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sport 2
-http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sport 4
-http://95.170.215.101/hls/m3u8/Bein-S4-gf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sport 6
-http://95.170.215.101/hls/m3u8/Bein-S6-vnb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",Bein Sport 5
-http://95.170.215.101/hls/m3u8/Bein-S5-sx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",CMORE Sport
 http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcMjmVz.png" group-title="Sportivo Nashya",CMORE Sport Football
@@ -2557,6 +2514,7 @@ https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv
 #EXTINF:-1 group-title="VoD 24/7",Giọng Ải Giọng Ai KOREA
 https://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049.flv
 
+
 #EXTINF:-1 group-title="Nashya ID Backup",Trans7
 https://dl.dropbox.com/s/3tnb8vrsswwhcfy/Trans7.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",Trans TV
@@ -3350,6 +3308,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="Asia",Workpoint
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
+
 #EXTINF:-1 group-title="Taiwan",中視新聞
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
 #EXTINF:-1 group-title="Taiwan",中华卫视台湾
