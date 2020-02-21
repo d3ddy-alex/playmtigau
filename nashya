@@ -3338,6 +3338,86 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="Asia",Workpoint
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
+#EXTINF:-1 group-title="Taiwan",中視新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+#EXTINF:-1 group-title="Taiwan",中华卫视台湾
+http://pull.leshantangjt.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",原住民族電視
+https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Taiwan",有線新聞
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+#EXTINF:-1 group-title="Taiwan",優視卫视
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 group-title="Taiwan",亞美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="Taiwan",信吉電視
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 group-title="Taiwan",新唐人中国
+https://live2.ntdimg.com/cnlive/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",新唐人美西臺
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",新唐人美东臺
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",新唐人旧金山臺
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",新唐人加西臺
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",新唐人加东臺
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",緯來育樂
+https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+#EXTINF:-1 group-title="Taiwan",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="Taiwan",臺新聞
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",台灣藝術
+http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 group-title="Taiwan",台視新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+#EXTINF:-1 group-title="Taiwan",台視財經
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#EXTINF:-1 group-title="Taiwan",人間衛視
+http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="Taiwan",美国中文电视
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 group-title="Taiwan",加拿大中文电视台
+http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
+#EXTINF:-1 group-title="Taiwan",加拿大国家电视台
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:-1 group-title="Taiwan",華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",凤凰资讯
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 group-title="Taiwan",凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 group-title="Taiwan",番薯
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+#EXTINF:-1 group-title="Taiwan",大愛一
+http://tv1.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 group-title="Taiwan",大愛海外
+https://tv3.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 group-title="Taiwan",大愛二
+https://tv2.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 group-title="Taiwan",yansimamuzikTV
+https://usb.bozztv.com/ssh101/yansimamuzikTV/yansimamuzikTV/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",VOA卫视
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0540_av-b.m3u8
+#EXTINF:-1 group-title="Taiwan",Relaxing Guitar Music
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="Taiwan",News Net (HD)
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+#EXTINF:-1 group-title="Taiwan",FASHIONTV
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="Taiwan",Electric Now
+https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF:-1 group-title="Taiwan",5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="Taiwan",5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="Taiwan",5m Kitchen Hacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 #EXTINF:-1 group-title="Taiwan",SinoVision
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 group-title="Taiwan",Star China Movie
