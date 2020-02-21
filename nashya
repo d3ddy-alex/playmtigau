@@ -807,20 +807,28 @@ https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:0 group-title="Nashya Sport",CHAMPION 1
-https://dl.dropboxusercontent.com/s/6cim8t5aq5ta2n3/Champ1.m3u8?dl=0
-#EXTINF:0 group-title="Nashya Sport",CHAMPION 2
-https://dl.dropboxusercontent.com/s/1rxru3jj70b5tmv/Champ2.m3u8?dl=0
+#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
+#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
+#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Liga Indonesia
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:0 group-title="Nashya Sport",USEE SPORT 1
-https://dl.dropboxusercontent.com/s/ytgv5aqzwg6qufg/useesport1.m3u8?dl=0
-#EXTINF:0 group-title="Nashya Sport",USEE SPORT 2
-https://dl.dropboxusercontent.com/s/2lcoa00kgw31nhw/useesport2.m3u8?dl=0
+#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 1 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
+#EXTINF:-1 group-title="Nashya Sport",Usee Sport 1
+https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
+#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 2 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
+#EXTINF:-1 group-title="Nashya Sport",Usee Sport 2
+https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports 2
