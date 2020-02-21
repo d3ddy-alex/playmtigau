@@ -6,11 +6,11 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist.m3u
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv", Selamat Menikmati
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF-1 tvg-logo="https://tvbeta.my.id/logos/tivi/musictv.png" group-title="NashyaIPtv",Kalau buffer harap maklum
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Kalau buffer harap maklum
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
-#EXTINF-1 tvg-logo="https://tvbeta.my.id/logos/tivi/mtvhits.png" group-title="NashyaIPtv",channel gratisan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",channel gratisan
 http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
-#EXTINF-1 tvg-logo="https://tvbeta.my.id/logos/tivi/channelv.png" group-title="NashyaIPtv",Link Mati diganti dengan yang lain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Link Mati diganti dengan yang lain
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="NashyaIPtv", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
