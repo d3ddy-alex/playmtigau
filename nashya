@@ -790,14 +790,12 @@ https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNrdr8N/chamo1logo.png" group-title="SPORT", CHAMPION TV1 HD
 https://b27v.broiptv.online/play/free.broiptv@broiptv.online/r6p1ME53/RXhNZ8UQ/rattus/champion_tv_1/playlist.m3u8
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTkpBBS/chamo2logo.png" group-title="SPORT", CHAMPION TV2 HD
+https://b27v.broiptv.online/play/free.broiptv@broiptv.online/r6p1ME53/RXhNZ8UQ/rattus/champion_tv_2/playlist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/r6p1ME53/RXhNZ8UQ/rattus/champion_tv_2/playlist.m3u8
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS TV2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports
