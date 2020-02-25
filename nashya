@@ -87,7 +87,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
 http://bit.ly/2T4i0L6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
-http://123.30.146.182:8080/hbo/video.m3u8?token=DSZ8YofrK0
+http://ktu.ktuiptvapp.com/livetv/ktuiptv-2229.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
@@ -1904,6 +1904,42 @@ https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-
 https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="MOVIES 24/7",Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1 group-title="VOD Nashya",Dolittle (2020)
+https://cdn.apidev.icu/drive/index.php?id=yltExAlYfp%2BhaE1lffQlYwc6NP0CG4nbLqXjhST2e99h311GvT%2BxFw42yQIsN0ev5YLL4q1Hi8eVrOhdoVFSPrKQRJpBvU0KEyP%2BpgAaVpCfd6NEV3RXXWxsccLwcQMCa%2B%2BC4Q8RyMN0ailE2MDuqH&ref=&res=default
+#EXTINF:-1 group-title="VOD Nashya",Bulletproof 2 (2020)
+https://cdn.cloneapi.icu/drive/index.php?id=LCwLf9eWOuVyFDFCukQt8Q3NqTMlgcOI0gSa2fnyOOQ7EwLFQoqH1nuC3o3lEVM20Z5ZWsW3ReuaChAzvp5%2Ff0K%2FVFg9xBeSdb%2F6cycO3Mpe4P1C%2ByYxKeuZiKXsuETbxmEpPZxZSGRGsp2TjyJ4bI&ref=&original=yes
+#EXTINF:-1 group-title="VOD Nashya",The Turning (2020)
+https://cdn.cloneapi.icu/drive/index.php?id=1NtYWvWvOz2%2BCGkyCPMpPAdpKYE2oJQCyyZ%2F29zRp9%2F2q%2FBIA%2BiwYxTs4ehEXIye6ZfKKV1qpTXporsn8pffNE0NHrWW4ZJIkN2hbvuaIzUZGr6AHjY0djBrEI8xGdPrPR2gRzDj5OoUU1SOiw4IueZLFtMT8H1sCRjutBThLnt6Gd55EJRIOJlJ7uOemmM8%2F5cFJ0VUyUDCQ%2BbwG0nkwMGqzQEY5tPDQgkPNIW6YRuQ%3D%3D&ref=https%3A%2F%2Fdatabase.gdriveplayer.us%2Fplayer.php%3Fimdb%3Dtt7510346&original=yes
+#EXTINF:-1 group-title="VOD Nashya",Underwater (2020)
+https://gdrivecdn.us/drive/redir.php?id=b009d1a75cfcb2c62f6a722a4cef5d92&type=movie&ids=19144&judul=Underwater+%282020%29
+#EXTINF:-1 group-title="VOD Nashya",Tusuk Jelangkung (2018)
+https://cdn.clonefile.icu/drive/index.php?id=nMGdmXKhEZDvYLI%2BI%2BdkfQt3kE7BMa3ZHd0Kj10zcwc3LBPji%2FlRtDEl%2B1u5cdvJQ4lzFFZfya48nPzTiBP63%2Fqa9aD6o7V%2B7BzG62QCb4A660gWc3w5Pz631zhuwE4c7lcq58%2F%2FFyS%2FdPBjGgc2OqbH39FbDZxIvqNDSlIykm3CfiKZ80S%2BnBvnTMbV3gPsBmrsfkmeeBY0nKoaCa6T6F&ref=http%3A%2F%2F199.231.164.17%2Ftusuk-jelangkung-2018%2F&res=default
+#EXTINF:-1 group-title="VOD Nashya",The Parts You Lose (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=G8qKf37p80G7BKoOMc74vgkQtduONuOfLFFJVtXabOc3rAMrayTrlje3EFCB0MtF6zQFI0C5etGVvqitWdNzP9f%2FGAYnXpAGmZSNGYTenPJ%2FDe2bvAoLBq3y7Pnl1FjzMDJhNZBEpUUEklml96D%2FQH0mFDs6Dq1hPOuiVFKF56YOkdrPyGqFlo64z14w9K5TOh4xvFNLS4SX1ddVmJu1VYvQVlGu6bfohqpX5%2BWVBhP9B1NcOaHvZw%2F3KiKWMD%2B1Mu1Bm8ZY6KBTKLb7FqsbaXqe9jtsA4qDm0ziAbhyoih%2BriJ7XAVdibcP4IGRJ63rDumZ3N0Hjokg6X0Z9rv0rqoDgsjwlqxdMSSNjdlrhaUOHo9D2A09HAMDWveMIa%2FBRb0VGjrA3oQ6ONmXkxHXGe%2BvUccYynGQ9ZV6sNpaeo6A9OjIgLRLLW8HFkwzxOtUxpDWm4YG7LflACI2iv2Cfqk8NRnaeXZlAYWstAn1FzrOGCrXhprdlgXtaJdL3nP3HQFZDoUFr1N5Wvvrkd7LZ8dS0VHGEzPdEtr3BvvH3QeGj%2F4%2BGikIFn%2BwyqgqH1TudRSUv9GVbLOJL4TD3sqUK8e3DvjjmD8smHlUUhFLsDpkTtoFYr8be3RwDunWadB9I%3D&ref=https%3A%2F%2Fzenomovie.net%2Fwp-content%2Fplugins%2Fgdriveplayer%2Fplayer.php%3Fdata%3D%252F%252Fgdriveplayer.us%252Fembed.php%253Fhash%253D6j%2525252BGMj0opyC75JCYW2vsag878Ke%2525252F%2525252Bh67dZgxPhHZo1WI9eh3Ijb2OLvBep9j0iW3PAcCIkazBJYQOn07c78qdNJY3aFdTejBFan5U%2525252F4cBPEw5%2525252Bpz1KHqRy3amPAEirISaxhCYx7rKJI2Pk5exQBCTGGXYlh41sVsmXcGubyUfPq3HeWDxIfU9a6zdpA0VOjDZzYh%2525252FqIF8pj%2525252Fu2IcsWhixg&res=default
+#EXTINF:-1 group-title="VOD Nashya",Gundala (2019)
+https://tinyurl.com/qorgjge
+#EXTINF:-1 group-title="VOD Nashya",Ghost in the Graveyard
+https://cdn.apidev.icu/drive/index.php?id=tIL10Aq1VdFpjJTtREGH9QB2BWmVtKxg1CBjG1FDsfqXYkt4SkBSk7Ch547wGtqOHQ%2BTVaQx1nLPtDE5uLYsLBj8DAJdK5k0iTxZv3w97ol2LkuigEHzSRGQVxhONpHBlvPZdP6LKYkeMJQOEKh2J6QjMjGefaT44XfJ%2FMNxhuSOMubtrzN9l2C%2B7dlrzIW4T4hJGlg4DuQnQxiObF4zCvJ5p10b2Mv%2Ff0OV1ZBvbMJPMLDuocKPeUCl%2FYfWPLLG5iQNz9hG0Ujm8zQhDARFElzpW8nxmuS7OrBuf3ZS4aYFOuzBt6rhOcPsGCpyBKeGedGxr%2FOV36uANRp44%2FqyNuDw3lRZaCwkhKEYBS%2BV9ZFiTUCTLghosbSuovXoPZb5%2FIL31%2FMYWFpecfm7j8%2FVAzFS%2Fwg82IGru%2F5pHxSGIE%2BZAIwsIFYO2ahU5GaZmo140Yl604q%2FbFxtBaOx0l0H39EXILaJewt9SPJZDo7UagVZgCuoy5GrylShDeVudj7ppXT%2F34kKn5EATQO8QmQUpgb8qMNG%2BlkbEFzD%2BkhmMp1tN7RWbWtggwPSmfNOQH9LUVHtWyB%2FmHbGY7vSu5XXxufcRPeoi%2B22J5BWI%2FY9LEuMOEtsIArudzgoIGKMbLhDLY%2FxoSG53jIDMLqhPxkQeezdncVVbxX27fFWbJzlppLYmuvU2IjkVyDIbsylz%2FWyQ%3D&ref=https%3A%2F%2Fzenomovie.net%2Fwp-content%2Fplugins%2Fgdriveplayer%2Fplayer.php%3Fdata%3D%252F%252Fgdriveplayer.us%252Fembed.php%253Fhash%253DBPJGoPv1mUey024Hn7HlygqCzazry1yDwcog%2525252FHZn3%2525252BCYZuGL37SiWbj7JGlMIJDcPXZ%2525252BiE80RKf6aZBK7LAv9sWuePicyE2S8vaYC8VUArcQoD6beeJs%2525252FnICnC5YAV9XN%2525252FqLAbSEDhLW2VA6t7V3HIxPoX%2525252BVOUjYwSh6hBIDXbRPe5moEa8nxe5TkT%2525252B0UBLLDu%2525252BuTIFV1le02rmFq3%2525252BjyGYzNw1hAXejmVDJ8hiuRiMg%2525253D%2525253D&res=360
+#EXTINF:-1 group-title="VOD Nashya",The 3rd Eye 2 (2019)
+https://cdn.clonefile.icu/drive/index.php?id=JNBHYgJHmsCmsOS%2FNugQ9Q3MxROxstjQRvzsdVcZr0Kn4Fgtqrnfs9IEp4wyCmiCQmkA2Mok8I0JXMkGYf%2B5CyCTDV7d3zq3GOqQnwqOYGHnp7wAlKuJVAcW33vgT6SzZjr6OaL0wKlMP9x%2BM5ZO%2FM&ref=&original=yes
+#EXTINF:-1 group-title="VOD Nashya",Danur 3: Sunyaruri (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=YkimpXnmKko1SrcDHX8DfQ%2B8W%2BL8x2NMyLY9tH38f07nSzp%2BC7yB80VoWAl8YgZpV4EvC0zba6V9I6MYgJ8T%2BqtGOzD3me790IVrQmlwkwQxQfCJo7KDnnuwVPH7d1rOfSZur7LAHLAuYbDyXEbgrFh1YQ%2Fp86ZajFZlopx2srZI1BaaDWxzpaeHsv1zP4Z%2F1wXHVEe4Q6NrOre15ME8vOFZLwSyOSR7K8Id2UOG16auN%2BxfdKAX2K7R%2BWZSSuGr3WVPLBwo4z2YJzjZx8ZT1DcodWflcF8LP0ffiYOoxXokVE94jdxXmEjkS7J6WfH5HDhnwAJUEyIkyRh%2BU0Goiouu5pqK0T2G4XpsrBX1w8p8Z9ovOqjr35%2FOlIs94K0Gq%2FqeabWOH339fLUYF2QS1actMf0OKAlY7WiHhWzYlcrdD6oLUSvqcc3tLMQWHP7KFsmCXAZ6jBXVYen55eH6GFFQVbd5reDWT%2FiocozhKoxCIvkglHW58zVLaYyz502gUImckibLOG9YIzFkUV8mXqORgGgIbbZp0p%2FXVjOBRS91f8%2FRBUU2jgaVnR6mdrpIjzAl7%2BXxib7J7NyDSKNioRM4o68uadsu77JaVhMXtouulvnfKJlf%2Frlfup7W4t5dohtQl2x1MR2C01NyjrtMlR8%2B32hwOyOzdfxem9kWOwlA%3D%3D&ref=https%3A%2F%2Fyoloxxi.com%2Fiembed%2F%3Fsource%3DLy9nZHJpdmVwbGF5ZXIudXMvZW1iZWQyLnBocD9saW5rPWpxWmg1WG5DY0slMjUyRndSaXFmakN1T3JnTDFsRXI0SWwlMjUyQjFlUWt2S09oVksyeSUyNTJGOSUyNTJGdHhqJTI1MkZvaWZMVDJkJTI1MkI2d2dDd3FvWlk5Q0haeFFwJTI1MkJ5SFo4WjhidjZ2Qzk3NFJGMGpwVnl0JTI1MkZMTkRrOXhuSWd0M0NiamZFY2EyOWdhUlUzUlY1bjB3YUp5ZmxQakJzVmtMWW9oS1B0dTJTVFM4bk5pQUZZcWxZR3JhYUlKeTRIZ2pLY0hXa3YlMjUyRkhSaCUyNTJGOWxlaVpvZVpJJTI1M0Q%3D&res=360
+#EXTINF:-1 group-title="VOD Nashya",Hutan Mati (2018)
+https://cdn.apidev.icu/drive/index.php?id=dLW%2BiX4K62pyU1hVMYgyeQyTI8pN6AH4WekP8ynVc4iCheuuUnDx9wZTFaYvUPTOK9iMHBqFONlAeXknT%2FK1l%2Fxh%2Bdv3Ze1k4mURn70VQcpRQcCnC7slpg7k%2BqX5sawS%2BaPK8cofGj30xN%2FHqVdSfj5nTCst21DZUFBzCa8xLvwqYbQrfFqctyiZYPlpiwzELZoyHPQqZ2%2Bk1uSX31s6zVlB4%2B5ap7icf8jhxqbamZxQ%3D%3D&ref=https%3A%2F%2Fwww.robinsonptsa.org%2Falas-pati-hutan-mati-2018%2F&res=720
+#EXTINF:-1 group-title="VOD Nashya",Mata Batin 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=Ry6VQ6c4u67hhUlO8b93iANYDMd0Zxm8GmwsNZbkhLcQw7bj4cqQXSYes7jRqq5Nv%2Fek%2FmQL2hyVy4fjTSSfOorUIraahvGUviezee9lNhRTT2NgnwcA7hffDaIvA0bMiFs2Oyn7%2Fm5Bo%2Fn7r4vsvX%2FT7Dw3dxwRgaHH%2BEnzU877cnwWl6JHQmT57AznrSOJD%2BqUZdFKxEQv8IgM7lyfH5&ref=https%3A%2F%2Fwww.robinsonptsa.org%2Fmata-batin-2-2019%2F&res=720
+#EXTINF:-1,Perjanjian Dengan Iblis (2019)
+https://cdn.clonefile.icu/drive/index.php?id=fctC8wpqMzbRTWa9oHkCwQeW%2B4y09Vaw0PNv%2F5C69y3MMrDHkF3gG9dJDJ6eKsHpku9wqbfDSAf0N0hAGrJHT0fb7IMRhhDTVrxKEH5xnAcjPaj7ljQSqBwWuTjAfi2ZyMOwcuLfJh9CKRypqOcSHvGdWcPSbhJ31dByKf9dzrIBEovy%2Bb2Z1m1wfdxENzVhadfAehKi7OtYFjR4PRD3UD&ref=http%3A%2F%2Fahhamovie.com%2Fperjanjian-dengan-iblis-2019%2F&res=default
+#EXTINF:-1 group-title="VOD Nashya",Athirah (2016)
+https://cdn.cloneapi.icu/drive/index.php?id=3FMTsdwxOHs4M62JUQzzugQSgrqMe2kWbwHicaMRWSiWP9rQzF7DJQ2qwiX1ZTBswmELO27u0Ah%2F1T%2FHISKvi9P%2FucQmX0pGLd93KwHPxCxmuimueKoWMTLEZg5HIZp%2BGxAaOXfQ0d1jddkAprx46vZIGxnzCrWrH%2Fp%2FS%2BcO3lQ93E6FRWg5bV12R4KhSF1I0%3D&ref=http%3A%2F%2F199.231.164.17%2Fathirah-2016%2F&res=default
+#EXTINF:-1 group-title="VOD Nashya",Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016)
+https://cdn.apidev.icu/drive/index.php?id=I3TFz1C7Mp%2F75xWJkl4YMgWx0G9cunJ77FwE8Pu7%2BG9tfcvL%2Fq%2BXfM8BPf27OrcIS1M8kHWwwNGM5GaLhxpEA%2BEcLq3djlk%2F7juW3n%2FuntroNnWntSmYjUHISc71P7WUYRo0ZWvmk6MZgf4HjeINrPWfSDHya7DVXTPxFhyaYU66vU8ZVZbdmm8Ais4uW65Yc5Qq0y2IG%2FCoOFHr0lcksljyzlek7f0Pmnga%2BfYrpJDw%3D%3D&ref=https%3A%2F%2Flk21.bar%2Fwarkop-dki-reborn-jangkrik-boss-part-1-2016%2F&res=default
+#EXTINF:-1 group-title="VOD Nashya",Warkop DKI Reborn: Jangkrik Boss! Part 2 (2017)
+https://cdn.clonefile.icu/drive/index.php?id=VAPFpO054DjI9YeGrIoH2wPpwuCyVzQBqrmMol8KN2WkaUrxWYGLF6C126SVBrkFTb2b4GuMmKy0%2BVXarrcmLnwBpFjXNrsJ5x63dPF%2BpLGZGL1ob7QzLM%2FvZvSWUBFUSRnGuIAZGDa3ZyRD5Im4MtGGf73JvSU596JOMi65vl4BszTpS91dhaH2WnwzflktkiQUsuDc2STu6FV6LEfJMKzaRHcR7JaDaW3vmHQiHa6G7L4Gk40SL5XRNrUJax0Uo%3D&ref=https%3A%2F%2Flayarkaca21.icu%2Fwarkop-dki-reborn-jangkrik-boss-part-2-2017%2F&original=yes
+#EXTINF:-1 group-title="VOD Nashya",Eat Brains Love (2019)
+https://gdrivecdn.us/drive/redir.php?id=c36f2d035914eb7e640f5f9deb10f0da&type=movie&ids=19402&judul=Eat+Brains+Love+%282019%29
+#EXTINF:-1 group-title="VOD Nashya",Ghost (2019)
+https://cdn.apidev.icu/drive/index.php?id=7bOZlyjwkbvvJMLO6vQv8gtlhq85Ajc58vWy%2F7ApMbUdU0WRESM5F2MpBDz9xVVPPBhQvQt05fbN0iZTqsFM6LsP8zsNC8md7P7Ghv%2Bw69ZEeWBp2OhDVWpZwqLTtqFKVv6FSF2PVt15SEP%2BqUa25P&ref=&original=yes
 #EXTINF:-1 group-title="VOD Nashya",Dark Phoenix (2019)
 https://cdn.cloneapi.icu/drive/index.php?id=xNnumPG4RJVWyyeODhLuyQgwyplayl%2FEhdR7rbXXVrgzA7XVcl9SAH5Fw55DkwyXPcvT4Pnzb19FGSdrLMlPI6Cd7zO35Oo3PuMhNqcdTYWbTl9dxeNh%2Bt%2FV3upiQ%2Brbk%3D&ref=&res=720
 #EXTINF:-1 group-title="VOD Nashya",John Wick: Chapter 3 - Parabellum (2019)
