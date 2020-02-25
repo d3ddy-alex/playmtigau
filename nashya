@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",NashyaIPtv
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",channel gratis tidak untuk di perdagangkan
@@ -90,7 +89,7 @@ http://bit.ly/2T4i0L6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
 http://123.30.146.182:8080/hbo/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
-http://123.30.146.182:8080/axn_e/video.m3u8?token=DSZ8YofrK0
+http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="NashyaIPtv",Fox Movies
@@ -613,18 +612,28 @@ https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
-#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
 #EXTINF:-1 group-title="Nashya Sport",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 1 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
-#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 2 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
+#EXTINF:-1 group-title="Nashya Sport" Useesport 1
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/yusiap
+#EXTINF:-1 group-title="Nashya Sport" Useesport 2
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/yusiap2
+#EXTINF:-1 group-title="Nashya Sport" ChampionsTV1
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampion1
+#EXTINF:-1 group-title="Nashya Sport" ChampionsTV2
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampion2
+#EXTINF:-1 group-title="Nashya Sport" Bein 1
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/bain1
+#EXTINF:-1 group-title="Nashya Sport" Bein 2
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/bain2
+#EXTINF:-1 group-title="Nashya Sport" Foxsport 1
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/efes1
+#EXTINF:-1 group-title="Nashya Sport" Foxsport 2
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/efes2
+#EXTINF:-1 group-title="Nashya Sport" Foxsport 3
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/efes3
 #EXTINF:-1 group-title="Nashya Sport",Astro Supersport 1
 http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
 #EXTINF:-1 group-title="Nashya Sport",Astro Supersport 2
@@ -1367,6 +1376,14 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_10
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",MNC Sport 2 -INDO-
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
+#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
+#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 1 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
+#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 2 HD
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 1
 http://bit.ly/39OuUDJ
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT2
