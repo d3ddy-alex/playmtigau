@@ -22,7 +22,7 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="NashyaIPtv",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="INDONESIA",GTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="NashyaIPtv",GTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="NashyaIPtv",MNC 
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
@@ -1377,7 +1377,7 @@ http://54k.top:8000/live/android/hytmmnb/50.ts
 http://54k.top:8000/live/android/hytmmnb/49.ts
 #EXTINF:-1 group-title="FEED BeIn",Bein Sport (8) 4K
 http://54k.top:8000/live/android/hytmmnb/48.ts
-#EXTINF:-1 group-title="FEED",Bein Sport (10) 4K
+#EXTINF:-1 group-title="FEED BeIn",Bein Sport (10) 4K
 http://54k.top:8000/live/android/hytmmnb/53.ts
 #EXTINF:-1 group-title="Sportivo Nashya",Liga Indonesia
 https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
