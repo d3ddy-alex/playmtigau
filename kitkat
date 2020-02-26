@@ -89,7 +89,7 @@ http://bit.ly/2T4i0L6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
 http://123.30.146.182:8080/hbo/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
-http://123.30.146.182:8080/axn_e/video.m3u8?token=DSZ8YofrK0
+http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="NashyaIPtv",Fox Movies
@@ -222,6 +222,8 @@ https://b27v.broiptv.online/play/free.broiptv@broiptv.online/r6p1ME53/RXhNZ8UQ/r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTkpBBS/chamo2logo.png" group-title="NashyaIPtv", CHAMPION TV 2
 https://b27v.broiptv.online/play/free.broiptv@broiptv.online/PHhnAUWJ/1Y4amK9C/rattus/champion_tv_2/1/video.m3u8
 https://b27v.broiptv.online/play/free.broiptv@broiptv.online/r6p1ME53/RXhNZ8UQ/rattus/champion_tv_2/playlist.m3u8
+
+
 #EXTINF:-1 group-title="KIDS",Spark Play
 https://www.doofree88.com/streaming/sd-sparkplay_480/index.m3u8
 #EXTINF:-1 group-title="KIDS",Spark Jump
@@ -615,302 +617,395 @@ http://stream.suararadio.com:8000/surabaya_sonorasurabaya_mono
 #EXTINF:-1 group-title="Radio",Top Bumiayu
 http://stream.suararadio.com:8000/topfm951_mono
 
-#EXTINF:-1 group-title="Nashya Sport",Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Liga Indonesia
+https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",Soccer Channel 1
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Soccer Channel 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",MNC Sport 1 -INDO-
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",MNC Sport 2 -INDO-
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
-#EXTINF:-1 group-title="Nashya Sport",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Soccer Channel
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 group-title="Nashya Sport",USEE SPORT 1 HD
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
 #EXTINF:-1 group-title="Nashya Sport",USEE SPORT 2 HD
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
-#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 1
-http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
-#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 2
-http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
-#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 3
-http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
-#EXTINF:-1 group-title="Nashya Sport",Astro Supersport 4
-http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
-#EXTINF:-1 group-title="Nashya Sport",PremierHD 1
-https://www.doofree88.com/live/premier-football-hd-1
-#EXTINF:-1 group-title="Nashya Sport",PremierHD2
-https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",PremierHD3
-https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",PremierHD4
-https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",PremierHD5
-https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Premier League
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Main Event
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Golf
-https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Football
-https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports F1
-https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Cricket
-https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Arena
-https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Action
-https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SkynetsportHD
-https://www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Skynetsport1
-https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Skynetsport2
-https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Skynetsport3
-https://www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Skynetsport4
-https://www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Skynetsport5
-https://www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Skynetsport6
-https://www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Sport HD1
-https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Sport HD2
-https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Sport HD3
-https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",True Sport HD4
-https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Truesport 2
-https://www.doofree88.com/streaming/sd-tsport2_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Truesport 5
-https://www.doofree88.com/streaming/sd-tsport5_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BTSPORT HD1
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BTSPORT HD2
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SuperSport 1 HD
-https://www.doofree88.com/streaming/al-supersports1_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SuperSport 2 HD
-https://www.doofree88.com/streaming/al-supersports2_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SuperSport 3 HD
-https://www.doofree88.com/streaming/al-supersports3_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SuperSport 4 HD
-https://www.doofree88.com/streaming/al-supersports4_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SuperSport 5 HD
-https://www.doofree88.com/streaming/al-supersports5_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",ArenaSport 1
-https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",ArenaSport 3
-https://www.doofree88.com/streaming/rs-arena3_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",ArenaSport 4
-https://www.doofree88.com/streaming/rs-arena4_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",ArenaSport 5
-https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",MNC Sports 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="Nashya Sport",MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fox Sport2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Bulu 1
-https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",bulu 2
-https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",La Liga CH2
-https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",La Liga
-https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",Serie A CH2
-https://dl.dropbox.com/s/a01v9ex7xyyrpxx/itali.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",Arena Sport 5
-https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",CCTV-5+
-http://111.40.205.78/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sports one
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/ukrfoot1.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692848&dip=OWJmNjBlNjIxMGY4ZWRkZTZkMDVhY2QzNDExMWRlMjQ=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
-#EXTINF:-1 group-title="Nashya Sport",Sports two
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/football2ukraine.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692868&dip=MGZlNTE1YWVlYTMwZmFlYWY4M2EyOGI3YzA0YzM1YTY=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
-#EXTINF:-1 group-title="Nashya Sport",Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sony Ten 3
-http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fox Sports Motor
-http://45.58.62.92:8080
-#EXTINF:-1 group-title="Nashya Sport",MOTOR SPORT
-http://45.58.62.92:8084
-#EXTINF:-1 group-title="Nashya Sport",Discovery Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="Nashya Sport",RED BULL HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="Nashya Sport",OLYMPIC 1
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 group-title="Nashya Sport",劲爆体育
-http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 1 Main Event
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 2 Action
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 3 Premier League
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 4 Football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 5 HD Cricket
-http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 5 FHD Cricket
-http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BT Sports 1 HD
-http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel (HD)
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel (SD)
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel (UHD)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel 2
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel 3
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel 4
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel 5
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Olympic Channel 6
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Champion TV 1
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/ukrfoot1.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692848&dip=OWJmNjBlNjIxMGY4ZWRkZTZkMDVhY2QzNDExMWRlMjQ=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
-#EXTINF:-1 group-title="Nashya Sport",Champion TV 2
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/football2ukraine.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692868&dip=MGZlNTE1YWVlYTMwZmFlYWY4M2EyOGI3YzA0YzM1YTY=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
-#EXTINF:-1 group-title="Nashya Sport",CCTV5 HD s1
-http://111.40.205.70/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",CCX Sports [1080p]
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Cheddar Sports
-https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sabung Ayam
-https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Nashya Sport",NBCSN SPORT SD
-https://dl.dropbox.com/s/w3lst03ueo96mpi/beinss1.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",NBCSN SPORT HD
-https://dl.dropbox.com/s/hvdg5matjnqd9fx/beinsspd.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya Sport",ACC Network
-https://gma2.blab.email/acc.m3u8
-#EXTINF:-1 group-title="Nashya Sport",ESPN U
+#EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 1
+http://bit.ly/39OuUDJ
+#EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT2
+http://bit.ly/38NriSs
+#EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 3
+http://bit.ly/2SLIUIZ
+#EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 4
+http://bit.ly/2vRMEja
+#EXTINF:-1 group-title="Sportivo Nashya",Skynet Sports 1
+https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Skynet Sports 3
+https://doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Skynet Sports 4
+https://doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Skynet Sports 5
+https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 1
+https://dl.dropbox.com/s/arxp3t4okngv5p9/premier_fb1_netizen.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 2
+https://dl.dropbox.com/s/vnlw7gt92mzcog5/premier_fb2_netizen.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 3 
+https://dl.dropbox.com/s/sk6saw0tiy8yqsb/premier_fb3_netizen.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 4 
+https://dl.dropbox.com/s/mbn563ksfly3rix/premier_fb4_netizen.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 5
+https://dl.dropbox.com/s/ybxrue5n0ihg8df/premier_fb5_netizen.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",Fox Sports 1 Asia
+http://123.30.146.182:8080/foxsport/video.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Fox Sports 2 Asia
+http://123.30.146.182:8080/foxsport2/video.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Fox Sports 3 Asia
+http://123.30.146.182:8080/foxsport3/video.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",FOX SPORTS ENTERTAINMENT
+http://123.30.146.182:8080/1343/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 1
+http://123.30.146.182:8080/1418/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 2
+http://123.30.146.182:8080/1419/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 3
+http://123.30.146.182:8080/1420/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 4
+http://123.30.146.182:8080/1421/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",MOVIES PLUS
+http://123.30.146.182:8080/505/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",STAR 3
+http://123.30.146.182:8080/1506/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",GAORA SPORT
+http://123.30.146.182:8080/1340/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",SKY A SPORT
+http://123.30.146.182:8080/1341/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",MBC SPORT
+http://123.30.146.182:8080/221/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",ACHANNEL
+http://123.30.146.182:8080/270/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",YTN
+http://123.30.146.182:8080/214/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",SUPPERACTION
+http://123.30.146.182:8080/210/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",JTBC
+http://123.30.146.182:8080/231/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",SBS SPORT
+http://123.30.146.182:8080/235/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 group-title="Sportivo Nashya",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ESPN U
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 group-title="Nashya Sport",FTF
+#EXTINF:-1 group-title="Sportivo Nashya",FTF
 https://streaming.sniffercat.com/scheduler/scheduleMaster/2/variant/4.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fast & Fun Box
+#EXTINF:-1 group-title="Sportivo Nashya",Fast & Fun Box
 https://1088658152.rsc.cdn77.org/1088658152/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Lax Sports Network
+#EXTINF:-1 group-title="Sportivo Nashya",Lax Sports Network
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Horizon Sports
+#EXTINF:-1 group-title="Sportivo Nashya",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Outside TV
+#EXTINF:-1 group-title="Sportivo Nashya",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SEC Network
+#EXTINF:-1 group-title="Sportivo Nashya",SEC Network
 https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sportskool TV
+#EXTINF:-1 group-title="Sportivo Nashya",Sportskool TV
 https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="Nashya Sport",World of Free Sports
+#EXTINF:-1 group-title="Sportivo Nashya",World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Xcorps
+#EXTINF:-1 group-title="Sportivo Nashya",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 group-title="Nashya Sport",????
+#EXTINF:-1 group-title="Sportivo Nashya",澳門衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Now Sports Prime
+#EXTINF:-1 group-title="Sportivo Nashya",TJK
+https://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",UTV 賽馬直擊
+https://icable.cdn.utvhk.com/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Now Sports Prime
 http://wowgua.com/live/channel_630.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fight Time
+#EXTINF:-1 group-title="Sportivo Nashya",グリーンチャンネル
+http://123.30.146.182:8080/507/video.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fight Plus
-https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",ATP Tennis TV
-http://203.154.243.89:11739
-#EXTINF:-1 group-title="Nashya Sport",?????
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Arena Sport 1 HR HD
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",Arena Sport 2 HR HD
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",Arena Sport 3 HR HD
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",Arena Sport 4 HR HD
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",IT: Premiere Sport
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Матч!
-https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Матч! Премьер
-http://188.191.36.106:8080/hls/nashfutbol.m3u8
-#EXTINF:-1 group-title="Nashya Sport",SK 1
-http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",SK 2
-http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",SK 3
-http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",SK4
-http://185.180.12.34:8080/SK4/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",SK5
-http://185.180.12.34:8080/SK5/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",SK6
-http://185.180.12.34:8080/SK6/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",SK8
-http://185.180.12.34:8080/SK8/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",SK9
-http://185.180.12.34:8080/SK9/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",Sportska TV
-http://185.180.12.34:8080/SPORTSKATV/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Premier League HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1 group-title="Nashya Sport",ESPN
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Egg Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",FOX Sport HD -USA-
+#EXTINF:-1 group-title="Sportivo Nashya",CMORE Sport
+http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",CMORE Sport Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Euro Sport 1
+http://ott.artmott.com/eurosport1/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Euro Sport 2
+http://ott.artmott.com/eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",EGG Network
+http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ESPN Sport
+http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",FOX Sport HD 1 -USA-
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Most Video TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Olympics Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8?
+#EXTINF:-1 group-title="Sportivo Nashya",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Action
+http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Arena
+http://95.170.215.120/hls/m3u8/Sky-Sports-Arena.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Cricket
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Main Even
+http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Football
+http://95.170.215.120/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport News
+http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Premier
+http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport F1
+http://95.170.215.120/hls/m3u8/Sky-Sports-F1-HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",TIVIBU Sport 1
+http://95.170.215.120/hls/m3u8/Tivi-busport1.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",TIVIBU Sport 2
+http://95.170.215.120/hls/m3u8/Tivi-busport2.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",TIVIBU Sport 3
+http://95.170.215.120/hls/m3u8/Tivi-busport3.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",TVRI Sport -INDO-
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Ziggo Sport
+http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",SKY SPORT F1
+http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",UFC NETWORK
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Tennis Channel+ 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",BT SPORT 1 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",BT SPORT 2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",NBA TV
+http://31.220.0.134:8081/live/nba/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",GOLF
+http://161.0.157.9/PLTV/88888888/224/3221226812/03.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports HD 1
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports HD 2
+http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Arena
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-Arena.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Action
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Arena Sport 2
+https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
+#EXTINF:-1 group-title="Sportivo Nashya",Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Setanta Sports 1
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Setanta Sports 2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Eurosport 1
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Eurosport 2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ZIGGO sport
+http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Discovery Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",3Adsport
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Sportivo Nashya",FOX SPORT
+http://45.58.62.92:8080
+#EXTINF:-1 group-title="Sportivo Nashya",FOX-SPORT2xx
+http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="Sportivo Nashya",FOX-SPORT3xx
+http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+#EXTINF:-1 group-title="Sportivo Nashya",True Sport HD1
+https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",True Sport HD2
+https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",True Sport HD4
+https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",True Sport 2
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",True Sport 5
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",True Sport 7
+https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sports RUSIA
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sports RUSIA2
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/529/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Main Events
+https://cstream5.com/hls/skysports1.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",MBC Sports
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",SBS Sports
+http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports 3 Premier League
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports 4 Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",KUWAIT ONE
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Bein Sports NBA
+http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",BT SPORT 1 HD
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",BT SPORT 2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",NBCSN SPORT HD
+https://dl.dropbox.com/s/hvdg5matjnqd9fx/beinsspd.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",La Liga HD
+https://dl.dropbox.com/s/ff5pvk4v88bvhim/spanyol.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",Serie A HD
+https://dl.dropbox.com/s/v03mnyy63zlgi12/itali.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",Ligue 1
+https://dl.dropbox.com/s/tytynvtppo1ott8/prancis.m3u8?dl=0
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 1 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 2 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 3 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 4 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 5 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 6 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",CCTV-5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Setanta Eurasia
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Setanta Sports +
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 group-title="Sportivo Nashya",MU TV
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_700k.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",MOTOR SPORT
+http://45.58.62.92:8084
+#EXTINF:-1 group-title="Sportivo Nashya",VARZESH TV SPORT IR
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ONE CHANNEL SPORT ARAB
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",FIGHT TIME USA
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",FLOW SPORTS 1 HD UK
+http://161.0.157.38/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 1 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 2 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 3 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 4 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 5 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 6 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ART Sports 1
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ART Sports 2
+http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ART Sports 3
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",rm tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Dsport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",BAHRAIN TV SPORTS
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sports Kool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",SPORTSCAST
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Super Sports 8
+http://51.158.144.124:8090/CR/5/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",PTV Sports
+http://51.158.144.124:8090/CR/1/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Premier League
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Golf
+https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Football
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Cricket
+https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",NFL
+https://www.doofree88.com/streaming/hd-nfl_720/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",|USA| Tennis Channel HD
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",T-SPORT
+https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ArenaSport 1
+https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",ArenaSport 5
+https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",MUTV
+https://www.doofree88.com/streaming/uk-mutv_480/index.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",EUROSPORT 2
 http://5.135.92.133:52841/out/u/512_1.m3u8
 
 #EXTINF:-1 group-title="Singapore",Channel 5 HD
