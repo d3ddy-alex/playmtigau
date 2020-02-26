@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",NashyaIPtv
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",channel gratis tidak untuk di perdagangkan
@@ -34,6 +35,8 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="NashyaIPtv",iNews
 https://anevia115.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="NashyaIPtv",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="NashyaIPtv",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="NashyaIPtv",Kompas Tv
@@ -76,8 +79,6 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="NashyaIPtv",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="NashyaIPtv",Thrill HD
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Lifetime
@@ -85,38 +86,53 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="Movies",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="NashyaIPtv",FOX Family Movies HD
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/poxpam
+#https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="NashyaIPtv",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",FOX Crime HD
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="Entertainment",FOX Life HD
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",FOX
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/pox
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",FOX Action Movies
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/poxact
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="NashyaIPtv",FOX Sport 2 HD
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gwLF0B6/jgo.jpg" group-title="NashyaIPtv",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
-http://bit.ly/2PqHxNF
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/hombo
 #http://bit.ly/2T4i0L6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
-http://ktu.ktuiptvapp.com/livetv/ktuiptv-2229.m3u8
+http://123.30.146.182:8080/hbo/video.m3u8?token=DSZ8YofrK0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO Signature
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/homsign
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO Cinemax
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/max
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",RedBy HBO
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/redby
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",HBO Hits
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/homhit
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
 http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="NashyaIPtv",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN HD
+http://iptv.lancar.tech:25461/wZjUTbEVmw/Fl1pF7xpEq/56
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="NashyaIPtv",Fox Movies premium
 http://123.30.146.182:8080/foxmovie/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",MOVIES PLUS
 http://123.30.146.182:8080/505/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="NashyaIPtv",Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/warn
+#https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="NashyaIPtv",HBO Family
-http://bit.ly/2SHxjKW
+https://raw.githubusercontent.com/d3ddy-alex/emejing/master/hompa
+#http://bit.ly/2SHxjKW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="NashyaIPtv",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="NashyaIPtv",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="NashyaIPtv",Blue Ant Extreme
@@ -124,13 +140,13 @@ http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="NashyaIPtv",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Star Chinese Movies
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
-#EXTINF:-1 group-title="NashyaIPtv",Star Chinese Movies Legend
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="NashyaIPtv",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="NashyaIPtv",ZBioskop
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+#https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="NashyaIPtv",Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",The Flash
@@ -149,80 +165,80 @@ http://51.158.190.97/hls/stream.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 group-title="NashyaIPtv",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:-1 group-title="NashyaIPtv",MNC Channel
-https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvnk-Ku-VLqZrrKSmaaqS-VM3856fP3BwiFb-Ex36raZuSOEFA" group-title="NashyaIPtv",Infotainment
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
-#EXTINF:-1 group-title="NashyaIPtv",Entertainment
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GCY30fN/hi.jpg" group-title="NashyaIPtv",Hi!
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" 
-group-title="NashyaIPtv",AFN
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",HGTV HD
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSS4a7jcPDHneWRSajoRuDJ-LPqyXN2yfogAXbiiaQAhTbDSR&s" group-title="NashyaIPtv",Rumah TV
 https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/97/Logo_Home_Living.png/1200px-Logo_Home_Living.png" group-title="NashyaIPtv",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",MNC Shop Smart
-https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_hls/MNCShopSmart.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",MNC Shop Trendy
-https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNlEz-CDAjoimXJt1PL1SON2bpGw15NZXXgg-RLFJrkc8zUb7y" group-title="NashyaIPtv",Lifestyle & Fashion
-https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="NashyaIPtv",History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="NashyaIPtv",History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="NashyaIPtv",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 #EXTINF:-1 group-title="NashyaIPtv",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
 #EXTINF:-1 group-title="NashyaIPtv",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="NashyaIPtv",Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="NashyaIPtv",Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="NashyaIPtv",Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
-#EXTINF:-1 group-title="NashyaIPtv",Nat Geo Channel
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 #EXTINF:-1 group-title="NashyaIPtv",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channeljpg.jpg" group-title="NashyaIPtv",Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://prod-cdn-crimeandinvestigation-co-uk.s3.amazonaws.com/s3fs-public/logo.png?SC6.8eaHd_Cg9dpYhvLwqztGurNKGDM7" group-title="NashyaIPtv",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" group-title="NashyaIPtv",AFN Asian Food Network
-https://anevia114.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="NashyaIPtv",Tasty
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="NashyaIPtv",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NashyaIPtv",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="NashyaIPtv",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="NashyaIPtv",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", CINEMA WORLD
+http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", K DRAMA
+http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", KIX
+http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NashyaIPtv", BLOOMBERG TV
+http://210.210.155.35/session/a1876b84-11cc-11e9-a55e-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxQ4CSM4/CGTN-doc.png" group-title="NashyaIPtv",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Scz6YSx/THRL-S1.png" group-title="NashyaIPtv",Thrill
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="NashyaIPtv",KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="NashyaIPtv",WOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="NashyaIPtv",Fashion TV Teens
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="NashyaIPtv",Fashion TV Films
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="NashyaIPtv",Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="NashyaIPtv", Astro Super Sport 1
-http://cdn.live2.52glb.com/live/ml_AstroSuperSport1.m3u8
+#http://cdn.live2.52glb.com/live/ml_AstroSuperSport1.m3u8
 http://cdn.live2.52glb.com/live/ml_AstroSuperSport1-1582519725757.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="NashyaIPtv", Astro Super Sport 2
-http://cdn.live2.52glb.com/live/ml_AstroSuperSport2.m3u8
+#http://cdn.live2.52glb.com/live/ml_AstroSuperSport2.m3u8
 http://cdn.live2.52glb.com/live/ml_AstroSuperSport2-1582561643828.ts
 http://47.89.208.92:3552/cde?termid=2&format=1&ver=liv.CDE-1.0.10&op=3&ckey=b76dc44f73be2b01d6a1338cfb0cae5cver_0_11.3m3u8_12272000&inip=10.8.0.129&pid=33-a30790caf7ad45f83e0cded05e53f9b1-1443-1443&pos=1582561584&ispId=0&neighbors=0&arealevel1=US&arealevel2=0&arealevel3=0&expect=80&ulMark=-1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="NashyaIPtv", Astro Super Sport 3
-http://103.28.148.206:25461/hazlami.hamzah2001/569288/4836
+#http://103.28.148.206:25461/hazlami.hamzah2001/569288/4836
 http://103.28.148.206:25461/hazlami.hamzah2001/569288/4836?token=QhBYV0dYRg4TWVYHWwUBCwQHVQsFXAdQCQUEA1dQA1oBUVYCBwcGDAQaSBAQEEJXVQhvWgIbCVEBBwYdQ0MSB0ttWVIWCkYDAwhUBUFIEkZdCFURXAgGXQsBBgJTBlJOG0JZUhYKRgUDD1YCQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGBFZWBhAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpWA1JTBxBJ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="NashyaIPtv", Astro Super Sport 4
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="NashyaIPtv",USEE SPORT 1
 https://cdnbal1.useetv.com/joss/15/useesport/media_w1152994997_b684100_sleng_96475.ts
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/PHhnAUWJ/1Y4amK9C/rattus/useesports/1/video.m3u8
 https://dl.dropboxusercontent.com/s/x99r9tsvaebhwme/Usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="NashyaIPtv",USEE SPORT 2
 https://cdnbpp1.useetv.com/joss/15/useesports2/media_w2014175551_b684100_sleng_96506.ts
@@ -230,23 +246,36 @@ https://b27v.broiptv.online/play/free.broiptv@broiptv.online/PHhnAUWJ/1Y4amK9C/r
 https://dl.dropboxusercontent.com/s/0npuwznzj2lvqot/Usee2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNrdr8N/chamo1logo.png" group-title="NashyaIPtv", CHAMPION TV 1
 https://cdnmdc1.useetv.com/joss/194/champion1/media_w23317968_b684100_sleng_96514.ts
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/PHhnAUWJ/1Y4amK9C/rattus/champion_tv_1/1/video.m3u8
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/r6p1ME53/RXhNZ8UQ/rattus/champion_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTkpBBS/chamo2logo.png" group-title="NashyaIPtv", CHAMPION TV 2
 https://b27v.broiptv.online/play/free.broiptv@broiptv.online/PHhnAUWJ/1Y4amK9C/rattus/champion_tv_2/1/video.m3u8
 https://b27v.broiptv.online/play/free.broiptv@broiptv.online/r6p1ME53/RXhNZ8UQ/rattus/champion_tv_2/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="NashyaIPtv",Usee sport
+https://cdnjt25.useetv.com/joss/17/bein2/chunklist_w1669106007_b1344100_sleng.m3u8?enc=Yf1LSxwR_zRVaqj0mAxWow&exp=1582743555
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="NashyaIPtv",Usee Sport 2
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w879747948_b1344100_sleng.m3u8?enc=I-K_llRGAnR37kHNVQMTMQ&exp=1582743608
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="NashyaIPtv",bein 1
+https://cdnbpp1.useetv.com/joss/17/bein1/chunklist_w705313696_b1344100_sleng.m3u8?enc=U4besOv85hamr4tp-pFSaQ&exp=1582743406
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="NashyaIPtv",bein 2
+https://cdnbal1.useetv.com/joss/17/bein2/chunklist_w1669106007_b1344100_sleng.m3u8?enc=qgdUmjZ5FEZSnl7oMSN0iw&exp=1582743465
+#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="NashyaIPtv",Fox Sports 1
+https://cdnmdc2.useetv.com/joss/17/foxsport1/chunklist_w1629422635_b1344100_sleng.m3u8?enc=pcSu9jDp8X20-ze2WNKOQw&exp=1582743779
+#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="NashyaIPtv",Fox sports 2
+https://cdnkbl1.useetv.com/joss/17/foxsport2/chunklist_w480933879_b1344100_sleng.m3u8?enc=4FM0gUkU5KoHcS3fZEflWA&exp=1582743830
+#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="NashyaIPtv",Fox sports 3
+https://cdnkbl1.useetv.com/joss/17/foxsport3/chunklist_w603692376_b1344100_sleng.m3u8?enc=PgEEByPFTtkFgABUr6Nb8w&exp=1582743897
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNrdr8N/chamo1logo.png"  group-title="NashyaIPtv",Champions TV 1
+https://cdnbdsa1.useetv.com/joss/194/champion1/chunklist_w508758334_b1344100_sleng.m3u8?enc=nAHLQgujsKI-DUAy7o1vrw&exp=1582743703
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png"  group-title="NashyaIPtv",Champions TV 2
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w879747948_b1344100_sleng.m3u8?enc=I-K_llRGAnR37kHNVQMTMQ&exp=1582743608
 
 #EXTINF:-1 group-title="Movies",Channel Gratis tidak untuk di perdagangkan
-http://ventdelnord.tv:8080/mola/directe.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 #EXTINF:-1 group-title="Movies",Konsumsi kalangan Sendiri
 http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
 #EXTINF:-1 group-title="Movies",Nashya Studio DigitAll
 http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 group-title="Movies",tvN
 http://23.237.112.138:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
-#EXTINF:-1 group-title="Movies",Fox HD
-https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
 #EXTINF:-1 group-title="Movies",Fox Movies Premium (TH)
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 group-title="Movies",HBO (Thai)
@@ -283,8 +312,6 @@ https://www.doofree88.com/streaming/sd-celestial_480/index.m3u8
 https://www.doofree88.com/streaming/sd-znung_480/index.m3u8
 #EXTINF:-1 group-title="Movies",Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies",Filmbox Arthouse
-https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies",Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies",Mafa Short Flim
@@ -299,8 +326,6 @@ https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 group-title="Movies",Scifi
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies",Reel Px Action
-https://1586823379.rsc.cdn77.org/1586823379/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies",Reel Px Family
 https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies",Reel Px Comedy
@@ -331,16 +356,12 @@ https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 https://www.doofree88.com/streaming/sd-explife_480/index.m3u8
 #EXTINF:-1 group-title="Docu",Explore Sci
 https://www.doofree88.com/streaming/sd-expsci_480/index.m3u8
-#EXTINF:-1 group-title="Docu",Explore Wild
-https://www.doofree88.com/streaming/sd-expwild_480/index.m3u8
 #EXTINF:-1 group-title="Docu",Nat Geo Wild
 https://www.doofree88.com/streaming/hd-natgeowild_720/index.m3u8
 #EXTINF:-1 group-title="Docu",Nat Geo People
 https://www.doofree88.com/streaming/hd-natgeopeople_720/index.m3u8
 #EXTINF:-1 group-title="Docu",BBC Earth
 https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
-#EXTINF:-1 group-title="Docu",Animal Planet
-https://www.doofree88.com/streaming/sd-animalplaneteng_480/index.m3u8
 #EXTINF:-1 group-title="Docu",History
 https://www.doofree88.com/streaming/hd-history_720/index.m3u8
 #EXTINF:-1 group-title="Docu",Discovery Asia
@@ -393,8 +414,6 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV Lokal",GTV
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
 #EXTINF:-1 group-title="TV Lokal",ANTV
 http://210.210.155.35/session/8d5d9996-a900-11e9-987e-825088dfe94c/qwr9ew/s/s102/02.m3u8
 #EXTINF:-1 group-title="TV Lokal",TVRI
@@ -405,10 +424,6 @@ http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="TV Lokal",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:-1 group-title="TV Lokal",iNewsTV
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
-#EXTINF:-1 group-title="TV Lokal",Metro TV
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 #EXTINF:-1 group-title="TV Lokal",TV ONE
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="TV Lokal",Jawapos TV
@@ -507,22 +522,14 @@ http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",RCTV Cirebon
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
-#EXTINF:-1 group-title="TV Lokal ID",RUMAH TV
-http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",NABAWI TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Movies ID",AXN BU
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 group-title="Movies ID",FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 group-title="Movies ID",FOX Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 group-title="Movies ID",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
-#EXTINF:-1 group-title="Movies ID",Movie Channel
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 #EXTINF:-1 group-title="Movies ID",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 #EXTINF:-1 group-title="Movies ID",Blue ant extreme
@@ -543,50 +550,18 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 group-title="Movies ID",STAR WORLD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 group-title="Movies ID",ZEE BIOSKOP
-https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 #EXTINF:-1 group-title="Movies ID",ZEE BIOSKOP HD
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-#EXTINF:-1 group-title="Movies ID",Hits
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="Movies ID",Hits Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="Movies ID",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 #EXTINF:-1 group-title="News",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
-#EXTINF:-1 group-title="News",ABC Australia
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 #EXTINF:-1 group-title="News",Aljazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
-#EXTINF:-1 group-title="Entertainment",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:-1 group-title="Entertainment",TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:-1 group-title="Entertainment",FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
-#EXTINF:-1 group-title="Entertainment",FOX Life
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:-1 group-title="Entertainment",Vision Prime
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:-1 group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:-1 group-title="Entertainment",MNC Channel
-https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
-#EXTINF:-1 group-title="Entertainment",Drama Channel
-https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
-#EXTINF:-1 group-title="Entertainment",Comedy Channel
-https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-#EXTINF:-1 group-title="Entertainment",WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:-1 group-title="Entertainment",MNC Entertainment
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 #EXTINF:-1 group-title="Lifestyle",LEJEL Home Shopping
 https://livetvhooq.akamaized.net/e65856f8b215401fb45a5f4c49a50d9a/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576526475~exp=9007200831267466~acl=/e65856f8b215401fb45a5f4c49a50d9a/*/profile_2/chunklist.m3u8*~hmac=98c68808fdccd6f55c3acc1b262ff3d26e82068fef26479793e2fc28ededd1d6
 #EXTINF:-1 group-title="Lifestyle",Outdoor Channel
@@ -597,24 +572,16 @@ https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5
 https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576525468~exp=9007200831266459~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=dd7afa5712efdaaa14bdcfdb29a7925af7709dab23cd782a083838f7e497df31
 #EXTINF:-1 group-title="Lifestyle",IdKU
 https://dl.dropbox.com/s/zv2m4oiaye3rkzn/idku2.m3u8?dl=0
-#EXTINF:-1 group-title="Lifestyle",Lifetime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 group-title="Lifestyle",Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1 group-title="Lifestyle",Hi! Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-#EXTINF:-1 group-title="Lifestyle",Infotainment
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 #EXTINF:-1 group-title="Lifestyle",Ruang Trampil
 https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
-#EXTINF:-1 group-title="Lifestyle",Auto & Gadget
-https://liveanevia.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget.m3u8
 #EXTINF:-1 group-title="Lifestyle",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
-#EXTINF:-1 group-title="Knowledge",Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony Ten 1
@@ -625,27 +592,23 @@ https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Soccer Channel
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-#EXTINF:-1 group-title="Nashya Sport" Useesport 1
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" Useesport 1
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/yusiap
-#EXTINF:-1 group-title="Nashya Sport" Useesport 2
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" Useesport 2
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/yusiap2
-#EXTINF:-1 group-title="Nashya Sport" ChampionsTV1
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" ChampionsTV1
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampion1
-#EXTINF:-1 group-title="Nashya Sport" ChampionsTV2
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" ChampionsTV2
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampion2
-#EXTINF:-1 group-title="Nashya Sport" Bein 1
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" Bein 1
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/bain1
-#EXTINF:-1 group-title="Nashya Sport" Bein 2
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" Bein 2
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/bain2
-#EXTINF:-1 group-title="Nashya Sport" Foxsport 1
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" Foxsport 1
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/efes1
-#EXTINF:-1 group-title="Nashya Sport" Foxsport 2
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" Foxsport 2
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/efes2
-#EXTINF:-1 group-title="Nashya Sport" Foxsport 3
+#EXTINF:-1 group-title="Nashya Sport",#EXTINF:-1 group-title="Nashya Sport" Foxsport 3
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/efes3
 #EXTINF:-1 group-title="Nashya Sport",Astro Supersport 1
 http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
@@ -655,8 +618,6 @@ http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&
 http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
 #EXTINF:-1 group-title="Nashya Sport",Astro Supersport 4
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
-#EXTINF:-1 group-title="Nashya Sport",PremierHD 1
-https://www.doofree88.com/live/premier-football-hd-1
 #EXTINF:-1 group-title="Nashya Sport",PremierHD2
 https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",PremierHD3
@@ -677,8 +638,6 @@ https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sports Cricket
 https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Arena
-https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sports Action
 https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",SkynetsportHD
@@ -729,12 +688,6 @@ https://www.doofree88.com/streaming/rs-arena3_480/index.m3u8
 https://www.doofree88.com/streaming/rs-arena4_480/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",ArenaSport 5
 https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",MNC Sports 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="Nashya Sport",MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fox Sport2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Bulu 1
 https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",bulu 2
@@ -753,10 +706,6 @@ http://111.40.205.78/PLTV/88888888/224/3221225603/index.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sports one
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/ukrfoot1.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692848&dip=OWJmNjBlNjIxMGY4ZWRkZTZkMDVhY2QzNDExMWRlMjQ=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
-#EXTINF:-1 group-title="Nashya Sport",Sports two
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/football2ukraine.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692868&dip=MGZlNTE1YWVlYTMwZmFlYWY4M2EyOGI3YzA0YzM1YTY=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
 #EXTINF:-1 group-title="Nashya Sport",Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Dubai Racing
@@ -823,10 +772,6 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Champion TV 1
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/ukrfoot1.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692848&dip=OWJmNjBlNjIxMGY4ZWRkZTZkMDVhY2QzNDExMWRlMjQ=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
-#EXTINF:-1 group-title="Nashya Sport",Champion TV 2
-https://goool7.ws/lba/ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=/g6/football2ukraine.m3u8?token=ODFiYjhiMTFiYTI1NTQ2M2JiY2Q5NzEzM2MyZWM0MTY=&id=ZDc5YzBmZWVkNjUzMzZmMGQzNjNiNGQxODE4MDMyN2E=&vip=1579692868&dip=MGZlNTE1YWVlYTMwZmFlYWY4M2EyOGI3YzA0YzM1YTY=&pip=N2MxMTI0YTZjYmM5YTJjOTE4NDE4NmU4YzFiNzI1NTc=&hip=OTQ5ZTQ2NWM0YWRkMjhmMDgxY2QzZmUzMDM0YzI4YmI=
 #EXTINF:-1 group-title="Nashya Sport",CCTV5 HD s1
 http://111.40.205.70/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",CCX Sports [1080p]
@@ -867,8 +812,6 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 group-title="Nashya Sport",????
 http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Now Sports Prime
-http://wowgua.com/live/channel_630.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Fight Plus
@@ -915,20 +858,10 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",FOX Sport HD -USA-
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="KIDS",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
-#EXTINF:-1 group-title="KIDS",MiaoMi
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
-#EXTINF:-1 group-title="KIDS",Baby TV
-https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
-#EXTINF:-1 group-title="KIDS",Kids Channel
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1 group-title="KIDS",FULL KIDS
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="KIDS",BABY TV
@@ -985,44 +918,26 @@ http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/Fa
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="KIDS",WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="Oriental",Arirang
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 #EXTINF:-1 group-title="Oriental",Anhui TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
-#EXTINF:-1 group-title="Oriental",Hunan TV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
-#EXTINF:-1 group-title="Oriental",Dragon TV
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
-#EXTINF:-1 group-title="Oriental",Jiangsu TV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
 #EXTINF:-1 group-title="Religious",Makkah TV
 https://streamer-1.toffeelive.com/live/quran_tv_576/index.m3u8
 #EXTINF:-1 group-title="Religious",Madinah TV
 https://streamer-1.toffeelive.com/live/sunnah_tv_576/index.m3u8
-#EXTINF:-1 group-title="Religious",Hidayah
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
 #EXTINF:-1 group-title="Religious",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",Antara TV
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Music",MIX
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF:-1 group-title="Music",Zing
-https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
 #EXTINF:-1 group-title="Music",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1 group-title="Music",Clubbing TV
-https://liveanevia.mncnow.id/live/eds/MyTV/sa_hls/MyTV.m3u8
-#EXTINF:-1 group-title="Music",Music Channel
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 #EXTINF:-1 group-title="Music",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1 group-title="Music",Prambors
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 #EXTINF:-1 group-title="Music",MIX
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF:-1 group-title="Music",Music TV
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 #EXTINF:-1 group-title="Music",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Music",California Music
@@ -1091,8 +1006,6 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Music",REDLIGHT
 http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
-#EXTINF:-1 group-title="Music",RANCHENATO TV
-http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/chunklist_b1044100_sleng.m3u8
 #EXTINF:-1 group-title="Music",RADIONORBA TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",RADIOZETA
@@ -1175,14 +1088,8 @@ http://listento.ardanradio.com:1059/;
 http://onlineradiobox.com/ping/id.bahana
 #EXTINF:-1 group-title="Radio",Cakra 90.5FM
 http://dengerin.radiocakrabandung.com:8905/;
-#EXTINF:-1 group-title="SPORT",MNC Soccer
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-#EXTINF:-1 group-title="SPORT",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 group-title="SPORT",PACUAN KUDA
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",Arena Sport 2
-https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
 #EXTINF:-1 group-title="SPORT",Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",Dubai Racing
@@ -1219,8 +1126,6 @@ https://dl.dropbox.com/s/8do2ge2qhjurgca/foxsport2.m3u8?dl=0
 https://dl.dropbox.com/s/9qxu4a3oh6epn9e/foxsport3.m3u8?dl=0
 #EXTINF:-1 group-title="SPORT",Usee Sport
 https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
-#EXTINF:-1 group-title="SPORT",Swiss Sports
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
 #EXTINF:-1 group-title="SPORT",Dubai Sports
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT",ART Sports 1
@@ -1359,8 +1264,6 @@ http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
 http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
 #EXTINF:-1 group-title="FEED BeIn",Bein Sports 9
 http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
-#EXTINF:-1 group-title="FEED BeIn",Bein Sports 10
-http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
 #EXTINF:-1 group-title="FEED BeIn",Bein Sport (1) 4K
 http://54k.top:8000/live/android/hytmmnb/4.ts
 #EXTINF:-1 group-title="FEED BeIn",Bein Sport (2) 4K
@@ -1377,18 +1280,10 @@ http://54k.top:8000/live/android/hytmmnb/50.ts
 http://54k.top:8000/live/android/hytmmnb/49.ts
 #EXTINF:-1 group-title="FEED BeIn",Bein Sport (8) 4K
 http://54k.top:8000/live/android/hytmmnb/48.ts
-#EXTINF:-1 group-title="FEED BeIn",Bein Sport (10) 4K
+#EXTINF:-1 group-title="FEED",Bein Sport (10) 4K
 http://54k.top:8000/live/android/hytmmnb/53.ts
 #EXTINF:-1 group-title="Sportivo Nashya",Liga Indonesia
 https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
-#EXTINF:-1 group-title="Sportivo Nashya",Soccer Channel 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Soccer Channel 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",MNC Sport 1 -INDO-
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",MNC Sport 2 -INDO-
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
 #EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
@@ -1417,48 +1312,12 @@ https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
 https://dl.dropbox.com/s/arxp3t4okngv5p9/premier_fb1_netizen.m3u8?dl=0
 #EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 2
 https://dl.dropbox.com/s/vnlw7gt92mzcog5/premier_fb2_netizen.m3u8?dl=0
-#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 3 
+#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 3
 https://dl.dropbox.com/s/sk6saw0tiy8yqsb/premier_fb3_netizen.m3u8?dl=0
-#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 4 
+#EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 4
 https://dl.dropbox.com/s/mbn563ksfly3rix/premier_fb4_netizen.m3u8?dl=0
 #EXTINF:-1 group-title="Sportivo Nashya",PREMIER FOOTBALL 5
 https://dl.dropbox.com/s/ybxrue5n0ihg8df/premier_fb5_netizen.m3u8?dl=0
-#EXTINF:-1 group-title="Sportivo Nashya",Fox Sports 1 Asia
-http://123.30.146.182:8080/foxsport/video.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Fox Sports 2 Asia
-http://123.30.146.182:8080/foxsport2/video.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Fox Sports 3 Asia
-http://123.30.146.182:8080/foxsport3/video.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",FOX SPORTS ENTERTAINMENT
-http://123.30.146.182:8080/1343/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 1
-http://123.30.146.182:8080/1418/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 2
-http://123.30.146.182:8080/1419/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 3
-http://123.30.146.182:8080/1420/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",JSPORT 4
-http://123.30.146.182:8080/1421/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",MOVIES PLUS
-http://123.30.146.182:8080/505/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",STAR 3
-http://123.30.146.182:8080/1506/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",GAORA SPORT
-http://123.30.146.182:8080/1340/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",SKY A SPORT
-http://123.30.146.182:8080/1341/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",MBC SPORT
-http://123.30.146.182:8080/221/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",ACHANNEL
-http://123.30.146.182:8080/270/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",YTN
-http://123.30.146.182:8080/214/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",SUPPERACTION
-http://123.30.146.182:8080/210/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",JTBC
-http://123.30.146.182:8080/231/video.m3u8?token=DSZ8YofrK0
-#EXTINF:-1 group-title="Sportivo Nashya",SBS SPORT
-http://123.30.146.182:8080/235/video.m3u8?token=DSZ8YofrK0
 #EXTINF:-1 group-title="Sportivo Nashya",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Bek Sports West
@@ -1489,10 +1348,6 @@ http://stream.mastvnet.com/MSTV/playlist.m3u8
 https://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",UTV 賽馬直擊
 https://icable.cdn.utvhk.com/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Now Sports Prime
-http://wowgua.com/live/channel_630.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",グリーンチャンネル
-http://123.30.146.182:8080/507/video.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",CMORE Sport
@@ -1551,8 +1406,6 @@ http://95.170.215.120/hls/m3u8/Tivi-busport2.m3u8
 http://95.170.215.120/hls/m3u8/Tivi-busport3.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",TVRI Sport -INDO-
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Ziggo Sport
-http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",SKY SPORT F1
 http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",AUTOMOTO TV
@@ -1591,8 +1444,6 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sports-Arena.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Arena Sport 2
-https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
 #EXTINF:-1 group-title="Sportivo Nashya",Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Dubai Racing
@@ -1605,12 +1456,6 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Eurosport 1
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Eurosport 2
-http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",ZIGGO sport
-http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",3Adsport
@@ -1637,8 +1482,6 @@ https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sports RUSIA2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/529/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Main Events
-https://cstream5.com/hls/skysports1.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",MBC Sports
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",SBS Sports
@@ -1735,8 +1578,6 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Super Sports 8
-http://51.158.144.124:8090/CR/5/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",PTV Sports
 http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Premier League
@@ -1811,8 +1652,6 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="MOVIES 24/7",MOVIE EXTRA 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIES 24/7",MOVIE EXTRA 3
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="MOVIES 24/7",MOVIE EXTRA 4
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="MOVIES 24/7",DONNIE YEN
@@ -1859,8 +1698,6 @@ https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-
 https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
 #EXTINF:-1 group-title="MOVIES 24/7",WEST MOVIE
 http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIES 24/7",CINESTAR PREMIERE 1
-http://cableserver1.cableguy.pro:82/live?cId=503&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="MOVIES 24/7",CINESTAR PREMIERE 2
 http://cableserver1.cableguy.pro:82/live?cId=504&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="MOVIES 24/7",FILMBOX PLUS
@@ -1941,7 +1778,7 @@ https://cdn.cloneapi.icu/drive/index.php?id=YkimpXnmKko1SrcDHX8DfQ%2B8W%2BL8x2NM
 https://cdn.apidev.icu/drive/index.php?id=dLW%2BiX4K62pyU1hVMYgyeQyTI8pN6AH4WekP8ynVc4iCheuuUnDx9wZTFaYvUPTOK9iMHBqFONlAeXknT%2FK1l%2Fxh%2Bdv3Ze1k4mURn70VQcpRQcCnC7slpg7k%2BqX5sawS%2BaPK8cofGj30xN%2FHqVdSfj5nTCst21DZUFBzCa8xLvwqYbQrfFqctyiZYPlpiwzELZoyHPQqZ2%2Bk1uSX31s6zVlB4%2B5ap7icf8jhxqbamZxQ%3D%3D&ref=https%3A%2F%2Fwww.robinsonptsa.org%2Falas-pati-hutan-mati-2018%2F&res=720
 #EXTINF:-1 group-title="VOD Nashya",Mata Batin 2 (2019)
 https://cdn.cloneapi.icu/drive/index.php?id=Ry6VQ6c4u67hhUlO8b93iANYDMd0Zxm8GmwsNZbkhLcQw7bj4cqQXSYes7jRqq5Nv%2Fek%2FmQL2hyVy4fjTSSfOorUIraahvGUviezee9lNhRTT2NgnwcA7hffDaIvA0bMiFs2Oyn7%2Fm5Bo%2Fn7r4vsvX%2FT7Dw3dxwRgaHH%2BEnzU877cnwWl6JHQmT57AznrSOJD%2BqUZdFKxEQv8IgM7lyfH5&ref=https%3A%2F%2Fwww.robinsonptsa.org%2Fmata-batin-2-2019%2F&res=720
-#EXTINF:-1,Perjanjian Dengan Iblis (2019)
+#EXTINF:-1 ,Perjanjian Dengan Iblis (2019)
 https://cdn.clonefile.icu/drive/index.php?id=fctC8wpqMzbRTWa9oHkCwQeW%2B4y09Vaw0PNv%2F5C69y3MMrDHkF3gG9dJDJ6eKsHpku9wqbfDSAf0N0hAGrJHT0fb7IMRhhDTVrxKEH5xnAcjPaj7ljQSqBwWuTjAfi2ZyMOwcuLfJh9CKRypqOcSHvGdWcPSbhJ31dByKf9dzrIBEovy%2Bb2Z1m1wfdxENzVhadfAehKi7OtYFjR4PRD3UD&ref=http%3A%2F%2Fahhamovie.com%2Fperjanjian-dengan-iblis-2019%2F&res=default
 #EXTINF:-1 group-title="VOD Nashya",Athirah (2016)
 https://cdn.cloneapi.icu/drive/index.php?id=3FMTsdwxOHs4M62JUQzzugQSgrqMe2kWbwHicaMRWSiWP9rQzF7DJQ2qwiX1ZTBswmELO27u0Ah%2F1T%2FHISKvi9P%2FucQmX0pGLd93KwHPxCxmuimueKoWMTLEZg5HIZp%2BGxAaOXfQ0d1jddkAprx46vZIGxnzCrWrH%2Fp%2FS%2BcO3lQ93E6FRWg5bV12R4KhSF1I0%3D&ref=http%3A%2F%2F199.231.164.17%2Fathirah-2016%2F&res=default
@@ -2227,6 +2064,188 @@ http://srv29.nf21.net/files/15-2019-10-09-38faca9819e03a23f4667e72a9412629.mp4
 http://srv29.nf21.net/files/15-2019-10-09-9e09061a2b64e714ba164bcd19d42a34.mp4
 #EXTINF:-1 group-title="VoD",Warkop DKI: Pencet Sana Pencet Sini (1994)
 https://www.googleapis.com/drive/v3/files/1ufNonpnbX0W9hGgUqi0yjsvjR9_xW5o-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="FTV Indonesia",Pacar Trial Nona Es Kelapa Muda
+https://media-vidio-com.akamaized.net/uploads/1893117/ets-playlist-1200-33e13.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Aku Bisa Apa
+https://media-vidio-com.akamaized.net/uploads/1891298/ets-playlist-1200-2e2b4.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Siapa Takut Cewek Galak?
+https://media-vidio-com.akamaized.net/uploads/1890029/ets-playlist-1200-82a70.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Badut Santuy To The Max
+https://media-vidio-com.akamaized.net/uploads/1866883/ets-playlist-1200-dbf14.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Inem Asisten Seksi Repot
+https://media-vidio-com.akamaized.net/uploads/1865333/ets-playlist-900-31d5d.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Akhirnya Kopilih Aku Daripada Dia
+https://media-vidio-com.akamaized.net/uploads/1864807/ets-playlist-900-bca1f.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Neng Supir Aku Tanpamu I'Mbyar
+https://media-vidio-com.akamaized.net/uploads/1864179/ets-playlist-1200-007f2.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Biar Tak Seumur Cintaku Pantang Mundur
+https://media-vidio-com.akamaized.net/uploads/1863511/ets-playlist-1200-d1ff4.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Cintaku Bernapas dalam Bubur
+https://media-vidio-com.akamaized.net/uploads/1862362/ets-playlist-400-92508.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Jodoh Gak Akan Kemana Saingan Dimana-Mana
+https://media-vidio-com.akamaized.net/uploads/1861383/ets-playlist-900-4abd3.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Pacar Gue Bukan Cewek Gedongan
+https://media-vidio-com.akamaized.net/uploads/1860478/ets-playlist-1200-166a2.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Biduan Gerobak Dangdut Trending
+https://media-vidio-com.akamaized.net/uploads/1859430/ets-playlist-1200-dc567.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Pantang Pulang Sebelum Jadian
+https://media-vidio-com.akamaized.net/uploads/1858476/ets-playlist-1200-27fd5.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Modus Cinta Tingkat Kuli
+https://media-vidio-com.akamaized.net/uploads/1857514/ets-playlist-1200-757de.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Aku Cinta Kamu 3000 Kilo
+https://media-vidio-com.akamaized.net/uploads/1856382/ets-playlist-1200-361f7.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Aku Terlalu Palsu Untuk Cintamu yang Asli
+https://media-vidio-com.akamaized.net/uploads/1855254/ets-playlist-1200-614cf.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Jodoh Cewek Sapi Kena Cancel
+https://media-vidio-com.akamaized.net/uploads/1854077/ets-playlist-1200-d7e1a.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Cinta Kamu Munculnya di Ending
+https://media-vidio-com.akamaized.net/uploads/1852950/ets-playlist-1200-857d5.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Miss Kinclong Colong Hatiku
+https://media-vidio-com.akamaized.net/uploads/1851907/ets-playlist-1200-9651c.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Kekuatan Cintamu Bertegangan Tinggi
+https://media-vidio-com.akamaized.net/uploads/1851126/ets-playlist-1200-a4cae.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Dear Eneng Bebekku Sayang
+https://media-vidio-com.akamaized.net/uploads/1850341/ets-playlist-1200-d8d99.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Cowok Mreki Bikin Jatuh Hati
+https://media-vidio-com.akamaized.net/uploads/1849322/ets-playlist-1200-b4b6b.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Kue Leker Bukan Kaleng-Kaleng
+https://media-vidio-com.akamaized.net/uploads/1848390/ets-playlist-1200-1e6bc.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Bongkar Saldo Cinta Supir Truk Modis
+https://media-vidio-com.akamaized.net/uploads/1847273/ets-playlist-1200-05e49.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Boss Killer Juteknya Level Halilintar
+https://media-vidio-com.akamaized.net/uploads/1846126/ets-playlist-1200-7f466.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Click Bait Cinta si Tinggi
+https://media-vidio-com.akamaized.net/uploads/1844859/ets-playlist-900-11f1f.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Cewek Cetar Turun Kasta Dapat Tahta
+https://media-vidio-com.akamaized.net/uploads/1844084/ets-playlist-900-719ca.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Pacarku Cantik Tapi Boong
+https://media-vidio-com.akamaized.net/uploads/1842685/ets-playlist-900-5265c.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",My Wife Ngeselin tapi Ngangenin
+https://media-vidio-com.akamaized.net/uploads/1841778/ets-playlist-1200-cc2b1.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Wig-mu Alihkan Duniaku
+https://media-vidio-com.akamaized.net/uploads/1839114/ets-playlist-1200-d2f4f.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Aku Mau Cinta yang Hunya Hinyu
+https://media-vidio-com.akamaized.net/uploads/1836878/ets-playlist-1200-d38fb.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Mas Jawara In Your Area
+https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Gadis Martabak Hampir Bahagia
+https://media-vidio-com.akamaized.net/uploads/1835163/ets-playlist-1200-6cc14.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Tukang Bajaj Undercover
+https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Bidan KW Sobat Ambyar
+https://media-vidio-com.akamaized.net/uploads/1832817/ets-playlist-1200-2d37a.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Sekretaris Metal Obat Patah Hati
+https://media-vidio-com.akamaized.net/uploads/1831851/ets-playlist-700-63563.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Maduku Tak Sesederhana Truth Or Dare
+https://media-vidio-com.akamaized.net/uploads/1830958/ets-playlist-700-c3146.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Gebetan Gue Tajir Mewangi
+https://media-vidio-com.akamaized.net/uploads/1738540/ets-playlist-900-2c6c3.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Ratu Diskon Cintanya Limited Edition
+https://media-vidio-com.akamaized.net/uploads/1685902/ets-playlist-1600-7bf91.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Nikahnya Sama Dia
+https://media-vidio-com.akamaized.net/uploads/1531510/ets-playlist-1600-bbe29.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",My Wife Anak Geng Motor
+https://media-vidio-com.akamaized.net/uploads/1657106/ets-playlist-900-b2f1d.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Mengejar Cinta? Siap Bosque
+https://media-vidio-com.akamaized.net/uploads/1673681/ets-playlist-1600-e3afc.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Milyader Kece Dengan Kearifan Lokal
+https://media-vidio-com.akamaized.net/uploads/1662722/ets-playlist-1600-06596.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Digombalin Miss Kecambah Auto Baper
+https://media-vidio-com.akamaized.net/uploads/1680605/ets-playlist-1600-baeae.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Cewek Kalong Pacaran Yuk
+https://media-vidio-com.akamaized.net/uploads/1817788/ets-playlist-700-0ed5d.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Demo Syantik Mahasiswi Cetar
+https://media-vidio-com.akamaized.net/uploads/1809819/ets-playlist-1200-9219d.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Senoparty Goes To Kandang Bebek
+https://geo-id-media-vidio-com.akamaized.net/uploads/1819874/ets-playlist-700-edafb.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Mantan Please Do Your Magic
+https://media-vidio-com.akamaized.net/uploads/1822341/ets-playlist-700-666a1.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Jiwa Kejombloanku Terguncang
+https://geo-id-media-vidio-com.akamaized.net/uploads/1821183/ets-playlist-1200-ed0d7.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Rayuan Gombal Kumbang Metropolitan
+https://media-vidio-com.akamaized.net/uploads/1824246/ets-playlist-700-412b2.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Mbok Jamu Milenial Cintanya Ambyar
+https://geo-id-media-vidio-com.akamaized.net/uploads/1818856/ets-playlist-700-87c71.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Wasiat Eyang Bikin Baper So Hard
+https://media-vidio-com.akamaized.net/uploads/1823379/ets-playlist-700-75202.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Menantu Bayaran Bikin Salfok Duniaku
+https://geo-id-media-vidio-com.akamaized.net/uploads/1748300/ets-playlist-900-3d669.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Bikin Romantis
+https://geo-id-media-vidio-com.akamaized.net/uploads/291848/playlist-1200-2cc18.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Cintaku Semerbak di Florist
+https://geo-id-media-vidio-com.akamaized.net/uploads/764168/playlist-1200-4c5f9.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Kaki Lima Rasa Bintang Lima
+https://media-vidio-com.akamaized.net/uploads/1640672/ets-playlist-1600-9abc2.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Ratu Montir Sejagad
+https://geo-id-media-vidio-com.akamaized.net/uploads/1220317/playlist-1200-33a98.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Perempuan Dalam Sangkar Emas
+https://geo-id-media-vidio-com.akamaized.net/uploads/1177041/playlist-1200-bcc72.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Setangkai Rambutan Cinta
+https://geo-id-media-vidio-com.akamaized.net/uploads/1228364/playlist-1200-3004e.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Pacarku Sang Juara No 27
+https://geo-id-media-vidio-com.akamaized.net/uploads/829290/playlist-1200-4ce7f.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Hatiku di Skakmat by You
+https://media-vidio-com.akamaized.net/uploads/1651054/ets-playlist-1600-119ef.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Gadis +62 Lupa Cinta
+https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3u8
+#EXTINF:-1 group-title="FTV Indonesia",Energi Cinta Cinderella Matre
+https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E13
+https://media-vidio-com.akamaized.net/uploads/1861899/ets-heart-20eps-2013_fnl_rvs-dc25_5aa6f932_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E12
+https://media-vidio-com.akamaized.net/uploads/1854577/ets-heart-20eps-2012_fnl-ea3f_8ad0e2f4_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E11
+https://media-vidio-com.akamaized.net/uploads/1847631/ets-heart-20eps-2011_fnl-20rvs-20fix-c079_59ea2bcc_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E10
+https://media-vidio-com.akamaized.net/uploads/1841277/ets-heart-20eps-2010_fnl-9c57_f6ed4238_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E09
+https://media-vidio-com.akamaized.net/uploads/1835555/ets-heart_eps-209_mix_logo-20id-20bawah-d653_bbe51e20_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E08
+https://media-vidio-com.akamaized.net/uploads/1828308/ets-heart_eps-208_mix_logo-20id-20bawah-b023_d7b7e890_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E07
+https://media-vidio-com.akamaized.net/uploads/1820525/ets-heart_eps-207_mix_logo-20id-20bawah-213b_fcf9ad7a_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E06
+https://media-vidio-com.akamaized.net/uploads/1813733/ets-heart_eps-206_mix_logo-20id-20bawah-7249_81ad6678_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E05
+https://media-vidio-com.akamaized.net/uploads/1803921/ets-heart_eps-205_mix_logo-20id-20bawah-1469_8a5f5e5c_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E04
+https://media-vidio-com.akamaized.net/uploads/1793946/ets-heart_eps-2004_mix_logo-20bawah-53ff_b45e6bb5_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E03
+https://media-vidio-com.akamaized.net/uploads/1787164/ets-heart_eps-203_mix_logo-20bawah-61c2_cd3f6d78_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E02
+https://media-vidio-com.akamaized.net/uploads/1778516/ets-eps_02-20heart-20online-20mix_logo-20bawah-2782_high.mp4.m3u8
+#EXTINF:-1 group-title="HEART SERIES",HEART S01E01
+https://media-vidio-com.akamaized.net/uploads/1766535/ets-eps_01-20heart-20online-20mix_logo-20bawah-f594_high.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [1080]
+https://www.googleapis.com/drive/v3/files/1FkKXOrwqpcYwITFyMdnyynsknXF5wlgb?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [Backup]
+http://www.supercartube.com/media/videos/h264/999_720p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA",Setetes Noda Manis (1994) [720p]
+https://cdn-stream.metube.id/videom3u8/IQPzJVerMxx6sVUwsoLE/720p/list.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Basahhh [1080p]
+https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 3 [1080p]
+https://media-vidio-com.akamaized.net/uploads/1507491/ets-get-20married-203-20feature-20-20convert-08af-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 2 [360p]
+https://media-vidio-com.akamaized.net/uploads/1507784/ets-get-20married-202-20feature-20-20convert-fea7-b900.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Ketika [1080]
+https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Kukejar Cinta ke Negeri Cina [1080p]
+https://media-vidio-com.akamaized.net/uploads/1508152/ets-kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Manusia Setengah Salmon [1080p]
+https://media-vidio-com.akamaized.net/uploads/1508117/ets-manusia-20setengah-20salmon-20feature-convert-39e7-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Mau dong... ah [720p]
+https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_6f3c5f3e_high.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Promise [1080p]
+https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_b07d8137_premier.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Quickie Express [1080p]
+https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Super Didi [1080p]
+https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",The Mentalist [1080p]
+https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b8000.mp4.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA NEW",Kris Siamang Tunggal
+https://video.fsub8-1.fna.fbcdn.net/v/t39.24130-2/10000000_472054756773940_6572890734099874254_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_p2p=0&_nc_oc=AQnzi5Darj69U7rRD6O2Af_DEhULydj9BXPJK3inXmRW2WTJk5iSzbZ7clgZVkGaLho&_nc_ht=video.fsub8-1.fna&oh=af4dd576448e3e78a1ec3a5cf3820836&oe=5EC846E8
 #EXTINF:-1 group-title="VoD Mandarin",《电影千局1》
 https://135zyv6.xw0371.com/2019/03/19/K9W3TbRk4Ge0oiF7/playlist.m3u8
 #EXTINF:-1 group-title="VoD Mandarin",《电影齐天大圣之火焰山》
@@ -2389,14 +2408,10 @@ https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1.flv
 https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv
 #EXTINF:-1 group-title="VoD 24/7",Giọng Ải Giọng Ai KOREA
 https://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049.flv
-
-
 #EXTINF:-1 group-title="Nashya ID Backup",Trans7
 https://dl.dropbox.com/s/3tnb8vrsswwhcfy/Trans7.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",Trans TV
 https://dl.dropbox.com/s/4h0n6tqnrtbduu9/Transtv.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya ID Backup",RTV
-https://dl.dropbox.com/s/ulxp0vub482y2h2/RTV2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",NET.TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Nashya ID Backup",TRANSTV +
@@ -2461,16 +2476,6 @@ https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",Indo Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Nashya ID Backup",MNC Shop Trendy
-https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
-#EXTINF:-1 group-title="Nashya ID Backup",MNC Shop Smart
-https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_hls/MNCShopSmart.m3u8
-#EXTINF:-1 group-title="Nashya ID Backup",MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
-#EXTINF:-1 group-title="Nashya ID Backup",MNC Comedy
-https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-#EXTINF:-1 group-title="Nashya ID Backup",MNC Movie
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",MBC MAX(2)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",MBC Action
@@ -2553,7 +2558,7 @@ https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
-#EXTINF:-1 group-title="Nashya ID Backup",BLUEANT ENTERTAINMENT
+#EXTINF:-1 group-title="Nashya ID Backup",BLUEANT NashyaIPtv
 http://45.126.83.51/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",LBS TV (K-DRAMA)
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
@@ -2589,11 +2594,6 @@ http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/
 http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/02.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-
-#EXTINF:-1 group-title="Backup Nashya",HBO1
-http://95.170.215.118/hls/m3u8/HBO.m3u8
-#EXTINF:-1 group-title="Backup Nashya",HBO2
-http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 #EXTINF:-1 group-title="Backup Nashya",[TH]FOX-Action
 http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Backup Nashya",[TH]FOX Action
@@ -2974,8 +2974,6 @@ https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
 https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
 #EXTINF:-1 group-title="Malaysia",Astro Go Shop ????
 https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
-#EXTINF:-1 group-title="Malaysia",Astro Citra
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 #EXTINF:-1 group-title="Malaysia",ASTRO MOVIE
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Malaysia",ASTRO CHINESE
@@ -3152,8 +3150,6 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Asia",C� Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="Asia",DaNang TV1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="Asia",DDTV
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:-1 group-title="Asia",Do Channel
@@ -3576,8 +3572,6 @@ http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
 #EXTINF:-1 group-title="Chinnese",SET News
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 group-title="India",Zee TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
 #EXTINF:-1 group-title="India",Zee Action
 https://streamer-1.toffeelive.com/live/zee_action_576/index.m3u8
 #EXTINF:-1 group-title="India",Sony TV
@@ -4296,10 +4290,6 @@ http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
 https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
 #EXTINF:-1 group-title="America",Law And Crime Network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 group-title="America",Leominster TV Educational
-http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="America",Leominster TV Educational
-http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="America",Leominster TV Government
 http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="America",Leominster TV Government
@@ -4810,209 +4800,3 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 group-title="EMIRATE",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Pacar Trial Nona Es Kelapa Muda
-https://media-vidio-com.akamaized.net/uploads/1893117/ets-playlist-1200-33e13.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Aku Bisa Apa
-https://media-vidio-com.akamaized.net/uploads/1891298/ets-playlist-1200-2e2b4.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Siapa Takut Cewek Galak?
-https://media-vidio-com.akamaized.net/uploads/1890029/ets-playlist-1200-82a70.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Badut Santuy To The Max
-https://media-vidio-com.akamaized.net/uploads/1866883/ets-playlist-1200-dbf14.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Inem Asisten Seksi Repot
-https://media-vidio-com.akamaized.net/uploads/1865333/ets-playlist-900-31d5d.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Akhirnya Kopilih Aku Daripada Dia
-https://media-vidio-com.akamaized.net/uploads/1864807/ets-playlist-900-bca1f.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Neng Supir Aku Tanpamu I'Mbyar
-https://media-vidio-com.akamaized.net/uploads/1864179/ets-playlist-1200-007f2.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Biar Tak Seumur Cintaku Pantang Mundur
-https://media-vidio-com.akamaized.net/uploads/1863511/ets-playlist-1200-d1ff4.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Cintaku Bernapas dalam Bubur
-https://media-vidio-com.akamaized.net/uploads/1862362/ets-playlist-400-92508.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Jodoh Gak Akan Kemana Saingan Dimana-Mana
-https://media-vidio-com.akamaized.net/uploads/1861383/ets-playlist-900-4abd3.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Pacar Gue Bukan Cewek Gedongan
-https://media-vidio-com.akamaized.net/uploads/1860478/ets-playlist-1200-166a2.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Biduan Gerobak Dangdut Trending
-https://media-vidio-com.akamaized.net/uploads/1859430/ets-playlist-1200-dc567.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Pantang Pulang Sebelum Jadian
-https://media-vidio-com.akamaized.net/uploads/1858476/ets-playlist-1200-27fd5.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Modus Cinta Tingkat Kuli
-https://media-vidio-com.akamaized.net/uploads/1857514/ets-playlist-1200-757de.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Aku Cinta Kamu 3000 Kilo
-https://media-vidio-com.akamaized.net/uploads/1856382/ets-playlist-1200-361f7.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Aku Terlalu Palsu Untuk Cintamu yang Asli
-https://media-vidio-com.akamaized.net/uploads/1855254/ets-playlist-1200-614cf.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Jodoh Cewek Sapi Kena Cancel
-https://media-vidio-com.akamaized.net/uploads/1854077/ets-playlist-1200-d7e1a.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Cinta Kamu Munculnya di Ending
-https://media-vidio-com.akamaized.net/uploads/1852950/ets-playlist-1200-857d5.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Miss Kinclong Colong Hatiku
-https://media-vidio-com.akamaized.net/uploads/1851907/ets-playlist-1200-9651c.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Kekuatan Cintamu Bertegangan Tinggi
-https://media-vidio-com.akamaized.net/uploads/1851126/ets-playlist-1200-a4cae.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Dear Eneng Bebekku Sayang
-https://media-vidio-com.akamaized.net/uploads/1850341/ets-playlist-1200-d8d99.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Cowok Mreki Bikin Jatuh Hati
-https://media-vidio-com.akamaized.net/uploads/1849322/ets-playlist-1200-b4b6b.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Kue Leker Bukan Kaleng-Kaleng
-https://media-vidio-com.akamaized.net/uploads/1848390/ets-playlist-1200-1e6bc.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Bongkar Saldo Cinta Supir Truk Modis
-https://media-vidio-com.akamaized.net/uploads/1847273/ets-playlist-1200-05e49.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Boss Killer Juteknya Level Halilintar
-https://media-vidio-com.akamaized.net/uploads/1846126/ets-playlist-1200-7f466.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Click Bait Cinta si Tinggi
-https://media-vidio-com.akamaized.net/uploads/1844859/ets-playlist-900-11f1f.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Cewek Cetar Turun Kasta Dapat Tahta
-https://media-vidio-com.akamaized.net/uploads/1844084/ets-playlist-900-719ca.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Pacarku Cantik Tapi Boong
-https://media-vidio-com.akamaized.net/uploads/1842685/ets-playlist-900-5265c.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",My Wife Ngeselin tapi Ngangenin
-https://media-vidio-com.akamaized.net/uploads/1841778/ets-playlist-1200-cc2b1.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Wig-mu Alihkan Duniaku
-https://media-vidio-com.akamaized.net/uploads/1839114/ets-playlist-1200-d2f4f.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Aku Mau Cinta yang Hunya Hinyu
-https://media-vidio-com.akamaized.net/uploads/1836878/ets-playlist-1200-d38fb.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Mas Jawara In Your Area
-https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Gadis Martabak Hampir Bahagia
-https://media-vidio-com.akamaized.net/uploads/1835163/ets-playlist-1200-6cc14.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Tukang Bajaj Undercover
-https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Bidan KW Sobat Ambyar
-https://media-vidio-com.akamaized.net/uploads/1832817/ets-playlist-1200-2d37a.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Sekretaris Metal Obat Patah Hati
-https://media-vidio-com.akamaized.net/uploads/1831851/ets-playlist-700-63563.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Maduku Tak Sesederhana Truth Or Dare
-https://media-vidio-com.akamaized.net/uploads/1830958/ets-playlist-700-c3146.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Gebetan Gue Tajir Mewangi
-https://media-vidio-com.akamaized.net/uploads/1738540/ets-playlist-900-2c6c3.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Ratu Diskon Cintanya Limited Edition
-https://media-vidio-com.akamaized.net/uploads/1685902/ets-playlist-1600-7bf91.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Nikahnya Sama Dia
-https://media-vidio-com.akamaized.net/uploads/1531510/ets-playlist-1600-bbe29.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",My Wife Anak Geng Motor
-https://media-vidio-com.akamaized.net/uploads/1657106/ets-playlist-900-b2f1d.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Mengejar Cinta? Siap Bosque
-https://media-vidio-com.akamaized.net/uploads/1673681/ets-playlist-1600-e3afc.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Milyader Kece Dengan Kearifan Lokal
-https://media-vidio-com.akamaized.net/uploads/1662722/ets-playlist-1600-06596.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Digombalin Miss Kecambah Auto Baper
-https://media-vidio-com.akamaized.net/uploads/1680605/ets-playlist-1600-baeae.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Cewek Kalong Pacaran Yuk
-https://media-vidio-com.akamaized.net/uploads/1817788/ets-playlist-700-0ed5d.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Demo Syantik Mahasiswi Cetar
-https://media-vidio-com.akamaized.net/uploads/1809819/ets-playlist-1200-9219d.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Senoparty Goes To Kandang Bebek
-https://geo-id-media-vidio-com.akamaized.net/uploads/1819874/ets-playlist-700-edafb.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Mantan Please Do Your Magic
-https://media-vidio-com.akamaized.net/uploads/1822341/ets-playlist-700-666a1.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Jiwa Kejombloanku Terguncang
-https://geo-id-media-vidio-com.akamaized.net/uploads/1821183/ets-playlist-1200-ed0d7.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Rayuan Gombal Kumbang Metropolitan
-https://media-vidio-com.akamaized.net/uploads/1824246/ets-playlist-700-412b2.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Mbok Jamu Milenial Cintanya Ambyar
-https://geo-id-media-vidio-com.akamaized.net/uploads/1818856/ets-playlist-700-87c71.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Wasiat Eyang Bikin Baper So Hard
-https://media-vidio-com.akamaized.net/uploads/1823379/ets-playlist-700-75202.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Menantu Bayaran Bikin Salfok Duniaku
-https://geo-id-media-vidio-com.akamaized.net/uploads/1748300/ets-playlist-900-3d669.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Bikin Romantis
-https://geo-id-media-vidio-com.akamaized.net/uploads/291848/playlist-1200-2cc18.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Cintaku Semerbak di Florist
-https://geo-id-media-vidio-com.akamaized.net/uploads/764168/playlist-1200-4c5f9.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Resep Cinta Kaki Lima Rasa Bintang Lima
-https://media-vidio-com.akamaized.net/uploads/1640672/ets-playlist-1600-9abc2.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Ratu Montir Sejagad
-https://geo-id-media-vidio-com.akamaized.net/uploads/1220317/playlist-1200-33a98.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Perempuan Dalam Sangkar Emas
-https://geo-id-media-vidio-com.akamaized.net/uploads/1177041/playlist-1200-bcc72.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Setangkai Rambutan Cinta
-https://geo-id-media-vidio-com.akamaized.net/uploads/1228364/playlist-1200-3004e.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Pacarku Sang Juara No 27
-https://geo-id-media-vidio-com.akamaized.net/uploads/829290/playlist-1200-4ce7f.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Hatiku di Skakmat by You
-https://media-vidio-com.akamaized.net/uploads/1651054/ets-playlist-1600-119ef.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Gadis +62 Lupa Cinta
-https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3u8
-#EXTINF:-1 group-title="FTV Indonesia",Energi Cinta Cinderella Matre
-https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E13
-https://media-vidio-com.akamaized.net/uploads/1861899/ets-heart-20eps-2013_fnl_rvs-dc25_5aa6f932_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E12
-https://media-vidio-com.akamaized.net/uploads/1854577/ets-heart-20eps-2012_fnl-ea3f_8ad0e2f4_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E11
-https://media-vidio-com.akamaized.net/uploads/1847631/ets-heart-20eps-2011_fnl-20rvs-20fix-c079_59ea2bcc_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E10
-https://media-vidio-com.akamaized.net/uploads/1841277/ets-heart-20eps-2010_fnl-9c57_f6ed4238_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E09
-https://media-vidio-com.akamaized.net/uploads/1835555/ets-heart_eps-209_mix_logo-20id-20bawah-d653_bbe51e20_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E08
-https://media-vidio-com.akamaized.net/uploads/1828308/ets-heart_eps-208_mix_logo-20id-20bawah-b023_d7b7e890_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E07
-https://media-vidio-com.akamaized.net/uploads/1820525/ets-heart_eps-207_mix_logo-20id-20bawah-213b_fcf9ad7a_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E06
-https://media-vidio-com.akamaized.net/uploads/1813733/ets-heart_eps-206_mix_logo-20id-20bawah-7249_81ad6678_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E05
-https://media-vidio-com.akamaized.net/uploads/1803921/ets-heart_eps-205_mix_logo-20id-20bawah-1469_8a5f5e5c_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E04
-https://media-vidio-com.akamaized.net/uploads/1793946/ets-heart_eps-2004_mix_logo-20bawah-53ff_b45e6bb5_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E03
-https://media-vidio-com.akamaized.net/uploads/1787164/ets-heart_eps-203_mix_logo-20bawah-61c2_cd3f6d78_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E02
-https://media-vidio-com.akamaized.net/uploads/1778516/ets-eps_02-20heart-20online-20mix_logo-20bawah-2782_high.mp4.m3u8
-#EXTINF:-1 group-title="HEART SERIES",HEART S01E01
-https://media-vidio-com.akamaized.net/uploads/1766535/ets-eps_01-20heart-20online-20mix_logo-20bawah-f594_high.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [1080]
-https://www.googleapis.com/drive/v3/files/1FkKXOrwqpcYwITFyMdnyynsknXF5wlgb?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [720]
-https://www.googleapis.com/drive/v3/files/1Pzc1aOuqaiBOKBi8mJeOBMeA8y2Lhvkk?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
-#EXTINF:-1 group-title="FILM INDONESIA",Gundala (2019) [Backup]
-http://www.supercartube.com/media/videos/h264/999_720p.mp4
-#EXTINF:-1 group-title="FILM INDONESIA",Setetes Noda Manis (1994) [720p]
-https://cdn-stream.metube.id/videom3u8/IQPzJVerMxx6sVUwsoLE/720p/list.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Basahhh [720p]
-https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b1600.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Basahhh [1080p]
-https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 3 [720p]
-https://media-vidio-com.akamaized.net/uploads/1507491/get-20married-203-20feature-20-20convert-08af-b1200.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 3 [1080p]
-https://media-vidio-com.akamaized.net/uploads/1507491/ets-get-20married-203-20feature-20-20convert-08af-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 2 [360p]
-https://media-vidio-com.akamaized.net/uploads/1507784/ets-get-20married-202-20feature-20-20convert-fea7-b900.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Get Married 1 [416p]
-https://media-vidio-com.akamaized.net/uploads/1507783/get-20married-20feature-20-20convert-ea65-b1200.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Ketika [720p]
-https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b1600.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Ketika [1080]
-https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Kukejar Cinta ke Negeri Cina [720p]
-https://media-vidio-com.akamaized.net/uploads/1508152/kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b1200.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Kukejar Cinta ke Negeri Cina [1080p]
-https://media-vidio-com.akamaized.net/uploads/1508152/ets-kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Manusia Setengah Salmon [720p]
-https://media-vidio-com.akamaized.net/uploads/1508117/manusia-20setengah-20salmon-20feature-convert-39e7-b1200.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Manusia Setengah Salmon [1080p]
-https://media-vidio-com.akamaized.net/uploads/1508117/ets-manusia-20setengah-20salmon-20feature-convert-39e7-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Mau dong... ah [720p]
-https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_6f3c5f3e_high.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Mau dong... ah [1080p]
-https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_2f4d8615_premier.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Promise [720p]
-https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_805ceb28_high.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Promise [1080p]
-https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_b07d8137_premier.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Quickie Express [720p]
-https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b1600.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Quickie Express [1080p]
-https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Super Didi [720p]
-https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b1600.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Super Didi [1080p]
-https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",The Mentalist [720p]
-https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b1600.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",The Mentalist [1080p]
-https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b8000.mp4.m3u8
-#EXTINF:-1 group-title="FILM INDONESIA NEW",Kris Siamang Tunggal
-https://video.fsub8-1.fna.fbcdn.net/v/t39.24130-2/10000000_472054756773940_6572890734099874254_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_p2p=0&_nc_oc=AQnzi5Darj69U7rRD6O2Af_DEhULydj9BXPJK3inXmRW2WTJk5iSzbZ7clgZVkGaLho&_nc_ht=video.fsub8-1.fna&oh=af4dd576448e3e78a1ec3a5cf3820836&oe=5EC846E8
