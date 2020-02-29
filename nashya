@@ -1342,19 +1342,20 @@ http://54k.top:8000/live/android/hytmmnb/50.ts
 http://54k.top:8000/live/android/hytmmnb/49.ts
 #EXTINF:-1 group-title="FEED BeIn",Bein Sport (8) 4K
 http://54k.top:8000/live/android/hytmmnb/48.ts
-#EXTINF:-1 group-title="FEED",Bein Sport (10) 4K
+#EXTINF:-1 group-title="FEED BeIn",Bein Sport (10) 4K
 http://54k.top:8000/live/android/hytmmnb/53.ts
 
 #EXTINF:-1 group-title="Sportivo Nashya",Liga Indonesia
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/yusiap
-#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 1 HD
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+http://bit.ly/3cm6Muf
+#EXTINF:-1 group-title="Sportivo Nashya",CHAMPIONS 1 HD
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
-#EXTINF:-1 group-title="Nashya Sport",CHAMPIONS 2 HD
+#EXTINF:-1 group-title="Sportivo Nashya"",CHAMPIONS 2 HD
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
-#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 1 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
-#EXTINF:-1 group-title="Nashya Sport",USEE SPORT 2 HD
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
+#EXTINF:-1 group-title="Sportivo Nashya"",USEE SPORT 1 HD
+http://bit.ly/389JEfd
+#EXTINF:-1 group-title="Sportivo Nashya",USEE SPORT 2 HD
+http://bit.ly/2T9EVGb
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 1
 http://bit.ly/39OuUDJ
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT2
