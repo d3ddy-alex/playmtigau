@@ -1365,8 +1365,7 @@ http://54k.top:8000/live/android/hytmmnb/48.ts
 http://54k.top:8000/live/android/hytmmnb/53.ts
 
 #EXTINF:-1 group-title="Sportivo Nashya", Liga Indonesia
-https://etslive-2-vidio-com.akamaized.net/exp=1583177261~acl=/hls-p/ingest_206_*/*~hmac=961028df94f3883b1f3842f2b239848a49985bdfbecc7ae0b20f948c8662bbf5/hls-p/ingest_206_720p/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya", Liga Indonesia 1
+https://etslive-2-vidio-com.akamaized.net/exp=1583177776~acl=/hls-p/ingest_206_*/*~hmac=90b4cc5c032ecfb9152e0747a4b940d24f57c0681d4a0d415ce0ec5ea5bf250a/hls-p/ingest_206_720p/index.m3u8#EXTINF:-1 group-title="Sportivo Nashya", Liga Indonesia 1
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/lauguone
 #EXTINF:-1 group-title="Sportivo Nashya", Liga Indonesia 2
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/one
