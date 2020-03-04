@@ -642,6 +642,35 @@ http://122.248.43.138:1935/ch9/myStream/live.m3u8
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies ID",FOX Movies Premium
+http://bit.do/fx6T6
+#EXTINF:-1 group-title="Movies ID",FOX Life
+http://bit.do/fx6UK
+#EXTINF:-1 group-title="Movies ID",FOX Family Movies
+http://bit.do/fx6U3
+#EXTINF:-1 group-title="Movies ID",FOX Crime
+http://bit.do/fx6Vq
+#EXTINF:-1 group-title="Movies ID",FOX Action Movies
+http://bit.do/fx6VD
+#EXTINF:-1 group-title="Movies ID",Fox
+http://bit.do/fx6VQ
+#EXTINF:-1 group-title="Movies ID",FX
+http://bit.do/fx6Wb
+#EXTINF:-1 group-title="Movies ID",HBO
+http://bit.do/fx75t
+#EXTINF:-1 group-title="Movies ID",HBO Hits
+http://bit.do/fx757
+#EXTINF:-1 group-title="Movies ID",HBO Hits FHD
+http://bit.do/fx76m
+#EXTINF:-1 group-title="Movies ID",HBO Family
+http://bit.do/fx76F
+#EXTINF:-1 group-title="Movies ID",HBO Signature
+http://bit.do/fx766
+#EXTINF:-1 group-title="Movies ID",Red by HBO
+http://bit.do/fx6Yt
+#EXTINF:-1 group-title="Movies ID",Cinemax
+http://bit.do/fx6YH
 #EXTINF:-1 group-title="Movies ID",AXN BU
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 group-title="Movies ID",JGO
@@ -711,9 +740,11 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
 #EXTINF:-1 group-title="Nashya Sport", Useesport 1
-https://dl.dropboxusercontent.com/s/x99r9tsvaebhwme/Usee1.m3u8?dl=0
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi1
+#https://dl.dropboxusercontent.com/s/x99r9tsvaebhwme/Usee1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport", Useesport 2
-https://dl.dropboxusercontent.com/s/0npuwznzj2lvqot/Usee2.m3u8?dl=0
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/usi2
+#https://dl.dropboxusercontent.com/s/0npuwznzj2lvqot/Usee2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",ChampionsTV1
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampion1
 #EXTINF:-1 group-title="Nashya Sport", ChampionsTV2
@@ -1349,7 +1380,7 @@ http://54k.top:8000/live/android/hytmmnb/48.ts
 http://54k.top:8000/live/android/hytmmnb/53.ts
 
 #EXTINF:-1 group-title="Sportivo Nashya", Liga Indonesia
-http://bit.ly/2VHpu9R
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/lauguone
 #EXTINF:-1 group-title="Sportivo Nashya", CHAMPIONS 1 HD
 http://bit.ly/2x48oZC
 #https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
@@ -2501,6 +2532,47 @@ https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1.flv
 https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv
 #EXTINF:-1 group-title="VoD 24/7",Giọng Ải Giọng Ai KOREA
 https://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049.flv
+
+#EXTINF:-1 group-title="Nashya ID Backup",GLOBAL TV SD
+http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",SCTV SD
+http://202.80.222.174/000001/2/ch15010918464887721048/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",RCTI SD
+http://202.80.222.174/000001/2/ch14041511532707866226/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",GLOBALTV SD
+http://202.80.222.174/000001/2/ch14041511505498448705/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",MNCTV SD
+http://202.80.222.174/000001/2/ch14041511111714365733/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",NET_SD
+http://202.80.222.174/000001/2/ch00000090990000001723/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",TRANS7 SD
+http://202.80.222.174/000001/2/ch14041511545447343123/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",TRANSTV SD
+http://202.80.222.174/000001/2/ch14041511552652254306/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",ANTV SD
+http://202.80.222.174/000001/2/ch14061215034900095272/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",TVONE SD
+http://202.80.222.174/000001/2/ch14061215030555428637/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",RTV SD
+http://202.80.222.174/000001/2/ch00000090990000001716/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",JAKTV SD
+http://202.80.222.174:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",INDOSIAR SD
+http://202.80.222.174:80/000001/2/ch15051810235326945512/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",I News SD
+http://202.80.222.174/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",TV One SD
+http://202.80.222.174/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",Bali TV SD
+http://202.80.222.174/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",INTV SD
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1 group-title="Nashya ID Backup",CNN SD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="Nashya ID Backup",I NEWS SD
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Nashya ID Backup",KOMPAS SD
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Nashya ID Backup",Trans7
 https://dl.dropbox.com/s/3tnb8vrsswwhcfy/Trans7.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya ID Backup",Trans TV
@@ -2687,6 +2759,7 @@ http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/
 http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/02.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
+
 #EXTINF:-1 group-title="Backup Nashya",[TH]FOX-Action
 http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Backup Nashya",[TH]FOX Action
