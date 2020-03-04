@@ -410,44 +410,116 @@ https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
 https://www.doofree88.com/streaming/hd-history_720/index.m3u8
 #EXTINF:-1 group-title="Docu",Discovery Asia
 https://www.doofree88.com/streaming/hd-discovery_720/index.m3u8
-#EXTINF:-1 group-title="KIDS",Spark Play
-https://www.doofree88.com/streaming/sd-sparkplay_480/index.m3u8
-#EXTINF:-1 group-title="KIDS",Spark Jump
-https://www.doofree88.com/streaming/sd-sparkjump_480/index.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoon Network
-https://www.doofree88.com/streaming/sd-cartoonnetwork_480/index.m3u8
-#EXTINF:-1 group-title="KIDS",Disney Channel
-https://www.doofree88.com/streaming/sd-disney_480/index.m3u8
-#EXTINF:-1 group-title="KIDS",Disney XD
-https://www.doofree88.com/streaming/hd-disneyxd_720/index.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoon Club
-https://www.doofree88.com/streaming/sd-cartoonclub_480/index.m3u8
-#EXTINF:-1 group-title="KIDS",ANIPLUS _session
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoon Network
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1 group-title="KIDS",Toonee
-http://96.30.124.100:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoon Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KIDS",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Duck TV
+
+#EXTINF:-1 group-title="KIDS",BABY TV
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
+#EXTINF:-1 group-title="KIDS",DUCK TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 group-title="KIDS",GONGMAX_TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 group-title="KIDS",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 group-title="KIDS",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="KIDS",Animax
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1 group-title="KIDS",My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 group-title="KIDS",Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS",BABY TV
+http://iliketot.dyndns.tv:80/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6NDU6MzEgUE0maGFzaF92YWx1ZT00ZlpSSlNNZERpZW16MWMrQmlVSjJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkwNXx1cGxheXwxNTMyMzUzNTMxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="KIDS",My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 group-title="KIDS",Disney Junior ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="KIDS",DAVINCI LEARNING
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+#EXTINF:-1 group-title="KIDS",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 group-title="KIDS",Toonmax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 group-title="KIDS",SATKIDS
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",BABY TV
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
+#EXTINF:-1 group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 group-title="KIDS",GONGMAX_TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 group-title="KIDS",EBS Anak2 BKC&IC
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS",Boomerang kids
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="KIDS",FULL KIDS
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="KIDS",BABY TV
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
+#EXTINF:-1 group-title="KIDS",BORUTO NEXT GENERATION
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+#EXTINF:-1 group-title="KIDS",CAPTAIN TSUBASA 2019
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+#EXTINF:-1 group-title="KIDS",DETECTIFE CONAN 1
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+#EXTINF:-1 group-title="KIDS",DETECTIFE CONAN 2
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+#EXTINF:-1 group-title="KIDS",ETECTIFE CONAN 3
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+#EXTINF:-1 group-title="KIDS",DORAEMON SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+#EXTINF:-1 group-title="KIDS",DORAEMON MOVIE
+http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+#EXTINF:-1 group-title="KIDS",HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+#EXTINF:-1 group-title="KIDS",INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+#EXTINF:-1 group-title="KIDS",KORUKO' S BASKETBALL
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="KIDS",LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1 group-title="KIDS",TOM & JERRY TV
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 group-title="KIDS",TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+#EXTINF:-1 group-title="KIDS",O NE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+#EXTINF:-1 group-title="KIDS",ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+#EXTINF:-1 group-title="KIDS",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",TSUBASA
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="KIDS",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1 group-title="KIDS",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",JimJam
+http://83.167.253.110:5000/live/jimjam/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:-1 group-title="KIDS",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="KIDS",SAT7kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
+#EXTINF:-1 group-title="KIDS",TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 group-title="KIDS",TRT Cocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 group-title="KIDS",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="KIDS",Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1 group-title="KIDS",Mediacorp 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
-#EXTINF:-1 group-title="KIDS",Kurdmax Pepule
-http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Kuriakos KIDS
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="KIDS",WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+
 #EXTINF:-1 group-title="TV Lokal",Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1 group-title="TV Lokal",Usee Prime
@@ -913,65 +985,6 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 #EXTINF:-1 group-title="Nashya Sport",World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 
-
-#EXTINF:-1 group-title="KIDS",FULL KIDS
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="KIDS",BABY TV
-http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
-#EXTINF:-1 group-title="KIDS",BORUTO NEXT GENERATION
-http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
-#EXTINF:-1 group-title="KIDS",CAPTAIN TSUBASA 2019
-http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
-#EXTINF:-1 group-title="KIDS",DETECTIFE CONAN 1
-http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:-1 group-title="KIDS",DETECTIFE CONAN 2
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-#EXTINF:-1 group-title="KIDS",ETECTIFE CONAN 3
-http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-#EXTINF:-1 group-title="KIDS",DORAEMON SERIES
-http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-#EXTINF:-1 group-title="KIDS",DORAEMON MOVIE
-http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-#EXTINF:-1 group-title="KIDS",HUNTER X HUNTER
-http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-#EXTINF:-1 group-title="KIDS",INUYASHA
-http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
-#EXTINF:-1 group-title="KIDS",KORUKO' S BASKETBALL
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="KIDS",LARVA TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:-1 group-title="KIDS",TOM & JERRY TV
-http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1 group-title="KIDS",TOTALLY SPIES
-http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-#EXTINF:-1 group-title="KIDS",O NE PIECE TV
-http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-#EXTINF:-1 group-title="KIDS",ONE PUNCH MAN
-http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
-#EXTINF:-1 group-title="KIDS",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",TSUBASA
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="KIDS",Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-#EXTINF:-1 group-title="KIDS",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",JimJam
-http://83.167.253.110:5000/live/jimjam/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",KurdMax Papule
-http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-#EXTINF:-1 group-title="KIDS",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="KIDS",SAT7kids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
-#EXTINF:-1 group-title="KIDS",TCT Kids
-http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1 group-title="KIDS",TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 group-title="KIDS",WZra Kids TV
-http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="Oriental",Anhui TV
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
 #EXTINF:-1 group-title="Religious",Makkah TV
 https://streamer-1.toffeelive.com/live/quran_tv_576/index.m3u8
 #EXTINF:-1 group-title="Religious",Madinah TV
