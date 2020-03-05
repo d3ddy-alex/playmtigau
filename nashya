@@ -87,6 +87,8 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="NashyaIPtv",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812" group-title="NashyaIPtv", &PictureHD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="Movies",FX
 http://bit.ly/3cn7PdC
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",FOX
@@ -138,7 +140,7 @@ http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 group-title="NashyaIPtv",Star Chinese Movies
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
-#https://delivery.macan.live/stream/hbo/index.m3u8?token=BBjZUfXZ&v=20200202
+http://103.22.181.99:8081/youlike/hbohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO HD
 http://p2pbrtv.com:80/itcOfE/LvvLKu/118508
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO2
@@ -294,6 +296,7 @@ http://47.89.208.92:3552/cde?termid=2&format=1&ver=liv.CDE-1.0.10&op=3&ckey=b76d
 http://103.28.148.206:25461/hazlami.hamzah2001/569288/4836?token=QhBYV0dYRg4TWVYHWwUBCwQHVQsFXAdQCQUEA1dQA1oBUVYCBwcGDAQaSBAQEEJXVQhvWgIbCVEBBwYdQ0MSB0ttWVIWCkYDAwhUBUFIEkZdCFURXAgGXQsBBgJTBlJOG0JZUhYKRgUDD1YCQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGBFZWBhAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpWA1JTBxBJ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="NashyaIPtv", Astro Super Sport 4
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="NashyaIPtv",USEE SPORT 1
 https://cdnbal1.useetv.com/joss/15/useesport/media_w1152994997_b684100_sleng_96475.ts
 https://dl.dropboxusercontent.com/s/x99r9tsvaebhwme/Usee1.m3u8?dl=0
@@ -658,15 +661,13 @@ http://bit.do/fx6VQ
 #EXTINF:-1 group-title="Movies ID",FX
 http://bit.do/fx6Wb
 #EXTINF:-1 group-title="Movies ID",HBO
-http://bit.do/fx75t
-#EXTINF:-1 group-title="Movies ID",HBO Hits
-http://bit.do/fx757
-#EXTINF:-1 group-title="Movies ID",HBO Hits FHD
-http://bit.do/fx76m
+http://bit.ly/2IptqEc
 #EXTINF:-1 group-title="Movies ID",HBO Family
-http://bit.do/fx76F
+http://bit.ly/2PRIX46
+#EXTINF:-1 group-title="Movies ID",HBO Hits
+http://bit.ly/2PQumpz
 #EXTINF:-1 group-title="Movies ID",HBO Signature
-http://bit.do/fx766
+http://bit.ly/3auTVnT
 #EXTINF:-1 group-title="Movies ID",Red by HBO
 http://bit.do/fx6Yt
 #EXTINF:-1 group-title="Movies ID",Cinemax
@@ -725,7 +726,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
 #EXTINF:-1 group-title="Lifestyle",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",Love Nature
+#EXTINF:-1 group-title="Lifestyle",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
 
 
@@ -739,14 +740,14 @@ http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
-#EXTINF:-1 group-title="Nashya Sport",UseeSport1
-http://bit.ly/2IewR0p
-#EXTINF:-1 group-title="Nashya Sport",Liga UseeSport2
-http://bit.ly/2T9EVGb
-#EXTINF:-1 group-title="Nashya Sport",Liga Champion TV1
-http://bit.ly/2wkBt2o
-#EXTINF:-1 group-title="Nashya Sport",Liga Champion TV2
-http://bit.ly/32QelVQ
+#EXTINF:-1 group-title="Nashya Sport",Useesports 1
+http://bit.ly/32SkOPX
+#EXTINF:-1 group-title="Nashya Sport",Useesports 2
+http://bit.ly/2Tq6RWD
+#EXTINF:-1 group-title="Nashya Sport",Champions 1 TV
+http://bit.ly/38owBa1
+#EXTINF:-1 group-title="Nashya Sport",Champions 2 TV
+http://bit.ly/38ofll9
 #EXTINF:-1 group-title="Nashya Sport",Champion TV3
 http://bit.ly/2VIrcI4
 #EXTINF:-1 group-title="Nashya Sport",Bein Sport 1
@@ -1383,30 +1384,40 @@ http://54k.top:8000/live/android/hytmmnb/53.ts
 
 #EXTINF:-1 group-title="Sportivo Nashya", Liga Indonesia
 http://bit.ly/2POPEUy
-#EXTINF:-1 group-title="Sportivo Nashya", CHAMPIONS 1 HD
-http://bit.ly/2x48oZC
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi1
-#EXTINF:-1 group-title="Sportivo Nashya", CHAMPIONS 2 HD
-http://bit.ly/2wkBt2o
-#https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/kampi2
-#EXTINF:-1 group-title="Sportivo Nashya",Champion TV 3 HD
-http://bit.ly/2If3Lyd
+#EXTINF:-1,Liga Champion TV 1 HD
+http://bit.ly/2vIXfwO
+#EXTINF:-1,Liga Champion TV 2 HD
+http://bit.ly/39rAHj1
+#EXTINF:-1,Champion TV 3 HD
+http://bit.ly/2VOoDnU
 #EXTINF:-1 group-title="Sportivo Nashya", USEE SPORT 1 HD
-http://bit.ly/389JEfd
+http://bit.ly/2IiaNSV
 #EXTINF:-1 group-title="Sportivo Nashya", USEE SPORT 2 HD
-http://bit.ly/2T9EVGb
+http://bit.ly/3avsOJr
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 1
-http://bit.ly/2TzHVuz
+http://bit.ly/2POrXeW
 #http://bit.ly/39OuUDJ
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT2
-http://bit.ly/2Titjkh
+http://bit.ly/2TEPqQL
 #http://bit.ly/38NriSs
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 3
-http://bit.ly/2PFCkSg
+http://bit.ly/32QeAA4
 #http://bit.ly/2SLIUIZ
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 4
-http://bit.ly/2VKmlWG
+http://bit.ly/2TCNNDq
 #http://bit.ly/2vRMEja
+#EXTINF:-1 group-title="Sportivo Nashya",NBC SPORTS HD
+http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&key=50917
+#EXTINF:-1 group-title="Sportivo Nashya",SPORTTV 1
+http://skdn.redi-vo.com/iptv/ch2123?code=138137164006399&key=48317
+#EXTINF:-1 group-title="Sportivo Nashya",SPORTTV 2
+http://skdn.redi-vo.com/iptv/ch2124?code=138137164006399&key=23461
+#EXTINF:-1 group-title="Sportivo Nashya",SPORTTV 3
+http://skdn.redi-vo.com/iptv/ch2125?code=138137164006399&key=54310
+#EXTINF:-1 group-title="Sportivo Nashya",SPORTTV 4
+http://skdn.redi-vo.com/iptv/ch2126?code=138137164006399&key=18673
+#EXTINF:-1 group-title="Sportivo Nashya",SPORTTV 5
+http://skdn.redi-vo.com/iptv/ch2127?code=138137164006399&key=49822
 #EXTINF:-1 group-title="Sportivo Nashya",Skynet Sports 1
 https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Skynet Sports 3
@@ -2067,6 +2078,14 @@ http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp
 https://www.googleapis.com/drive/v3/files/1TZ2sAfQPlryJ0-qSfMgS_uMPnIq96ja-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Nashya ID",Dilan 1990 (2018)
 https://gdrivecdn.us/drive/index.php?id=AgxVrgwEGSM8s4gOaN07ag6dunxTsGwSh6tMAuieajopc819syRKTgsTyVGKtYGlVSProNlUxpKyuTYAjaxVj9idVH2cMyED%2B%2BtGXKr5CVd5CwntBDvWsZymR71yV0yRs%3D&ref=https%3A%2F%2Fbos21.com%2Fwp-content%2Fplugins%2Fgdriveplayer%2Fplayer.php%3Fdata%3D%252F%252Fgdriveplayer.us%252Fembed.php%253Fhash%253D2HOLNhcDh%2525252F4%2525252BUa2B66%2525252FpRANQtYUE9E273M%2525252F4TN6fXGWlSBoiZQmYhQvBr5mQy9Z4QxfXsqAKw2GtUUQuFISBXIAXixvDHIvgj5FCc8UcQ3lkMCnhyHawjmODA4Qm3M62gUV68Iev7tO5BBmHLCm2bFTDzrbQFAzUFaBuySMqJvWqydlUDH7veP4gPzeYedreYnAmzPKbFlrDgO6m8y4ZakUZo1iL6TUTZ6Y5jnbH0Syg9BDtpWRX%2525252BVYRbHwK26dXqQPBJFY6GzhdSO1UE%2525252BXcx7Kyp93QUJC6NvEXFgqzkQeEVYm5p7n49%2525252F2lTAfvCaMKpgN17yRKepXBMhQ34RWIxHuvV8OKqi9RKa5RvMV9OZ%2525252Bh4cJqpCHJIGZwMyoiqxVYu9u97g9YuM1N7hENT89KjXouDg6mfTqs1N%2525252FcskBcIUaMRXRj%2525252BTRyIQOahTJ7HccrQ%2525253D&res=default
+#EXTINF:-1 group-title="VoD",Indiana Jones 1 and the Raiders of the Lost Ark (1981)
+http://191.96.77.23:443/movie/bluray2016/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-1981-Bluray-1080p.mp4/index.m3u8
+#EXTINF:-1 group-title="VoD",Indiana Jones 2 and Temple of Doom (1984)
+http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Temple.Of.Doom.1984.1080p.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="VoD",Indiana Jones 3 and the Last Crusade (1989)
+http://191.96.77.23:443/movie/2017/Indiana.Jones.And.The.Last.Crusade.1989.1080p.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="VoD",Indiana Jones 4 and the Kingdom of the Crystal Skull (2008)
+http://191.96.77.23:443/movie/2017/Indiana.Jones.and.The.Kingdom.of.the.Crystal.Skull.2008.1080p.TH.mp4/index.m3u8
 #EXTINF:-1 group-title="VOD Nashya ID",Bodyguard Ugal-Ugalan (2018)
 http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
 #EXTINF:-1 group-title="VOD Nashya ID",Ondel-Ondel Cinta Arinda (2017)
