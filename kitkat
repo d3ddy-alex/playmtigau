@@ -292,16 +292,16 @@ http://103.28.148.206:25461/hazlami.hamzah2001/569288/4836?token=QhBYV0dYRg4TWVY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="NashyaIPtv", Astro Super Sport 4
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="NashyaIPtv",USEE SPORT 1
-https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/lauguone
+https://etslive-2-vidio-com.akamaized.net/exp=1583507003~acl=/hls-b/ingest_6588_*/*~hmac=aee8b4787aa56abdadbaee55df12299ce7c637088dcf1c936032af4327770166/hls-b/ingest_6588_720p/index.m3u8
 #https://dl.dropboxusercontent.com/s/x99r9tsvaebhwme/Usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="NashyaIPtv",USEE SPORT 2
 https://etslive-2-vidio-com.akamaized.net/exp=1583502726~acl=/hls-p/ingest_6589_*/*~hmac=1eed02735e18997d93a1e4e31bbbea61234e931262e8bc0dd534ef799d8344ed/hls-p/ingest_6589_720p/1583488358361.ts
 #https://dl.dropboxusercontent.com/s/0npuwznzj2lvqot/Usee2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNrdr8N/chamo1logo.png" group-title="NashyaIPtv", CHAMPION TV 1
-http://bit.ly/2wkBt2o
+https://etslive-2-vidio-com.akamaized.net/exp=1583506743~acl=/hls-b/ingest_geo_6685_*/*~hmac=f128bcffa9e26761d9fa348a70f2e2de9c3a0a922e080170d2eb1a8d3f81a176/hls-b/ingest_geo_6685_480p/index.m3u8
 #https://cdnmdc1.useetv.com/joss/194/champion1/media_w23317968_b684100_sleng_96514.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTkpBBS/chamo2logo.png" group-title="NashyaIPtv", CHAMPION TV 2
-http://bit.ly/3aiwazj
+https://etslive-2-vidio-com.akamaized.net/exp=1583506743~acl=/hls-b/ingest_geo_6686_*/*~hmac=127b77a3b947b7a6f1b6fed9e534dcc8038c63c9149a0b01586b390e63cc691a/hls-b/ingest_geo_6686_480p/index.m3u8
 #https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w879747948_b1344100_sleng.m3u8?enc=I-K_llRGAnR37kHNVQMTMQ&exp=1582743608
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="NashyaIPtv", usee sport 1 HD
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
