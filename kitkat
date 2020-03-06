@@ -292,8 +292,7 @@ http://103.28.148.206:25461/hazlami.hamzah2001/569288/4836?token=QhBYV0dYRg4TWVY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="NashyaIPtv", Astro Super Sport 4
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="NashyaIPtv",USEE SPORT 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583502668~acl=/hls-p/ingest_102_*/*~hmac=3708c264ca04ab0c2a8abe127004a14ebb4e3d590f4c52515ce74c11c8424a7f/hls-p/ingest_102_720p/1583488278915.ts
-#https://dl.dropboxusercontent.com/s/x99r9tsvaebhwme/Usee1.m3u8?dl=0
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/lauguone#https://dl.dropboxusercontent.com/s/x99r9tsvaebhwme/Usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="NashyaIPtv",USEE SPORT 2
 https://etslive-2-vidio-com.akamaized.net/exp=1583502726~acl=/hls-p/ingest_6589_*/*~hmac=1eed02735e18997d93a1e4e31bbbea61234e931262e8bc0dd534ef799d8344ed/hls-p/ingest_6589_720p/1583488358361.ts
 #https://dl.dropboxusercontent.com/s/0npuwznzj2lvqot/Usee2.m3u8?dl=0
