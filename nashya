@@ -309,6 +309,31 @@ http://bit.ly/3aiwazj
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="NashyaIPtv", usee sport 2 HD
 https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS HD
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 1
+https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 2
+https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 3
+https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 4
+https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 5
+https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 6
+https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 1
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 2
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 3
+https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
+#EXTINF:-1group-title="Nashya IPtv",TRUE PREMIER FOOTBALL  4
+https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 5
+https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
+
 
 
 #EXTINF:-1 group-title="Movies",Channel Gratis tidak untuk di perdagangkan
@@ -953,7 +978,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 #EXTINF:-1 group-title="Lifestyle",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
 
-
 #EXTINF:-1 group-title="Nashya Sport",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony Ten 1
@@ -1016,6 +1040,26 @@ http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&
 http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
 #EXTINF:-1 group-title="Nashya Sport",Astro Supersport 4
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+#EXTINF:-1 group-title="Nashya Sport",RTV Sport
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Main Even
+http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Sport Action
+http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Sport Arena
+http://95.170.215.120/hls/m3u8/Sky-Sports-Arena.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Sport Cricket
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Sport F1
+http://95.170.215.120/hls/m3u8/Sky-Sports-F1-HD.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Sport Football
+http://95.170.215.120/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Sport News
+http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Sport Premier
+http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",rusian sport
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/rusi
 #EXTINF:-1 group-title="Nashya Sport",Bulu 1
