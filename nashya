@@ -26,7 +26,7 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFsWfYKR/SCTV.png" group-title="NashyaIPtv",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="NashyaIPtv",iNews
-https://live.rctiplus.id/rctiplus/inews_360p.m3u8
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="NashyaIPtv",TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="NashyaIPtv",Metro TV
@@ -105,8 +105,6 @@ http://210.210.155.66/h/h141/02.m3u8
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="NashyaIPtv",Warner TV
 http://203.154.243.89:11205
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="NashyaIPtv",Warner Bros
-http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/309.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="NashyaIPtv",Warner TV CH
 http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 group-title="NashyaIPtv",Star Chinese Movies
@@ -119,6 +117,36 @@ http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/368.ts
 http://bit.ly/2I76XM2
 EXTINF:-1 tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="NashyaIPtv",AXN
 http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/257.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="NashyaIPtv",Warner Bros
+http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/309.ts
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-hboeng.png" group-title="NashyaIPtv",HBO HD ENG
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxpremium.png" group-title="NashyaIPtv",Fox Movies HD
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxfamily.png" group-title="NashyaIPtv",Fox Family HD
+http://160.119.77.50/iptv/hd-foxfamily.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxaction.png" group-title="NashyaIPtv",Fox Action HD
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxcrimeeng.png"group-title="NashyaIPtv",Fox Crime ENG
+http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-fox.png" group-title="NashyaIPtv",Fox Thai HD TH
+http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxlife.png" group-title="NashyaIPtv",Fox Life
+http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-fxeng.png" group-title="NashyaIPtv",FX ENG
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-cinemax.png" group-title="NashyaIPtv",Cinemax HD
+http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tfilm.png"group-title="NashyaIPtv",True Film HD
+http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv",True Asian Series HD
+http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv",AXN HD
+http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv",Warner TV
+http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="NashyaIPtv",MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 group-title="NashyaIPtv",True Movie Hits
@@ -131,7 +159,7 @@ http://portal.geniptv.com:8080/IgVG6z2NRb/j6DboUshir/18575
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="NashyaIPtv",Blue Ant Extreme
 http://210.210.155.35/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="NashyaIPtv",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="NashyaIPtv",Blue Ant NashyaIPtv
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Star Chinese Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
@@ -241,31 +269,30 @@ http://bit.ly/3aiwazj
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="NashyaIPtv", usee sport 2 HD
 https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
-#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS HD
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png" group-title="Nashya IPtv",skyNET SPORTS HD
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 1
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports1.png" group-title="Nashya IPtv",skyNET SPORTS 1
 https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 2
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports2.png" group-title="Nashya IPtv",skyNET SPORTS 2
 https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 3
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports3.png" group-title="Nashya IPtv",skyNET SPORTS 3
 https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 4
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports4.png" group-title="Nashya IPtv",skyNET SPORTS 4
 https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 5
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports5.png" group-title="Nashya IPtv",skyNET SPORTS 5
 https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",skyNET SPORTS 6
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports6.png" group-title="Nashya IPtv",skyNET SPORTS 6
 https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 1
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-1.png" group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 1
 https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 2
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-2.png" group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 2
 https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 3
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-3.png" group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 3
 https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
-#EXTINF:-1group-title="Nashya IPtv",TRUE PREMIER FOOTBALL  4
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-4.png" group-title="Nashya IPtv",TRUE PREMIER FOOTBALL  4
 https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
-#EXTINF:-1 group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 5
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-5.png" group-title="Nashya IPtv",TRUE PREMIER FOOTBALL 5
 https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
-
 
 #EXTINF:-1 group-title="Movies",Channel Gratis tidak untuk di perdagangkan
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
@@ -532,27 +559,27 @@ http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Movies ID",FOX Movies Premium
-http://bit.ly/2IqUkM6
+http://iptv.lancar.tech:25461/iptvok/lancar/52
 #EXTINF:-1 group-title="Movies ID",FOX Life
-http://bit.ly/2VRxQMh
+http://iptv.lancar.tech:25461/iptvok/lancar/762
 #EXTINF:-1 group-title="Movies ID",FOX Family Movies
 http://bit.ly/3aJ7v7r
 #EXTINF:-1 group-title="Movies ID",FOX Crime
-http://bit.ly/2PZqTou
+http://iptv.lancar.tech:25461/iptvok/lancar/54
 #EXTINF:-1 group-title="Movies ID",FOX Action Movies
-http://bit.ly/39FoEPi
+http://iptv.lancar.tech:25461/iptvok/lancar/53
 #EXTINF:-1 group-title="Movies ID",Fox
-http://bit.ly/2Tw8rpR
+http://iptv.lancar.tech:25461/iptvok/lancar/55
 #EXTINF:-1 group-title="Movies ID",FX
 http://bit.ly/2TzeeuT
 #EXTINF:-1 group-title="Movies ID",HBO
-http://bit.ly/2TLnVW0
+http://iptv.lancar.tech:25461/iptvok/lancar/56
 #EXTINF:-1 group-title="Movies ID",HBO Hits
-http://bit.ly/2VU3U21
+http://iptv.lancar.tech:25461/iptvok/lancar/92
 #EXTINF:-1 group-title="Movies ID",HBO Family
-http://bit.ly/2vF89E8
+http://iptv.lancar.tech:25461/iptvok/lancar/75
 #EXTINF:-1 group-title="Movies ID",HBO Signature
-http://bit.ly/2VTh4MD
+http://iptv.lancar.tech:25461/iptvok/lancar/3857
 #EXTINF:-1 group-title="Movies ID",Red by HBO
 http://bit.ly/38ynh3p
 #EXTINF:-1 group-title="Movies ID",Cinemax
@@ -815,6 +842,7 @@ https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
+
 #EXTINF:-1 group-title="Nashya Sport",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony Ten 1
@@ -826,9 +854,9 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Useesports 1
-http://bit.ly/32SkOPX
+https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",Useesports 2
-http://bit.ly/2Tq6RWD
+https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",usee sport HD1
 http://bit.ly/3cFX6Ls
 #EXTINF:-1 group-title="Nashya Sport",usee sport HD2
@@ -855,6 +883,91 @@ http://bit.ly/3cFZlOP
 http://bit.ly/2vNWJhd
 #EXTINF:-1 group-title="Nashya Sport",champions 1
 https://www.dropbox.com/s/ugu4vjq5gtn4qkg/champion1.m3u8?dl=1
+#EXTINF:-1 group-title="Nashya Sport",True Premiere Football1 HD
+http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Premiere Football2 HD
+http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Premiere Football3 HD
+http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Premiere Football4 HD
+http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Premiere Football5 HD
+http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Sport HD1
+http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Sport HD2
+http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Sport HD3
+http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Sport HD4
+http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Tennis HD
+http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Golf Channel
+http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",NBA HD
+http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport HD
+http://160.119.77.50/iptv/sd-skynetNashya Sporthd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport Plus
+http://160.119.77.50/iptv/sd-skynetNashya Sportplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport 1
+http://160.119.77.50/iptv/sd-skynetNashya Sport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport 2
+http://160.119.77.50/iptv/sd-skynetNashya Sport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport 3
+http://160.119.77.50/iptv/sd-skynetNashya Sport3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport 4
+http://160.119.77.50/iptv/sd-skynetNashya Sport4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport 5
+http://160.119.77.50/iptv/sd-skynetNashya Sport5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Skynet Sport 6
+http://160.119.77.50/iptv/sd-skynetNashya Sport6.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Bein Sport 1 France
+http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Bein Sport 2 France
+http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Bein Sport 3 France
+http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",BEIN4
+http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Fox Nashya Sport 1 TH
+http://160.119.77.50/iptv/hd-foxNashya Sport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Fox Nashya Sport 1 ENG
+http://160.119.77.50/iptv/hd-foxNashya Sport1eng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Fox Nashya Sport 2 TH
+http://160.119.77.50/iptv/sd-foxNashya Sport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Fox Nashya Sport 2 ENG
+http://160.119.77.50/iptv/hd-foxNashya Sport2eng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Fox Nashya Sport 3 TH
+http://160.119.77.50/iptv/sd-foxNashya Sport3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Fox Nashya Sport 3 ENG
+http://160.119.77.50/iptv/hd-foxNashya Sport3eng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",FS1
+http://160.119.77.50/iptv/us-foxNashya Sport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport EPL
+http://160.119.77.50/iptv/uk-skyNashya Sport-epl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport Mainevent
+http://160.119.77.50/iptv/uk-skyNashya Sport-mainevent.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport Golf
+http://160.119.77.50/iptv/uk-skyNashya Sport-golf.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport Action
+http://160.119.77.50/iptv/uk-skyNashya Sport-action.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport Arena
+http://160.119.77.50/iptv/uk-skyNashya Sport-arena.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport Cricket
+http://160.119.77.50/iptv/uk-skyNashya Sport-cricket.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport F1
+http://160.119.77.50/iptv/uk-skyNashya Sport-f1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK Sky Nashya Sport Football
+http://160.119.77.50/iptv/uk-skyNashya Sport-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK BT Sport 1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK BT Sport 2
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",UK BT Sport 3
+http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Nashya Sport",RTV Sport
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Main Even
@@ -862,19 +975,19 @@ http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sport Action
 http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sport Arena
-http://95.170.215.120/hls/m3u8/Sky-Sports-Arena.m3u8
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-Arena.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sport Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sport F1
-http://95.170.215.120/hls/m3u8/Sky-Sports-F1-HD.m3u8
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-F1-HD.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sport Football
 http://95.170.215.120/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sport News
-http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-News.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sky Sport Premier
 http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+https://svs.itworkscdn.net/smc4Nashya Sportlive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",rusian sport
 https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/rusi
 #EXTINF:-1 group-title="Nashya Sport",Bulu 1
@@ -903,12 +1016,12 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sony Ten 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fox Sports Motor
+#EXTINF:-1 group-title="Nashya Sport",Fox Nashya Sport Motor
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="Nashya Sport",MOTOR SPORT
 http://45.58.62.92:8084
-#EXTINF:-1 group-title="Nashya Sport",Discovery Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Discovery Nashya Sport
+http://jiocgehub.jio.ril.com/DNashya Sport_HD/DNashya Sport_HD_800.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="Nashya Sport",RED BULL HD
@@ -919,21 +1032,21 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
 #EXTINF:-1 group-title="Nashya Sport",博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 1 Main Event
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 2 Action
+#EXTINF:-1 group-title="Nashya Sport",Sky Nashya Sport 1 Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-Nashya Sport-1HD.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Nashya Sport 2 Action
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 3 Premier League
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 4 Football
+#EXTINF:-1 group-title="Nashya Sport",Sky Nashya Sport 3 Premier League
+http://95.170.215.120:80/hls/m3u8/Sky-Nashya Sport-3HD.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Nashya Sport 4 Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 5 HD Cricket
-http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports 5 FHD Cricket
+#EXTINF:-1 group-title="Nashya Sport",Sky Nashya Sport 5 HD Cricket
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-5HD.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Sky Nashya Sport 5 FHD Cricket
 http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:-1 group-title="Nashya Sport",BT Sports 1 HD
+#EXTINF:-1 group-title="Nashya Sport",BT Nashya Sport 1 HD
 http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Fight Sports
+#EXTINF:-1 group-title="Nashya Sport",Fight Nashya Sport
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
@@ -955,7 +1068,7 @@ http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Olympic Channel 6
 http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sportskool
+#EXTINF:-1 group-title="Nashya Sport",Nashya Sportkool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
@@ -963,9 +1076,9 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 #EXTINF:-1 group-title="Nashya Sport",CCTV5 HD s1
 http://111.40.205.70/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",CCX Sports [1080p]
+#EXTINF:-1 group-title="Nashya Sport",CCX Nashya Sport [1080p]
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Cheddar Sports
+#EXTINF:-1 group-title="Nashya Sport",Cheddar Nashya Sport
 https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Sabung Ayam
 https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
@@ -981,19 +1094,19 @@ https://gma2.blab.email/espnu.m3u8
 https://streaming.sniffercat.com/scheduler/scheduleMaster/2/variant/4.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Fast & Fun Box
 https://1088658152.rsc.cdn77.org/1088658152/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Lax Sports Network
-https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Horizon Sports
+#EXTINF:-1 group-title="Nashya Sport",Lax Nashya Sport Network
+https://snagfilms-lh.akamaihd.net/i/LaxNashya Sportnetwork_1@322790/index_2800_av-b.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Horizon Nashya Sport
 https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 #EXTINF:-1 group-title="Nashya Sport",SEC Network
 https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Sportskool TV
+#EXTINF:-1 group-title="Nashya Sport",Nashya Sportkool TV
 https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="Nashya Sport",World of Free Sports
+#EXTINF:-1 group-title="Nashya Sport",World of Free Nashya Sport
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
@@ -1041,21 +1154,21 @@ http://185.180.12.34:8080/SK8/video.m3u8?token=test
 http://185.180.12.34:8080/SK9/video.m3u8?token=test
 #EXTINF:-1 group-title="Nashya Sport",Sport Klub 10
 http://185.180.12.34:8080/SK10/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",Sportska TV
-http://185.180.12.34:8080/SPORTSKATV/video.m3u8?token=test
-#EXTINF:-1 group-title="Nashya Sport",Sky Sports Premier League HD
+#EXTINF:-1 group-title="Nashya Sport",Nashya Sportka TV
+http://185.180.12.34:8080/Nashya SportKATV/video.m3u8?token=test
+#EXTINF:-1 group-title="Nashya Sport",Sky Nashya Sport Premier League HD
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 group-title="Nashya Sport",ESPN
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",Edge Nashya Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgeNashya Sport/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",FOX Sport HD -USA-
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Setanta Sports 1
+#EXTINF:-1 group-title="Nashya Sport",Setanta Nashya Sport 1
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Setanta Sports 2
+#EXTINF:-1 group-title="Nashya Sport",Setanta Nashya Sport 2
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
@@ -1069,7 +1182,7 @@ http://stream.doball.com:8080/hls/ch4.m3u8
 http://stream.doball.com:8080/hls/ch5.m3u8
 #EXTINF:-1 group-title="Nashya Sport",DOBALL 6 HD
 http://stream.doball.com:8080/hls/ch6.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Horizon Sports
+#EXTINF:-1 group-title="Nashya Sport",Horizon Nashya Sport
 https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
@@ -1077,7 +1190,7 @@ https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Outdoor Channel Asia
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582795905~exp=9007200837536896~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=7e3927c18f846e0b96ceae73fb14f71a6350cd3b6aa0e93e5533ab19892f9bdb&hdnts=st=1582795909~exp=1582796029~acl=/*~id=eeb20e36-c978-4dda-8ffe-f200d829a8bb~data=36.77.80.127~hmac=163c25f215b5189200afeda2ce3883c41917672ddbf70e1b5a63db739909ccff
-#EXTINF:-1 group-title="Nashya Sport",World of Free Sports
+#EXTINF:-1 group-title="Nashya Sport",World of Free Nashya Sport
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 #EXTINF:-1 group-title="Religious",Makkah TV
 https://streamer-1.toffeelive.com/live/quran_tv_576/index.m3u8
@@ -1255,19 +1368,19 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="SPORT",ON Sport
 http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
-#EXTINF:-1 group-title="SPORT",Al Kass Sports 1
+#EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 group-title="SPORT",Al Kass Sports 2
+#EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 group-title="SPORT",Al Kass Sports 3
+#EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 group-title="SPORT",Al Kass Sports 4
+#EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 group-title="SPORT",Al Kass Sports 5
+#EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 group-title="SPORT",alkass
 http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
-#EXTINF:-1 group-title="SPORT",ALL SPORTS HD
+#EXTINF:-1 group-title="SPORT",ALL Nashya Sport HD
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 group-title="SPORT",Bundesliga ch. 1
 https://dl.dropbox.com/s/rlbh9h2rbzn2u1m/foxsport1.m3u8?dl=0
@@ -1277,29 +1390,29 @@ https://dl.dropbox.com/s/8do2ge2qhjurgca/foxsport2.m3u8?dl=0
 https://dl.dropbox.com/s/9qxu4a3oh6epn9e/foxsport3.m3u8?dl=0
 #EXTINF:-1 group-title="SPORT",Usee Sport
 https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
-#EXTINF:-1 group-title="SPORT",Dubai Sports
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",ART Sports 1
+#EXTINF:-1 group-title="SPORT",Dubai Nashya Sport
+http://dmitwlvvll.cdn.mangomolo.com/dubaiNashya Sporthd/smil:dubaiNashya Sporthd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT",ART Nashya Sport 1
 http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT",ART Sports 2
+#EXTINF:-1 group-title="SPORT",ART Nashya Sport 2
 http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT",ART Sports 3
+#EXTINF:-1 group-title="SPORT",ART Nashya Sport 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="SPORT",Dsport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 group-title="SPORT",BAHRAIN TV SPORTS
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
-#EXTINF:-1 group-title="SPORT",Horizon Sports
+http://jiocgehub.jio.ril.com/DNashya Sport_HD/DNashya Sport_HD.m3u8
+#EXTINF:-1 group-title="SPORT",BAHRAIN TV Nashya Sport
+http://185.105.4.106:1935/live/Bahrain%20Nashya Sport/chunklist_w1180161901.m3u8
+#EXTINF:-1 group-title="SPORT",Horizon Nashya Sport
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="SPORT",SPORTSCAST
+#EXTINF:-1 group-title="SPORT",Nashya SportCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="SPORT",RTA Sports
+#EXTINF:-1 group-title="SPORT",RTA Nashya Sport
 http://212.47.252.54/hls/stream.m3u8
-#EXTINF:-1 group-title="SPORT",RTA Sports
+#EXTINF:-1 group-title="SPORT",RTA Nashya Sport
 http://51.158.144.124:8090/CR/2/index.m3u8
 #EXTINF:-1 group-title="SPORT",DE: Sky Sport 2
 http://primeb.fr33.click/live/6747?u=INo1beQm3U&s=dYUeQCJVJL
@@ -1311,19 +1424,19 @@ http://primeb.fr33.click/live/3077?u=INo1beQm3U&s=dYUeQCJVJL
 http://prime.fr33.click/live/2548?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="SPORT",EPL 1
 http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SPORT",NL: Fox Sports 1
+#EXTINF:-1 group-title="SPORT",NL: Fox Nashya Sport 1
 http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SPORT",NL: Fox Sports 2
+#EXTINF:-1 group-title="SPORT",NL: Fox Nashya Sport 2
 http://primeb.fr33.click/live/156?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SPORT",NL: Fox Sports 3
+#EXTINF:-1 group-title="SPORT",NL: Fox Nashya Sport 3
 http://primeb.fr33.click/live/155?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SPORT",NL: FOX Sports 3
+#EXTINF:-1 group-title="SPORT",NL: FOX Nashya Sport 3
 http://primeb.fr33.click/live/7474?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SPORT",NL: Fox Sports 4
+#EXTINF:-1 group-title="SPORT",NL: Fox Nashya Sport 4
 http://primeb.fr33.click/live/154?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SPORT",NL: Fox Sports 5
+#EXTINF:-1 group-title="SPORT",NL: Fox Nashya Sport 5
 http://primeb.fr33.click/live/153?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SPORT",NL: Fox Sports 6
+#EXTINF:-1 group-title="SPORT",NL: Fox Nashya Sport 6
 http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="SPORT",NL : Ziggo Sport.Voetbal
 http://primeb.fr33.click/live/3891?u=INo1beQm3U&s=dYUeQCJVJL
@@ -1374,14 +1487,14 @@ https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
 #EXTINF:-1 group-title="SPORT",True Sport HD4
 https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
 #EXTINF:-1 group-title="SPORT",True Sport SD5
-https://dl.dropboxusercontent.com/s/8y2fkr44q2q6wro/TSportSD5.m3u8
+https://dl.dropboxusercontent.com/s/8y2fkr44q2q6wro/TNashya SportD5.m3u8
 #EXTINF:-1 group-title="SPORT",True Sport SD6
-https://dl.dropboxusercontent.com/s/uy9k39voj99nglt/TSportSD6.m3u8
+https://dl.dropboxusercontent.com/s/uy9k39voj99nglt/TNashya SportD6.m3u8
 #EXTINF:-1 group-title="SPORT",True Sport SD7
-https://dl.dropboxusercontent.com/s/wqjz90aim1wc8zg/TSportSD7.m3u8
-#EXTINF:-1 group-title="FEED BeIn",Bein Sports NBA
+https://dl.dropboxusercontent.com/s/wqjz90aim1wc8zg/TNashya SportD7.m3u8
+#EXTINF:-1 group-title="FEED BeIn",Bein Nashya Sport NBA
 http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
-#EXTINF:-1 group-title="FEED BeIn",Bein Sports News
+#EXTINF:-1 group-title="FEED BeIn",Bein Nashya Sport News
 http://95.170.215.120/hls/m3u8/Bein-Sport-News-ALI-MCR-NGC.m3u8
 #EXTINF:-1 group-title="FEED BeIn",Bein Sport (1) 4K
 http://54k.top:8000/live/android/hytmmnb/4.ts
@@ -1421,7 +1534,7 @@ http://bit.ly/2TEPqQL
 http://bit.ly/32QeAA4
 #EXTINF:-1 group-title="Sportivo Nashya",ASTRO SUPER SPORT 4
 http://bit.ly/2TCNNDq
-#EXTINF:-1 group-title="Sportivo Nashya",NBC SPORTS HD
+#EXTINF:-1 group-title="Sportivo Nashya",NBC Nashya Sport HD
 http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&key=50917
 #EXTINF:-1 group-title="Sportivo Nashya",SPORTTV 1
 http://skdn.redi-vo.com/iptv/ch2123?code=138137164006399&key=48317
@@ -1433,9 +1546,9 @@ http://skdn.redi-vo.com/iptv/ch2125?code=138137164006399&key=54310
 http://skdn.redi-vo.com/iptv/ch2126?code=138137164006399&key=18673
 #EXTINF:-1 group-title="Sportivo Nashya",SPORTTV 5
 http://skdn.redi-vo.com/iptv/ch2127?code=138137164006399&key=49822
-#EXTINF:-1 group-title="Sportivo Nashya",Bek Sports East
+#EXTINF:-1 group-title="Sportivo Nashya",Bek Nashya Sport East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Bek Sports West
+#EXTINF:-1 group-title="Sportivo Nashya",Bek Nashya Sport West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",ESPN U
 https://gma2.blab.email/espnu.m3u8
@@ -1443,17 +1556,17 @@ https://gma2.blab.email/espnu.m3u8
 https://streaming.sniffercat.com/scheduler/scheduleMaster/2/variant/4.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Fast & Fun Box
 https://1088658152.rsc.cdn77.org/1088658152/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Lax Sports Network
-https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Horizon Sports
+#EXTINF:-1 group-title="Sportivo Nashya",Lax Nashya Sport Network
+https://snagfilms-lh.akamaihd.net/i/LaxNashya Sportnetwork_1@322790/index_2800_av-b.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Horizon Nashya Sport
 https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",SEC Network
 https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sportskool TV
+#EXTINF:-1 group-title="Sportivo Nashya",Nashya Sportkool TV
 https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",World of Free Sports
+#EXTINF:-1 group-title="Sportivo Nashya",World of Free Nashya Sport
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
@@ -1482,7 +1595,7 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Action
 http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Arena
-http://95.170.215.120/hls/m3u8/Sky-Sports-Arena.m3u8
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-Arena.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Main Even
@@ -1490,11 +1603,11 @@ http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Football
 http://95.170.215.120/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport News
-http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-News.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Premier
 http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport F1
-http://95.170.215.120/hls/m3u8/Sky-Sports-F1-HD.m3u8
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-F1-HD.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sony Six
@@ -1527,7 +1640,7 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",SPORTSMAX
+#EXTINF:-1 group-title="Sportivo Nashya",Nashya SportMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",BT SPORT 1 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -1537,16 +1650,16 @@ http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 http://31.220.0.134:8081/live/nba/playlist.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",GOLF
 http://161.0.157.9/PLTV/88888888/224/3221226812/03.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports HD 1
-http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports HD 2
-http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Nashya Sport HD 1
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-1HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Nashya Sport HD 2
+http://95.170.215.120/hls/m3u8/Sky-Nashya Sport-2HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Nashya Sport
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports football
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Nashya Sport football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports Arena
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-Arena.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Nashya Sport Arena
+http://95.170.215.120:80/hls/m3u8/Sky-Nashya Sport-Arena.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Sky Sport Action
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Real Madrid TV
@@ -1557,31 +1670,31 @@ https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Setanta Sports 1
+#EXTINF:-1 group-title="Sportivo Nashya",Setanta Nashya Sport 1
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Setanta Sports 2
+#EXTINF:-1 group-title="Sportivo Nashya",Setanta Nashya Sport 2
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Stadium Sports Network
+#EXTINF:-1 group-title="Sportivo Nashya",Stadium Nashya Sport Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Discovery Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Discovery Nashya Sport
+http://jiocgehub.jio.ril.com/DNashya Sport_HD/DNashya Sport_HD_800.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",3Adsport
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Nashya Sport3
 #EXTINF:-1 group-title="Sportivo Nashya",FOX SPORT
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="Sportivo Nashya",FOX-SPORT2xx
 http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="Sportivo Nashya",FOX-SPORT3xx
 http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-#EXTINF:-1 group-title="Sportivo Nashya",Sports RUSIA
+#EXTINF:-1 group-title="Sportivo Nashya",Nashya Sport RUSIA
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sports RUSIA2
+#EXTINF:-1 group-title="Sportivo Nashya",Nashya Sport RUSIA2
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/529/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",SBS Sports
+#EXTINF:-1 group-title="Sportivo Nashya",SBS Nashya Sport
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports 3 Premier League
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sky Sports 4 Football
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Nashya Sport 3 Premier League
+http://95.170.215.120:80/hls/m3u8/Sky-Nashya Sport-3HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Sky Nashya Sport 4 Football
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",ATGV 1 SPORT
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -1589,7 +1702,7 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Bein Sports NBA
+#EXTINF:-1 group-title="Sportivo Nashya",Bein Nashya Sport NBA
 http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",BT SPORT 1 HD
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
@@ -1603,32 +1716,32 @@ https://dl.dropbox.com/s/ff5pvk4v88bvhim/spanyol.m3u8?dl=0
 https://dl.dropbox.com/s/v03mnyy63zlgi12/itali.m3u8?dl=0
 #EXTINF:-1 group-title="Sportivo Nashya",Ligue 1
 https://dl.dropbox.com/s/tytynvtppo1ott8/prancis.m3u8?dl=0
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 1 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 1 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 2 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 2 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 3 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 3 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 4 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 4 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 5 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 5 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 6 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 6 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Setanta Eurasia
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Setanta Sports +
+#EXTINF:-1 group-title="Sportivo Nashya",Setanta Nashya Sport +
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Nashya Sport 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Nashya Sport3
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Nashya Sport 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Nashya Sport4
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Nashya Sport 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Nashya Sport5
+#EXTINF:-1 group-title="Sportivo Nashya",Abu Dhabi Nashya Sport 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Nashya Sport6
 #EXTINF:-1 group-title="Sportivo Nashya",MU TV
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_700k.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",MOTOR SPORT
@@ -1639,39 +1752,39 @@ http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",FIGHT TIME USA
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",FLOW SPORTS 1 HD UK
+#EXTINF:-1 group-title="Sportivo Nashya",FLOW Nashya Sport 1 HD UK
 http://161.0.157.38/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 1 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 1 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 2 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 2 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 3 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 3 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 4 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 4 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 5 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 5 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",beIN Sports 6 Arab
+#EXTINF:-1 group-title="Sportivo Nashya",beIN Nashya Sport 6 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",ART Sports 1
+#EXTINF:-1 group-title="Sportivo Nashya",ART Nashya Sport 1
 http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",ART Sports 2
+#EXTINF:-1 group-title="Sportivo Nashya",ART Nashya Sport 2
 http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",ART Sports 3
+#EXTINF:-1 group-title="Sportivo Nashya",ART Nashya Sport 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",Dsport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",BAHRAIN TV SPORTS
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Sports Kool
+http://jiocgehub.jio.ril.com/DNashya Sport_HD/DNashya Sport_HD.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",BAHRAIN TV Nashya Sport
+http://185.105.4.106:1935/live/Bahrain%20Nashya Sport/chunklist_w1180161901.m3u8
+#EXTINF:-1 group-title="Sportivo Nashya",Nashya Sport Kool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",Horizon Sports
+#EXTINF:-1 group-title="Sportivo Nashya",Horizon Nashya Sport
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",SPORTSCAST
+#EXTINF:-1 group-title="Sportivo Nashya",Nashya SportCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="Sportivo Nashya",PTV Sports
+#EXTINF:-1 group-title="Sportivo Nashya",PTV Nashya Sport
 http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1 group-title="Sportivo Nashya",|USA| Tennis Channel HD
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -2503,7 +2616,7 @@ http://45.58.62.92:8080
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 group-title="Backup Nashya",alkass
 http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
-#EXTINF:-1 group-title="Backup Nashya",BAHRAIN SPORTS
+#EXTINF:-1 group-title="Backup Nashya",BAHRAIN Nashya Sport
 http://38.99.146.36:7777/BahrainSport_HD.m3u8
 #EXTINF:-1 group-title="Backup Nashya",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
@@ -2511,16 +2624,16 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 http://38.99.146.36:7777/DubaiSport2_HD.m3u8
 #EXTINF:-1 group-title="Backup Nashya",Real Madrid TV [Espanol]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 group-title="Backup Nashya",Uni Sports
-http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 group-title="Backup Nashya",Uni Nashya Sport
+http://uniNashya Sportlive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1 group-title="Backup Nashya",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 group-title="Backup Nashya",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Backup Nashya",Fox Sports News
+#EXTINF:-1 group-title="Backup Nashya",Fox Nashya Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="Backup Nashya",Uni Sports
-http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 group-title="Backup Nashya",Uni Nashya Sport
+http://uniNashya Sportlive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1 group-title="Backup Nashya",RETRO TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Backup Nashya",ATGV 1 SPORT
@@ -2533,11 +2646,11 @@ http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Backup Nashya",EUROSPORT ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/02.m3u8
-#EXTINF:-1 group-title="Backup Nashya",FOX SPORTS 1 ID
+#EXTINF:-1 group-title="Backup Nashya",FOX Nashya Sport 1 ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/02.m3u8
-#EXTINF:-1 group-title="Backup Nashya",FOX SPORTS 2 ID
+#EXTINF:-1 group-title="Backup Nashya",FOX Nashya Sport 2 ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch314)/02.m3u8
-#EXTINF:-1 group-title="Backup Nashya",FOX SPORTS 3 ID
+#EXTINF:-1 group-title="Backup Nashya",FOX Nashya Sport 3 ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/02.m3u8
 #EXTINF:-1 group-title="Backup Nashya",Useesport
 https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
@@ -3423,19 +3536,19 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/in
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 group-title="England",English Club TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="England",Flow Sports 1
+#EXTINF:-1 group-title="England",Flow Nashya Sport 1
 http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
-#EXTINF:-1 group-title="England",Flow Sports 1
+#EXTINF:-1 group-title="England",Flow Nashya Sport 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
-#EXTINF:-1 group-title="England",Flow Sports 1
+#EXTINF:-1 group-title="England",Flow Nashya Sport 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 group-title="England",Flow Sports 1
+#EXTINF:-1 group-title="England",Flow Nashya Sport 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
 #EXTINF:-1 group-title="England",Gemporia
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
 #EXTINF:-1 group-title="England",Gemporia
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1 group-title="England",Horizon Sports
+#EXTINF:-1 group-title="England",Horizon Nashya Sport
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="England",MTA 1
 http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
@@ -3593,9 +3706,9 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="America",Beauty IQ
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-#EXTINF:-1 group-title="Sport America",Bek Sports East
+#EXTINF:-1 group-title="Sport America",Bek Nashya Sport East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="Sport America",Bek Sports West
+#EXTINF:-1 group-title="Sport America",Bek Nashya Sport West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 group-title="America",Beto TV
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
@@ -3795,19 +3908,19 @@ http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
 https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
 #EXTINF:-1 group-title="America",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1 group-title="Sport America",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sport America",Edge Nashya Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgeNashya Sport/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Sport America",EDGEsport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgeNashya Sport/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 group-title="America",Escambia County TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 group-title="America",ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 group-title="America",Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 group-title="Sport America",Fight Sports
+#EXTINF:-1 group-title="Sport America",Fight Nashya Sport
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 group-title="Sport America",Fight Sports
+#EXTINF:-1 group-title="Sport America",Fight Nashya Sport
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 group-title="America",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
@@ -4091,7 +4204,7 @@ https://v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3A45%3A00.000Z
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 group-title="America",Shop HQ
 https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
-#EXTINF:-1 group-title="Sport America",Sportskool
+#EXTINF:-1 group-title="Sport America",Nashya Sportkool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="Sport America",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
@@ -4227,10 +4340,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="EMIRATE",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 group-title="EMIRATE",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 group-title="EMIRATE",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="EMIRATE",Abu Dhabi Nashya Sport 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Nashya Sport3
+#EXTINF:-1 group-title="EMIRATE",Abu Dhabi Nashya Sport 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Nashya Sport4
 #EXTINF:-1 group-title="EMIRATE",Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 group-title="EMIRATE",Ajman TV
@@ -4259,10 +4372,10 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="EMIRATE",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="EMIRATE",Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:-1 group-title="EMIRATE",Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="EMIRATE",Dubai Nashya Sport
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaiNashya Sport
+#EXTINF:-1 group-title="EMIRATE",Dubai Nashya Sport 3
+http://dmiftvll.mangomolo.com/dubaiNashya Sporthd5/smil:dubaiNashya Sporthd5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="EMIRATE",Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 group-title="EMIRATE",Dubai Zaman
@@ -4359,4 +4472,29 @@ http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
 #EXTINF:-1 group-title="EMIRATE",Peace TV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 group-title="EMIRATE",Sama Dub
+#EXTINF:-1 group-title="EMIRATE",Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="EMIRATE",Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 group-title="EMIRATE",Sharjah Sport
+https://svs.itworkscdn.net/smc4Nashya Sportlive/smc4.smil/chunklist_b585000.m3u8
+#EXTINF:-1 group-title="EMIRATE",Sharjah Nashya Sport
+https://svs.itworkscdn.net/smc4Nashya Sportlive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 group-title="EMIRATE",Sharjah Nashya Sport
+https://svs.itworkscdn.net/smc4Nashya Sportlive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="EMIRATE",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="EMIRATE",Sharqiya from Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="EMIRATE",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:-1 group-title="EMIRATE",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1 group-title="EMIRATE",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="EMIRATE",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 group-title="EMIRATE",Toheed TV
+http://51.158.73.206/hls/stream.m3u8
+#EXTINF:-1 group-title="EMIRATE",Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
