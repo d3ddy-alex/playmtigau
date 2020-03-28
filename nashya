@@ -73,29 +73,30 @@ https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southea
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812" group-title="NashyaIPtv", &PictureHD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",FOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iFZ7vDG.png" group-title="NashyaIPtv",FOX
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",FOX2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iFZ7vDG.png" group-title="NashyaIPtv",FOX2
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="NashyaIPtv",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrnRnm9.png" group-title="NashyaIPtv",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="NashyaIPtv",FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="NashyaIPtv",FOX Movie2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pz1tzl.png" group-title="NashyaIPtv",FOX Movie2
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",FOX Crime HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF03tTN.png" group-title="NashyaIPtv",FOX Crime HD
 http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/55
-EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="NashyaIPtv",FOX Action Movies
+EXTINF:-1 tvg-logo="https://i.imgur.com/m9igBj1.png" group-title="NashyaIPtv",FOX Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="NashyaIPtv",HBO Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SEpkPL.png"  group-title="NashyaIPtv",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="NashyaIPtv",HBO Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slNXJnE.png" group-title="NashyaIPtv",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uzp4OHR.png" group-title="NashyaIPtv",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",Cinemax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qd91X7F.png" group-title="NashyaIPtv",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="NashyaIPtv",RedBy HBO
 https://tv4.chang55.com/live2/tv4ch47.stream/playlist.m3u8
@@ -136,7 +137,7 @@ http://202.44.54.83:9999/live/siamiptv/jhsifahdlfadj/258.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="NashyaIPtv",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="NashyaIPtv",Blue Ant Entertainment
-
+http://45.126.83.51:80/dr9445/h/h16/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vp4F6xw.png" group-title="NashyaIPtv",Star Chinese Movies
 http://iliketot.dyndns.TV:80/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
 #https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
@@ -285,6 +286,69 @@ http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/
 http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movies",upmovie
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
+#EXTINF:-1 group-title="Movies",Zee Cinema HD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Bollywood
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Action
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
+#EXTINF:-1 group-title="Movies",&Prive HD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1 group-title="Movies",&Flix HD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 group-title="Movies",Zing
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zing/index.m3u8
+#EXTINF:-1 group-title="Movies",Z-ETC bollywood
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/etc/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee TV HD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Max HD(Tata Sky)
+http://p5.giffy.be:8080/Testing1/Testing1/21063
+#EXTINF:-1 group-title="Movies",Star Gold Select(Tata Sky)
+http://p5.giffy.be:8080/Testing1/Testing1/21055
+#EXTINF:-1 group-title="Movies",Star Gold(Tata Sky)
+http://p5.giffy.be:8080/Testing1/Testing1/21058
+#EXTINF:-1 group-title="Movies",Videocon D2H Cinema
+http://p5.giffy.be:8080/Testing1/Testing1/21044
+#EXTINF:-1 group-title="Movies",UTV Action(Dish TV)
+http://p5.giffy.be:8080/Testing1/Testing1/21245
+#EXTINF:-1 group-title="Movies",&PictureHD(Tata Sky)
+http://p5.giffy.be:8080/Testing1/Testing1/21041
+#EXTINF:-1 group-title="Movies",Zee Cinema HD(Tata Sky)
+http://p5.giffy.be:8080/Testing1/Testing1/21046
+#EXTINF:-1 group-title="Movies",Maha movie
+http://p5.giffy.be:8080/Testing1/Testing1/21162
+#EXTINF:-1 group-title="Movies",B4U Movies
+http://p5.giffy.be:8080/Testing1/Testing1/21180
+#EXTINF:-1 group-title="Movies",UTV HD
+http://p5.giffy.be:8080/Testing1/Testing1/21059
+#EXTINF:-1 group-title="Movies",HBO HD
+http://p5.giffy.be:8080/Testing1/Testing1/21255
+#EXTINF:-1 group-title="Movies",Star Movies HD
+http://p5.giffy.be:8080/Testing1/Testing1/21263
+#EXTINF:-1 group-title="Movies",&Flix
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 group-title="Movies",&Prive
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1 group-title="Movies",Cinema World
+http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:-1 group-title="Movies",Cinemax
+http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",HBO
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Fox Movies
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FX
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="Movies",Red By HBO
+http://iptvfree.gq/live/redbyhbo.m3u8
+#EXTINF:-1 group-title="Movies",Sky Movies Premiere
+http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Sony Movies
+http://51.52.156.22:8888/http/009
+
 #EXTINF:-1 group-title="KIDS",BABY TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
 #EXTINF:-1 group-title="KIDS",DUCK TV
@@ -393,6 +457,40 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:-1 group-title="TV Lokal",Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576524911~exp=9007200831265902~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=32fc63245df5d577585ed0ec06e8568508b43405b1a899eb84b0de8000a783f9
+#EXTINF:-1 group-title="TV Lokal",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV Lokal",ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1883572553_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="TV Lokal",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",印尼大爱电视
+https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
+#EXTINF:-1 group-title="TV Lokal",GTV
+https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="TV Lokal",Indosiar
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",RCTI
+https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="TV Lokal",Kompas TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:-1 group-title="TV Lokal",MNC
+https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
+#EXTINF:-1 group-title="TV Lokal",Metro
+https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
+#EXTINF:-1 group-title="TV Lokal",NET
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
+#EXTINF:-1 group-title="TV Lokal",RTV
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
+#EXTINF:-1 group-title="TV Lokal",SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Lokal",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Lokal",tvOne
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:-1 group-title="TV Lokal",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal",TRANS TV
@@ -413,12 +511,45 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 #EXTINF:-1 group-title="TV Lokal",MYTV
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
-#EXTINF:-1 group-title="TV Lokal",DAAI TV
-http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
 #EXTINF:-1 group-title="TV Lokal",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 group-title="TV Lokal",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV Lokal",ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1883572553_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="TV Lokal",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",DAAI tv
+https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
+#EXTINF:-1 group-title="TV Lokal",GTV
+https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="TV Lokal",Indosiar
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",RCTI
+https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="TV Lokal",Kompas TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:-1 group-title="TV Lokal",MNC
+https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
+#EXTINF:-1 group-title="TV Lokal",Metro
+https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
+#EXTINF:-1 group-title="TV Lokal",NET
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
+#EXTINF:-1 group-title="TV Lokal",RTV
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
+#EXTINF:-1 group-title="TV Lokal",SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="TV Lokal",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Lokal",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Lokal",tvOne
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+
 #EXTINF:-1 group-title="TV Lokal ID",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",SINDO TV
@@ -508,10 +639,26 @@ http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1group-title="Movies ID",Chinema Indonesia
+#EXTINF:-1 group-title="Movies ID",AXN
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 group-title="Movies",Warner TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="Movies ID",Chinema Indonesia
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1 group-title="Movies ID",AMC
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Movies ID", HBO
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=DEF66D362315217CF2F0BEE8EC11A9AC6D6D5AED&profile=pass
+#EXTINF:-1 group-title="Movies ID", HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=341B873CCD0A174F03F028A834B8D36F12E5C7CE&profile=pass
+#EXTINF:-1 group-title="Movies ID",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1 group-title="Movies ID",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:-1 group-title="Movies ID",cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1 group-title="Movies ID",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 group-title="Movies ID",HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 group-title="Movies ID",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 group-title="Movies ID",FOX MOVIES
@@ -524,26 +671,32 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="Movies ID",Celestial Movies 2
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies ID",Celestial Movies 3
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 group-title="Movies ID",SCM Legend
+http://host4.dynns.com/stream/c8233976dbba4a06a101780907447375.m3u8
 #EXTINF:-1 group-title="Movies ID",Thrill 1
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Movies ID",AMC
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movies ID",My Cinema
 http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
 #EXTINF:-1 group-title="Movies ID",My Cinema Channel
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 group-title="Movies ID",FOX Movie
 http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:-1 group-title="Movies ID",Zee Bioskop 1
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 group-title="Movies ID",AXN BU
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 group-title="Movies ID",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 #EXTINF:-1 group-title="Movies ID",Blue ant extreme
 https://dl.dropbox.com/s/hk4ms3wos5i4s3l/NTV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQJlByK.png" group-title="MOVIES/SERIES", BLUE ANT EXTREME
+http://45.126.83.51:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ucT6TUY.png" group-title="MOVIES/SERIES", BLUE ANT ENTERTAINMENT
+http://45.126.83.51:80/dr9445/h/h16/index2.m3u8
 #EXTINF:-1 group-title="Movies ID",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies ID",Zee Bioskop 1
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 group-title="Movies ID",Bollywood TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 group-title="Movies ID",Filmrise Classics
