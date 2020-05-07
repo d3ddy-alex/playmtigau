@@ -499,246 +499,137 @@ http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2ARf5wX.png" group-title="USEE TV", WARNER TV 
-https://vcdnjt.useetv.com/joss/15/warner/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fmx7ZmP.png" group-title="USEE TV", AXN
-https://vcdnjt.useetv.com/joss/15/axn/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DfiQtKc.png" group-title="USEE TV", TVN
-https://vcdnjt.useetv.com/joss/15/tvn/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HDr6m8c.png" group-title="USEE TV", TVN MOVIES
-https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/STohuPS.png" group-title="USEE TV", KBS WORLD 
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wX8hiNO.png" group-title="USEE TV", BLUE ANT ENTERTAINMENT 
-https://vcdnjt.useetv.com/joss/14/blueant/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j3xzhYZ.png" group-title="USEE TV", BLUE ANT EXTREME 
-https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y9jljbF.png" group-title="USEE TV", ANIPLUS
-https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4nBQZc.png" group-title="USEE TV", ANIMAX 
-https://vcdnjt.useetv.com/joss/14/animax/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6rEC9I.png" group-title="USEE TV", CITRA DRAMA
-https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bp7AtMi.png" group-title="USEE TV", DUNIA LAIN
-https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kmGlo5a.png" group-title="USEE TV", IMC
-https://vcdnjt.useetv.com/joss/14/imc/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgsbqXR.png" group-title="USEE TV", BIOSKOP INDONESIA
-https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqQUBnt.png" group-title="USEE TV", CINEMA WORLD
-https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBxlCjR.png" group-title="USEE TV", FLIK
-https://vcdnjt.useetv.com/joss/15/flik/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s58r3Qi.png" group-title="USEE TV", GALAXY 
-https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9uPtEml.png" group-title="USEE TV", THRILL 
-https://vcdnjt.useetv.com/joss/14/thrill/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YCYUnll.png" group-title="USEE TV", ZEE BIOSKOP 
-https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYMuyZp.png" group-title="USEE TV", CELESTIAL MOVIES
-https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JxwoVkK.png" group-title="USEE TV", ANTV
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RS3w7vV.png" group-title="USEE TV", INDOSIAR
-https://cdnmdc1.useetv.com/joss/15/indosiar/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pzgppul.png" group-title="USEE TV", KOMPAS TV
-https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FleEsqI.png" group-title="USEE TV", NET
-https://vcdnjt.useetv.com/joss/15/net/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEWe8ij.png" group-title="USEE TV", RAJAWALI TV
-https://vcdnjt.useetv.com/joss/14/rtv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D7Rok2T.png" group-title="USEE TV", SCTV
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9OwJW4s.png" group-title="USEE TV", TRANS 7
-https://vcdnjt.useetv.com/joss/15/trans7/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOYaeCw.png" group-title="USEE TV", TRANS TV 
-https://vcdnjt.useetv.com/joss/15/transtv/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NaKi3Fl.png" group-title="USEE TV", TVONE
-https://vcdnjt.useetv.com/joss/15/tvone/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UP5mUhw.png" group-title="USEE TV", CNN INDONESIA
-https://vcdnjt.useetv.com/joss/15/cnnindonesia/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rbnZkn.png" group-title="USEE TV", METRO TV
-https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuGQn0v.png" group-title="USEE TV", BERITA SATU
-https://vcdnjt.useetv.com/joss/14/beritasatu/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1lwzdOh.png" group-title="USEE TV", RUANG TERAMPIL
-https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ISvECs.png" group-title="USEE TV", USEE FOTO
-https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCp7FhG.png" group-title="USEE TV", USEE PRIME
-https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J32xU2C.png" group-title="USEE TV", IDKU
-https://vcdnjt.useetv.com/joss/15/idku/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xfDaJgo.png" group-title="USEE TV", JITV
-https://vcdnjt.useetv.com/joss/14/jitv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMbxaT6.png" group-title="USEE TV", ANTARA
-https://vcdnjt.useetv.com/joss/14/antara/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OycBhGW.png" group-title="USEE TV", BALI TV
-https://vcdnjt.useetv.com/joss/14/balitv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fwwBFUc.png" group-title="USEE TV", JAK TV 
-https://vcdnjt.useetv.com/joss/14/jaktv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1I0DIJN.png" group-title="USEE TV", JTV
-https://vcdnjt.useetv.com/joss/14/jtv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jULhKzM.png" group-title="USEE TV", MY TV
-https://vcdnjt.useetv.com/joss/14/mytv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KTo0PFO.png" group-title="USEE TV", TV EDUKASI
-https://vcdnjt.useetv.com/joss/14/tvedukasi/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUZAGOo.png" group-title="USEE TV", TVRI NASIONAL
-https://vcdnjt.useetv.com/joss/15/tvri/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZtGjB3n.png" group-title="USEE TV", DAAI TV
-https://vcdnjt.useetv.com/joss/14/daaitv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hebUp5c.png" group-title="USEE TV", INSERT
-https://vcdnjt.useetv.com/joss/14/insert/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4cHR92K.png" group-title="USEE TV", RRI NET
-https://vcdnjt.useetv.com/joss/14/rrinet/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzLvKOw.png" group-title="USEE TV", IDX
-https://vcdnjt.useetv.com/joss/14/idx/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPQinvq.png" group-title="USEE TV", M SHOP
-https://vcdnjt.useetv.com/joss/14/mncshop/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZK9SxZu.png" group-title="USEE TV", EL JHON TV 
-https://vcdnjt.useetv.com/joss/14/eljohn/chunklist_b944100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Afp3J5m.png" group-title="USEE TV", MUI TV 
-https://vcdnjt.useetv.com/joss/14/muitv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zjgG5bz.png" group-title="USEE TV", TV9
-https://vcdnjt.useetv.com/joss/14/tv9/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T75Md1c.png" group-title="USEE TV", U CHANNEL
-https://vcdnjt.useetv.com/joss/14/uchannel/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yWznndN.png" group-title="USEE TV", AL QUR'AN AL KAREEM
-https://vcdnjt.useetv.com/joss/14/alquran/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ejLFfKR.png" group-title="USEE TV", TAWAF TV 
-https://vcdnjt.useetv.com/joss/14/tawaftv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmTgPoY.png" group-title="USEE TV", KHAZANAH
-https://vcdnjt.useetv.com/joss/14/khazanah/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlqkjJG.png" group-title="USEE TV", MTA TV
-https://vcdnjt.useetv.com/joss/14/mtatv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/znEFESb.png" group-title="USEE TV", MQTV 
-https://vcdnjt.useetv.com/joss/14/mqtv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xjm9E9a.png" group-title="USEE TV", MUHAMMADIYAH TV 
-https://vcdnjt.useetv.com/joss/14/muhammadiyahtv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GDSputX.png" group-title="USEE TV", RODJA TV
-https://vcdnjt.useetv.com/joss/14/rodjatv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KyN2HXk.png" group-title="USEE TV", BLOOMBERG
-https://vcdnjt.useetv.com/joss/14/bloomberg/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xIsGzcJ.png" group-title="USEE TV", EAT GO 
-https://vcdnjt.useetv.com/joss/14/eatgo/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O73oauC.png" group-title="USEE TV", FASHION ONE
-https://vcdnjt.useetv.com/joss/15/fashionone/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JbCSABC.png" group-title="USEE TV", FASHION TV
-https://vcdnjt.useetv.com/joss/15/fashiontv/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtZCNwe.png" group-title="USEE TV", ASIAN FOOD NETWORK
-https://vcdnjt.useetv.com/joss/15/afc/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hsHbqAp.png" group-title="USEE TV", CNN INTERNATIONAL
-https://vcdnjt.useetv.com/joss/15/cnninternational/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QgTiwmA.png" group-title="USEE TV", CNA
-https://vcdnjt.useetv.com/joss/14/newsasia/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jMRBpGR.png" group-title="USEE TV", DW ENGLISH
-https://vcdnjt.useetv.com/joss/14/dwtv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci6geLS.png" group-title="USEE TV", FRANCE 24
-https://vcdnjt.useetv.com/joss/14/france24/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RimcSeJ.png" group-title="USEE TV", AL JAZEERA
-https://vcdnjt.useetv.com/joss/14/aljazeera/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AxHf7EC.png" group-title="USEE TV", EURONEWS
-https://vcdnjt.useetv.com/joss/14/euronews/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlh0CO2.png" group-title="USEE TV", I KONSER
-https://vcdnjt.useetv.com/joss/14/ikonser/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TYnrcwi.png" group-title="USEE TV", T MUSIC
-https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oy7jCfx.png" group-title="USEE TV", MTV LIVE
-https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9uRyQ0.png" group-title="USEE TV", CITRA DANGDUT 
-https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J3nWur5.png" group-title="USEE TV", PRAMBORS TV
-https://vcdnjt.useetv.com/joss/14/pramborstv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYni6df.png" group-title="USEE TV", HOREE
-https://vcdnjt.useetv.com/joss/14/horee/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snHIPrd.png" group-title="USEE TV", BABY FIRST
-https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7T0zrrg.png" group-title="USEE TV", DUCK TV
-https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nuqaW9B.png" group-title="USEE TV", BOOMERANG
-https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKWuBMi.png" group-title="USEE TV", CARTOON NETWORK
-https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrqvXlV.png" group-title="USEE TV", DUNIA ANAK 
-https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sR6LouN.png" group-title="USEE TV", NICK JUNIOR
-https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zjdrq5Q.png" group-title="USEE TV", NICKELODEON
-https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dDBeVqB.png" group-title="USEE TV", DAVINCI
-https://vcdnjt.useetv.com/joss/14/davinci/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N11VHOY.png" group-title="USEE TV", DREAMWORK
-https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9hqNbLX.png" group-title="USEE TV", SPACETOON
-https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8b5Ju0v.png" group-title="USEE TV", CITRA DRAMA 
-https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/roc521B.png" group-title="USEE TV", DUNIA LAIN 
-https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LBDs4g6.png" group-title="USEE TV", ARIRANG 
-https://vcdnjt.useetv.com/joss/14/arirang/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F1aZPfN.png" group-title="USEE TV", ABC AUSTRALIAN 
-https://vcdnjt.useetv.com/joss/15/abcaustralia/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W1nJVKm.png" group-title="USEE TV", NHK PREMIUM 
-https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXop5cg.png" group-title="USEE TV", CHINESE DRAMA 
-https://vcdnjt.useetv.com/joss/14/chinesedrama/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1frUNP7.png" group-title="USEE TV", LIFETIME 
-https://vcdnjt.useetv.com/joss/14/lifetime/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/568Hxc9.png" group-title="USEE TV", HISTORY
-https://vcdnjt.useetv.com/joss/15/history/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hpcYyZk.png" group-title="USEE TV", KIX 
-https://vcdnjt.useetv.com/joss/15/kix/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7h3skCA.png" group-title="USEE TV", WAKU WAKU JAPAN 
-https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AriACCS.png" group-title="USEE TV", CCTV 4
-https://vcdnjt.useetv.com/joss/14/cctv4/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UA97Nld.png" group-title="USEE TV", KPLUS
-https://vcdnjt.useetv.com/joss/15/kplus/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oX7Qkbn.png" group-title="USEE TV", NHK WORLD 
-https://vcdnjt.useetv.com/joss/14/nhkworld/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1RwWQku.png" group-title="USEE TV", GEM 
-https://vcdnjt.useetv.com/joss/15/sgem/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWFbd20.png" group-title="USEE TV", ONE 
-https://vcdnjt.useetv.com/joss/15/sone/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsm4q8h.png" group-title="USEE TV", CRIME INVESTIGATION
-https://vcdnjt.useetv.com/joss/15/crimeinvestigation/chunklist_b894100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Whgaegr.png" group-title="USEE TV", CGTN DOCUMENTARY
-https://vcdnjt.useetv.com/joss/14/cgtndocumentary/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vOb4AiY.png" group-title="USEE TV", FOX SPORTS 
-https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVqn37j.png" group-title="USEE TV", FOX SPORTS 2
-https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DwOLtp5.png" group-title="USEE TV", FOX SPORTS 3
-https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist9_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vOW28yn.png" group-title="USEE TV", BEIN SPORTS 1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GzUlaOf.png" group-title="USEE TV", BEIN SPORTS 2
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ErjLHU.png" group-title="USEE TV", CHAMPIONS TV 1
-https://vcdnjt.useetv.com/joss/15/champion1/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ii5EPA.png" group-title="USEE TV", CHAMPIONS TV 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn95Yug.png" group-title="USEE TV", USEESPORTS
-https://vcdnjt.useetv.com/joss/15/useesport/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHhqVMp.png" group-title="USEE TV", USEESPORTS 2
-https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKRxoX1.png" group-title="USEE TV", EGG NETWORK
-https://vcdnjt.useetv.com/joss/14/egg/chunklist_b684100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMLnewm.png" group-title="USEE TV", GOLF
-https://vcdnjt.useetv.com/joss/15/golf/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/thUhkST.png" group-title="USEE TV", NBA TV
-https://vcdnjt.useetv.com/joss/15/nba/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72qvyQs.png" group-title="USEE TV", NAT GEO
-https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jsLt45p.png" group-title="USEE TV", NAT GEO PEOPLE
-https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30wJWXn.png" group-title="USEE TV", NAT GEO WILD
-https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TCvgNsa.png" group-title="USEE TV", DISCOVERY
-https://vcdnjt.useetv.com/joss/15/disco/chunklist_b1344100_sleng_108307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rtShiO6.png" group-title="USEE TV", TV5 ASIA
-https://vcdnjt.useetv.com/joss/14/tv5monde/chunklist_b684100_sleng_108307.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",ANIMAX
+https://cdnkbl2.useetv.com/joss/14/animax/chunklist_w637145176_b684100_sleng_9259.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",ANIPLUS
+https://cdnbpp1.useetv.com/joss/14/aniplus/chunklist_w486486012_b684100_sleng_9238.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",DREMWORKS
+https://cdnbpp1.useetv.com/joss/15/dreamworks/chunklist_w1709774127_b1344100_sleng_194930.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",CITRA DRAMA
+https://cdnkbl2.useetv.com/joss/14/cdrama/chunklist_w1303592253_b684100_sleng_9353.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",IMC
+https://cdnbpp1.useetv.com/joss/14/imc/chunklist_w1298655829_b684100_sleng_9356.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",BIOSKOP INDONESIA
+https://cdnbpp1.useetv.com/joss/14/bioskopindonesia/chunklist_w802325015_b684100_sleng_9390.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FLIK
+https://cdnbpp1.useetv.com/joss/15/flik/chunklist_w1309295174_b1344100_sleng_195085.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",KPLUS
+https://cdnkbl1.useetv.com/joss/15/kplus/chunklist_w688537696_b1344100_sleng_199236.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",S ONE
+https://cdnbdsa1.useetv.com/joss/15/sone/chunklist_w736038136_b894100_sleng_199256.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",S GEM
+https://cdnbpp1.useetv.com/joss/15/sgem/chunklist_w446360782_b894100_sleng_199261.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",Z BIOSKOP
+https://cdnbpp1.useetv.com/joss/14/zbioskop/chunklist_w863913672_b684100_sleng_13604.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",CINEMA WORLD
+https://cdnmdc2.useetv.com/joss/14/cinemaworld/chunklist_w442636278_b684100_sleng_enc=uWIeLG81cD2wtR8hf8IX6A.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",CELESTERIAL MOVIES
+https://cdnkbl1.useetv.com/joss/14/celestialmovie/chunklist_w370524992_b684100_sleng_enc=VFRmBDveHijYIl-CNPYeDQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",AXN
+https://cdnkbl2.useetv.com/joss/15/axn/chunklist_w1070626989_b1344100_sleng_199286.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",WARNER TV
+https://cdnkbl2.useetv.com/joss/15/warner/chunklist_w1570933032_b1344100_sleng_199307.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",GALAXY
+https://cdnkbl1.useetv.com/joss/15/galaxy/chunklist_w771274202_b894100_sleng_43215.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",THRILL
+https://cdnkbl1.useetv.com/joss/14/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",KIX
+https://cdnbpp1.useetv.com/joss/15/kix/chunklist_w424739598_b1344100_sleng_199429.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",BLUE ANT EXT
+https://cdnbpp1.useetv.com/joss/14/blueantextreme/chunklist_w1120841254_b684100_sleng_enc=ONEMh5Y7OeNMGO5Fg4M5uA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",BLUE ANT ENT
+https://edgejt6.useetv.com/joss/14/blueant/chunklist_w1555212600_b684100_sleng_enc=O9R5YwwY_8RskKLVNv__Iw.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",RTV
+https://edgejt6.useetv.com/joss/14/rtv/chunklist_w728589140_b684100_sleng_12777.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",NET TV
+https://cdnkbl1.useetv.com/joss/15/net/chunklist_w608005685_b1344100_sleng_108352.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",TRANS 7
+https://cdnkbl1.useetv.com/joss/15/trans7/chunklist_w724779787_b1344100_sleng_108340.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",TRANS TV
+https://cdnbdsa1.useetv.com/joss/15/transtv/chunklist_w1034088746_b1344100_sleng_108332.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",INDOSIAR
+https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",MNC TV
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",RCTI
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",TVRI
+https://cdnbdsa1.useetv.com/joss/15/tvri/chunklist_w1308876350_b684100_sleng_12861.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",ANTV
+https://cdnkbl1.useetv.com/joss/15/antv/chunklist_w1883490665_b894100_sleng_108332.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",ANTARA
+https://cdnmdc2.useetv.com/joss/14/antara/chunklist_w523872360_b684100_sleng_12953.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",IDX
+https://cdnmdc2.useetv.com/joss/14/idx/chunklist_w1347672527_b684100_sleng_4791.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",JAKTV
+https://edgejt6.useetv.com/joss/14/jaktv/chunklist_w1255659419_b684100_sleng_12987.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",JTV
+https://cdnbdsa1.useetv.com/joss/14/jtv/chunklist_w1657643653_b684100_sleng_12991.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",BALITV
+https://edgejt6.useetv.com/joss/14/balitv/chunklist_w1182970293_b684100_sleng_56992.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",CNN INDO
+https://cdnbal1.useetv.com/joss/15/cnnindonesia/chunklist_w820096068_b1344100_sleng_108528.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",BERITA SATU
+https://cdnbpp1.useetv.com/joss/14/beritasatu/chunklist_w1020413098_b684100_sleng_43589.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",I NEWS
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",KOMPASTV
+https://edgejt6.useetv.com/joss/15/kompastv/chunklist_w1823617625_b894100_sleng_108432.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",TV ONE
+https://cdnbal1.useetv.com/joss/15/tvone/chunklist_w92371443_b894100_sleng_108418.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",MYTV
+https://cdnbpp1.useetv.com/joss/14/mytv/chunklist_w1007431586_b684100_sleng_enc=srfmPRHByKXq6-qZP9mLuQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",INSERT
+https://cdnbdsa1.useetv.com/joss/14/insert/chunklist_w1441847007_b684100_sleng_enc=4EyLyhclQMUBufvs4pB9IQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",DUNIA LAIN
+https://edgejt6.useetv.com/joss/14/dunialain/chunklist_w5947292_b684100_sleng_enc=-MpFsRpOR9s3DxnpH7n_GA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",MNC SHOP
+https://cdnbal1.useetv.com/joss/14/mncshop/chunklist_w845400415_b684100_sleng_enc=qpTmrJPLCOoRrQRG39KlYQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",EAT & GO
+https://edgejt6.useetv.com/joss/14/eatgo/chunklist_w844787668_b684100_sleng_enc=wgtyim8HcnpUToZlrY40pQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",TV EDUKASI
+https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w13193120_b684100_sleng_enc=-VsLU46OyMujZdjRpkUD-Q.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",RRI NET
+https://cdnmdc2.useetv.com/joss/14/rrinet/chunklist_w701918991_b684100_sleng_enc=BgOq41u2ESVTDQgLdJnC6g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",USEE INFO
+https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w22496969_b684100_sleng_enc=4IVMJWnW8xLMihtJpeYWHQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",CITRA DANGDUT
+https://edgejt6.useetv.com/joss/14/citradangdut/chunklist_w1177608574_b684100_sleng_enc=sRwvy3IKSYkQ10_iMaheGQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",I KONSER
+https://cdnbpp1.useetv.com/joss/14/ikonser/chunklist_w1857524835_b684100_sleng_enc=4jddgPuoSs69yW80L7A4-A.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",T MUSIK
+https://cdnmdc2.useetv.com/joss/14/tmusic/chunklist_w399852158_b684100_sleng_enc=P5otr95UNvBPGEnlJ4hZRA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",MTV LIVE
+https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w152024539_b1344100_sleng_enc=i5L_8WhHywG9n1Z1dqolhA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",KBS WORLD
+https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",LIFE TIME
+https://cdnmdc1.useetv.com/joss/14/lifetime/chunklist_w1179065797_b684100_sleng_enc=vFzr9AijlD58xP_upLFXig.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",PRAMBORS
+https://cdnbpp1.useetv.com/joss/14/pramborstv/chunklist_w701468621_b684100_sleng_enc=5Mj93NYbi92IkqnyvZlHHA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",USEE SPORT
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1949459549_b1344100_sleng_172408.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FOX SPORT 3
+https://cdnkbl2.useetv.com/joss/15/foxsport3/chunklist_w1133754787_b1344100_sleng_172397.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",CHAMPIONS 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w44562210_b1344100_sleng_205447.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",CHAMPIONS 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w55913092_b1344100_sleng_205435.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FOX SPORT 2
+https://cdnkbl2.useetv.com/joss/15/foxsport2/chunklist_w281324615_b1344100_sleng_172387.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",BEIN 1
+https://cdnbdsa1.useetv.com/joss/15/bein1/chunklist_w1594363800_b1344100_sleng_172377.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",DISCOVERY CH
+https://cdnkbl1.useetv.com/joss/15/disco/chunklist_w1040598677_b1344100_sleng_184151.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",NAT GEIO 
+https://cdnkbl2.useetv.com/joss/15/natgeo/chunklist_w1457446162_b1344100_sleng_184121.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",NAT GEO WIL;D
+https://cdnmdc1.useetv.com/joss/15/natgeowild/chunklist_w1900083063_b1344100_sleng_184136.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HISTORY
+https://cdnbdsa1.useetv.com/joss/15/history/chunklist_w183563994_b1344100_sleng_184167.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FASHION ONE
+https://cdnmdc1.useetv.com/joss/15/fashionone/chunklist_w1136695290_b1344100_sleng_184205.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaEoFTW.jpg" group-title="Movies",YOU SAFE ME I SAVE YOU corona info !!
@@ -989,6 +880,7 @@ https://www.googleapis.com/drive/v3/files/1iB1ju_DOFrFADjwUH8Ncjht449Ho9zzj?alt=
 https://www.googleapis.com/drive/v3/files/1kdIKr9J4hV9Kw33CE5j7H2Ze7IvencuW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="NashyaKids VoD",The Queen’s Corgi (2019)
 https://www.googleapis.com/drive/v3/files/1PevxCqtNtzksfS-CxYiMNGUopWsL8_vx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 ########### NashyaKids VoD #############
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oShaLi9.png" group-title="NashyaKids VoD", Onward (2020) 
 https://www.googleapis.com/drive/v3/files/1x5WbKkW8db9RL3IHiMzYUKpD4sQBxvuZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1192,20 +1084,14 @@ https://www.googleapis.com/drive/v3/files/1Y_UiNB7-vUqOLraX_nLl3gxQKFj-Be7d?alt=
 https://www.googleapis.com/drive/v3/files/1Lr3R7sHTpIhKWFPFEXaB_6jTl0GlSelK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGvQA1F.png" group-title="NashyaKids VoD", Howl’s Moving Castle (2004)
 https://www.googleapis.com/drive/v3/files/17dswj4X_ubirU1zkheIR1QQyGrQDy8tY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="TV Lokal",Usee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
-#EXTINF:-1 group-title="TV Lokal",Usee Prime
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
-#EXTINF:-1 group-title="TV Lokal",Ruang Terampil
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576524911~exp=9007200831265902~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=32fc63245df5d577585ed0ec06e8568508b43405b1a899eb84b0de8000a783f9
+
+#EXTM3U
 #EXTINF:-1 group-title="TV Lokal",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV Lokal",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 group-title="TV Lokal",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 group-title="TV Lokal",印尼大爱电视
-https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
 #EXTINF:-1 group-title="TV Lokal",GTV
 https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="TV Lokal",RCTI
@@ -1214,12 +1100,8 @@ https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_100000
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 #EXTINF:-1 group-title="TV Lokal",MNC
 https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
-#EXTINF:-1 group-title="TV Lokal",Metro
-https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
 #EXTINF:-1 group-title="TV Lokal",NET
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
-#EXTINF:-1 group-title="TV Lokal",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 #EXTINF:-1 group-title="TV Lokal",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal",Trans 7
@@ -1248,8 +1130,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 group-title="TV Lokal",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 group-title="TV Lokal",DAAI tv
-https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
 #EXTINF:-1 group-title="TV Lokal",GTV
 https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="TV Lokal",RCTI
@@ -1258,12 +1138,8 @@ https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_100000
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 #EXTINF:-1 group-title="TV Lokal",MNC
 https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
-#EXTINF:-1 group-title="TV Lokal",Metro
-https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
 #EXTINF:-1 group-title="TV Lokal",NET
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
-#EXTINF:-1 group-title="TV Lokal",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 #EXTINF:-1 group-title="TV Lokal",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal",Trans 7
@@ -1306,8 +1182,6 @@ http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="TV Lokal ID",Jek TV
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
-#EXTINF:-1 group-title="TV Lokal ID",Jember 1 TV
-http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",Tunjung Pinang TV
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",VOA INDONESIA
@@ -1316,26 +1190,18 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 group-title="TV Lokal ID",RTV Riau
-http://122.248.43.138:1935/ch11/myStream/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",SBO TV Surabaya
 http://122.248.43.138:1935/ch13/myStream/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",BTV Balikpapan
 http://122.248.43.138:1935/ch10/myStream/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",ADiTV Yogyakarta
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TV Lokal ID",Radar TV Lampung
-http://122.248.43.138:1935/ch17/myStream/live.m3u8
-#EXTINF:-1 group-title="TV Lokal ID",SaktiTV Madiun
-http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",Jek TV Jambi
 http://122.248.43.138:1935/ch14/myStream/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",RBTV Bengkulu
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",BETV Bengkulu
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
-#EXTINF:-1 group-title="TV Lokal ID",Jember1 TV
-http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="TV Lokal ID",RCTV Cirebon
@@ -1450,8 +1316,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.
 http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",FILMBOXPLUS
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Nashya ID Backup",FAST&FUNBOX
-http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",7 HD
 http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Nashya ID Backup",SKYACTION
@@ -1484,24 +1348,12 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:-1 group-title="Lifestyle",LEJEL Home Shopping
-https://livetvhooq.akamaized.net/e65856f8b215401fb45a5f4c49a50d9a/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576526475~exp=9007200831267466~acl=/e65856f8b215401fb45a5f4c49a50d9a/*/profile_2/chunklist.m3u8*~hmac=98c68808fdccd6f55c3acc1b262ff3d26e82068fef26479793e2fc28ededd1d6
-#EXTINF:-1 group-title="Lifestyle",Outdoor Channel
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576524658~exp=9007200831265649~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=92038a7c4fe4f2092ef72f2d8299b6a79523f83ec5c0b4a2113fd57933ff9580
-#EXTINF:-1 group-title="Lifestyle",Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576525268~exp=9007200831266259~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=2fecf8350db0a84ffd39bd33f7c465a5f24a8f3fc57462d977f9ff309524869b
-#EXTINF:-1 group-title="Lifestyle",People are Awesome
-https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576525468~exp=9007200831266459~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=dd7afa5712efdaaa14bdcfdb29a7925af7709dab23cd782a083838f7e497df31
-#EXTINF:-1 group-title="Lifestyle",Usee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1 group-title="Lifestyle",Ruang Trampil
 https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
 #EXTINF:-1 group-title="Lifestyle",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
-
-
 #EXTINF:-1 group-title="Nashya Sport",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Fight Box
@@ -1640,12 +1492,8 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w98444570
 https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 group-title="Nashya Sport",Outdoor Channel Asia
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582795905~exp=9007200837536896~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=7e3927c18f846e0b96ceae73fb14f71a6350cd3b6aa0e93e5533ab19892f9bdb&hdnts=st=1582795909~exp=1582796029~acl=/*~id=eeb20e36-c978-4dda-8ffe-f200d829a8bb~data=36.77.80.127~hmac=163c25f215b5189200afeda2ce3883c41917672ddbf70e1b5a63db739909ccff
 #EXTINF:-1 group-title="Nashya Sport",World of Free Nashya Sport
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
-#EXTINF:-1 group-title="Backup Nashya",RCTI
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217618~exp=9007200832958609~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=873c9c8de33b2437d9dedebcebd00396c3456408380d2715893752e4c9acb524
 #EXTINF:-1 group-title="Backup Nashya",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1149689427_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Backup Nashya",TRANS7
@@ -1656,66 +1504,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w107431205_b3840
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1921788338_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Backup Nashya",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="Backup Nashya",TVONE
-https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579153188~exp=9007200833894179~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=ea0b8d426cf85a5de9541782aa9ccc48af2065bd46ba4480d7af141839d2bfb4
-#EXTINF:-1 group-title="Backup Nashya",RAJAWALI TV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1579153279~exp=9007200833894270~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=b0c8c8140b003c28e8f18f28a2a696b0c016139ae37382466aa5411859dd1218
-#EXTINF:-1 group-title="Backup Nashya",GTV
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217534~exp=9007200832958525~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=a62d18aa1cc40c965677237c8e8941f3f25d8ffab2ff43fe9767de108754cffa
-#EXTINF:-1 group-title="Backup Nashya",TVONE
-https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217655~exp=9007200832958646~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=b8261b621a56a3bf89763f2f3604198e3b0e2e1fcb5393f1c4fa94117829c9dc
-#EXTINF:-1 group-title="Backup Nashya",KOMPAS
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217678~exp=9007200832958669~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_0/chunklist.m3u8*~hmac=8876e7790a22275b1fdaab78e5e616456183a03d981de686cd57080b02372ef8
-#EXTINF:-1 group-title="Backup Nashya",Berita Satu
-https://livetvhooq.akamaized.net/e23061b584d746ba811292c8e1bc783d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578218118~exp=9007200832959109~acl=/e23061b584d746ba811292c8e1bc783d/*/profile_0/chunklist.m3u8*~hmac=d088e4b18a4b80b09023f3a9a8d19feeed970d34baece7dfe55fd97eaa27b807
-#EXTINF:-1 group-title="Backup Nashya",Zee Bioskop
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1578218154~exp=9007200832959145~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=cab9abf53f41bab275c78da2875462ace8406f625734a781923801736d1324fc
-#EXTINF:-1 group-title="Backup Nashya",METRO
-https://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578218227~exp=9007200832959218~acl=/d7236670539144e0a5df0b8fa7a0c5c1/*/profile_0/chunklist.m3u8*~hmac=31c75a556b8a437980d0e2a06e58c6f0782091af5fc51771433e719ca1259eba
-#EXTINF:-1 group-title="Backup Nashya",JAWAPOS
-https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578218258~exp=9007200832959249~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=d015c4d54c969dc00cba1ed8f1d5f2dc841ad5b8b76e997cf06b380e7c199e5d
-#EXTINF:-1 group-title="Backup Nashya",CNA
-https://livetvhooq.akamaized.net/1dc93a7fcc294660a094f2c478de1aaf/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574673166~exp=9007200829414157~acl=/1dc93a7fcc294660a094f2c478de1aaf/*/profile_0/chunklist.m3u8*~hmac=5fe6c8bd02d6ac62cb7d0060f716df428e058fb61a6e0d89dee8dd3b9dcda3d4
-#EXTINF:-1 group-title="Backup Nashya",DW English
-https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578218306~exp=9007200832959297~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=d3e1092c23ca71358af9e3a78905046ec1d84c7f19fde0945d54219ab08b506a
-#EXTINF:-1 group-title="Backup Nashya",Al Jazeera
-https://livetvhooq.akamaized.net/9441d4e7c9db40cba9fb1a3fc986a596/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218336~exp=9007200832959327~acl=/9441d4e7c9db40cba9fb1a3fc986a596/*/profile_2/chunklist.m3u8*~hmac=e5578164c8c5b8fdc7b3deb50ead2fa0ee6709c3e9b2a3056541a86379c3db73
-#EXTINF:-1 group-title="Backup Nashya",Euronews
-https://livetvhooq.akamaized.net/10efd311a8054e2d9b96e39460acfa8b/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217795~exp=9007200832958786~acl=/10efd311a8054e2d9b96e39460acfa8b/*/profile_2/chunklist.m3u8*~hmac=1fb2974c5b960eb8f2421273ff99a34151a19c9627d92784add553de89d3429e
-#EXTINF:-1 group-title="Backup Nashya",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217711~exp=9007200832958702~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=4635c92dde734076e1d8947f5b528d549e5ba1b2bc1b3069380e8af226154de3
-#EXTINF:-1 group-title="Backup Nashya",OUTDOOR
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1578217735~exp=9007200832958726~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=1b59f362394deab487be3e3cabe1109bf9b158e0085d874255eba99f2146831f
-#EXTINF:-1 group-title="Backup Nashya",ARIRANG
-https://livetvhooq.akamaized.net/2d3daea33e7849f4bcd48bb6396cbf2b/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217766~exp=9007200832958757~acl=/2d3daea33e7849f4bcd48bb6396cbf2b/*/profile_2/chunklist.m3u8*~hmac=253913e0189d0a39c80591844ef78067db859b35699213abb765b270d156120d
-#EXTINF:-1 group-title="Backup Nashya",MNC
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217826~exp=9007200832958817~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=7fbca12a9245183490112f539aed44098192b46417876300dc6ae2bc1eec3c4d
-#EXTINF:-1 group-title="Backup Nashya",MYTV
-https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217856~exp=9007200832958847~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_2/chunklist.m3u8*~hmac=24f419c40ccac5072390082acca35aed43a27244f3bff8e197a1d66fc2b81092
-#EXTINF:-1 group-title="Backup Nashya",Clubbing
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217872~exp=9007200832958863~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=1f0135c861ce6577b868a79d085bbf01ab7e9db6215d71565e383b661335169d
-#EXTINF:-1 group-title="Backup Nashya",JAKTV
-https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217916~exp=9007200832958907~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=b0e46a8555fc20b9692127b3fa54fddf6136779421465e59a66cfa8a19abd616
-#EXTINF:-1 group-title="Backup Nashya",JTV
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217938~exp=9007200832958929~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=36bdb68ceb75ef7e66bf698efef7322c1c30f07017a94e4c2ff58481f5310574
-#EXTINF:-1 group-title="Backup Nashya",People are Awesome
-https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217960~exp=9007200832958951~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=424cea0b8e13f76179b74233428082443bce01b460bc95b731649ba4da29113b
-#EXTINF:-1 group-title="Backup Nashya",Fail Army
-https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218047~exp=9007200832959038~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_2/chunklist.m3u8*~hmac=10ee5de799aaf468724bf10bc4d68992603cf0517f473342b896c4db71e09131
-#EXTINF:-1 group-title="Backup Nashya",KDRAMA
-https://livetvhooq.akamaized.net/8b4f753fdcc94067bfcd243350f36999/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218095~exp=9007200832959086~acl=/8b4f753fdcc94067bfcd243350f36999/*/profile_2/chunklist.m3u8*~hmac=f8592d4c498e05f0594606b638e52a903e3862502482e6aa350511ad78020bf8
-#EXTINF:-1 group-title="Backup Nashya",The Pet Collective
-https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218360~exp=9007200832959351~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=e7ae7c5b6e1ff8789306a6fdcfe9182ee871b99e066318e1f5c61964974cf3e9
-#EXTINF:-1 group-title="Backup Nashya",Entertainment Weekly
-https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218401~exp=9007200832959392~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_2/chunklist.m3u8*~hmac=0bf01e6f09599ca3bbd298911362a6d08c8aa3c547d9be3794b3877f580d09f4
-#EXTINF:-1 group-title="Backup Nashya",idKU
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218436~exp=9007200832959427~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=465c440bb34513e9d901f62fe1cafe619150e9b92b7858dfb9638a919359de55
 #EXTINF:-1 group-title="Backup Nashya",KARAOKE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
-#EXTINF:-1 group-title="Backup Nashya",Usee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
-#EXTINF:-1 group-title="Backup Nashya",Usee Prime
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:-1 group-title="Backup Nashya",Ruang Terampil
 https://dl.dropbox.com/s/r6k06vq0sh5og9r/offline.mp4?dl=0
 #EXTINF:-1 group-title="Backup Nashya",ANTV
@@ -1850,14 +1640,8 @@ https://dl.dropbox.com/s/q7305cobr99toiy/nba.m3u8?dl=0
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="Backup Nashya",SPORTmax
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 group-title="Backup Nashya",alkass
-http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
-#EXTINF:-1 group-title="Backup Nashya",BAHRAIN Nashya Sport
-http://38.99.146.36:7777/BahrainSport_HD.m3u8
 #EXTINF:-1 group-title="Backup Nashya",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Backup Nashya",Dubai Sport HD2
-http://38.99.146.36:7777/DubaiSport2_HD.m3u8
 #EXTINF:-1 group-title="Backup Nashya",Real Madrid TV [Espanol]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 group-title="Backup Nashya",REAL MADRID TV
@@ -1950,12 +1734,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="Music",One Music
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Music",Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
-#EXTINF:-1 group-title="Music",B Music Session
-https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
-#EXTINF:-1 group-title="Music",Music Concert
-https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 #EXTINF:-1 group-title="Music",MTV ASIA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 group-title="Music",MUSIC TOP
@@ -2070,8 +1848,6 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 group-title="SPORT",ON Sport
-http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
 #EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 2
@@ -2082,8 +1858,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 group-title="SPORT",Al Kass Nashya Sport 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 group-title="SPORT",alkass
-http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
 #EXTINF:-1 group-title="SPORT",ALL Nashya Sport HD
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 group-title="SPORT",Bundesliga ch. 1
@@ -2294,30 +2068,24 @@ http://cableserver1.cableguy.pro:82/live?cId=504&uId=2255&deviceUser=roggiemkd&d
 http://cableserver1.cableguy.pro:82/live?cId=431&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="MOVIES 24/7",The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1  group-title="MOVIES 24/7",Movies 1
+#EXTINF:-1 group-title="MOVIES 24/7",Movies 1
 https://aldirect.rtmp.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="MOVIES 24/7",Movies 2
+#EXTINF:-1 group-title="MOVIES 24/7",Movies 2
 https://aldirect.rtmp.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="MOVIES 24/7",Movies 3
+#EXTINF:-1 group-title="MOVIES 24/7",Movies 3
 https://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="MOVIES 24/7",Movies 4
+#EXTINF:-1 group-title="MOVIES 24/7",Movies 4
 https://aldirect.rtmp.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="MOVIES 24/7",Movies 5
+#EXTINF:-1 group-title="MOVIES 24/7",Movies 5
 https://aldirect.rtmp.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="MOVIES 24/7",Movies 6
+#EXTINF:-1 group-title="MOVIES 24/7",Movies 6
 https://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="MOVIES 24/7",Movies 7
+#EXTINF:-1 group-title="MOVIES 24/7",Movies 7
 https://aldirect.rtmp.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUiWrV0.png" group-title="VOD Nashya", Bloodshot (2020)
+#EXTINF:-1 group-title="VOD Nashya",Bloodshot (2020)
 https://www.googleapis.com/drive/v3/files/1QrUZjFySMEHJSouoqH96HXZV2op4bAtV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LOhnjqw.png" group-title="VOD Nashya", Bad Boys for Life (2020)
-https://www.googleapis.com/drive/v3/files/1Ck429lUcOGn-euMDYmrN1GFjlnXYWx8-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9hv13e.png" group-title="VOD Nashya", Wendy (2020)
+#EXTINF:-1 group-title="VOD Nashya",Wendy (2020)
 https://www.googleapis.com/drive/v3/files/1C2pmx8iNyhQCGe5IyoDo-iJcH7t7Eo_R?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6FnxlV9.png" group-title="VOD Nashya", My Spy (2020)
-https://www.googleapis.com/drive/v3/files/1DOpZM9pBwTCyVZyDCAvi3p0takKURvBE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tXuuLUY.png" group-title="VOD Nashya", Fantasy Island (2020)
-https://www.googleapis.com/drive/v3/files/1tHKXnxMIRQxzSjru4Fck3qsOxZTxIwYi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Nashya",Maleficent 2: Mistress of Evil
 https://www.googleapis.com/drive/v3/files/15cd2wNVH5dzIF7RDSwv5lSnaupMoSNTe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Nashya",Johnny English Strikes Again
@@ -2354,391 +2122,34 @@ https://www.googleapis.com/drive/v3/files/1dSHFlKTXUrU5SBLsERBZzIyjB1VmgvlS?alt=
 https://www.googleapis.com/drive/v3/files/1hj6s6ywR4TERoWfz-omJaJd8FH5kuhKV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Nashya",Knives Out
 https://www.googleapis.com/drive/v3/files/19G3dLo6oK2Zcchd9Zxi3FmENgwIaV-bI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zZW8bJ8.png" group-title="VOD Nashya", Becoming (2020)
-https://www.googleapis.com/drive/v3/files/1xOuUhshSGBPacjf6Z2Rug8edVI0PAoK1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C2YOuGT.png" group-title="VOD Nashya", Spenser Confidential (2020)
+#EXTINF:-1 group-title="VOD Nashya",Spenser Confidential (2020)
 https://www.googleapis.com/drive/v3/files/1_LjWTn7kSfmawh6F29M07c_8XioQdElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/az0xk1t.png" group-title="VOD Nashya", Sonic the Hedgehog (2020)
+#EXTINF:-1 group-title="VOD Nashya",Sonic the Hedgehog (2020)
 https://www.googleapis.com/drive/v3/files/1dAxT_vQXhlLPgkDVM3cxQPJ0TlsX7CVm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RwFiNXn.png" group-title="VOD Nashya", Birds of Prey (2020)
+#EXTINF:-1 group-title="VOD Nashya",Birds of Prey (2020)
 https://www.googleapis.com/drive/v3/files/145RrNxOsbGWJYdaNJImdIjXzmAE9EJ3z?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EA5q6v9.png" group-title="VOD Nashya", I Am Fear (2020) 
+#EXTINF:-1 group-title="VOD Nashya",I Am Fear (2020)
 https://www.googleapis.com/drive/v3/files/1A5-qRYV9VbZac10G3EkK3b4wQKWoTXOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RtRigzj.png" group-title="VOD Nashya", Pete Davidson: Alive from New York (2020) 
+#EXTINF:-1 group-title="VOD Nashya",Pete Davidson: Alive from New York (2020)
 https://www.googleapis.com/drive/v3/files/1JhQxX-wbJsA5fYm_REz5MOpunSKEdtiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pWxmdoE.png" group-title="VOD Nashya", John Henry (2020)
+#EXTINF:-1 group-title="VOD Nashya",John Henry (2020)
 https://www.googleapis.com/drive/v3/files/1uRATszRIb4_AG_IS8NXyGHNqsj9tFceo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSDVURR.png" group-title="VOD Nashya", Blood Widow (2020) 
+#EXTINF:-1 group-title="VOD Nashya",Blood Widow (2020)
 https://www.googleapis.com/drive/v3/files/1BCOYs6QmC9mi9RoKDzkDg__1s1MXtGG-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7GfUqbb.png" group-title="VOD Nashya", Disturbing the Peace (2020)
+#EXTINF:-1 group-title="VOD Nashya",Disturbing the Peace (2020)
 https://www.googleapis.com/drive/v3/files/1HPtYkaa0sE-WmyzZS3YJdc4EYJI6C4H1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHojFHk.png" group-title="VOD Nashya", Alone (2020)
+#EXTINF:-1 group-title="VOD Nashya",Alone (2020)
 https://www.googleapis.com/drive/v3/files/12Ry9Y-ZjUGkf4HW-etKF5tzp3LMl-amB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDJT7K.png" group-title="VOD Nashya", Bloodhound (2020)
+#EXTINF:-1 group-title="VOD Nashya",Bloodhound (2020)
 https://www.googleapis.com/drive/v3/files/1JT-kVWj6HLL2EZNu2ynUfg0sbQT5rVP0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7n2oNNY.png" group-title="VOD Nashya", An English Haunting (2020)
-https://www.googleapis.com/drive/v3/files/1dXa5OwMc1-owb9r6Cx9we2-1qXFn7Cvp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mcvi7dj.png" group-title="VOD Nashya", 40: The Temptation of Christ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Pt28GG.png" group-title="VOD Nashya", Getaway (2020)
-https://www.googleapis.com/drive/v3/files/1Dad2mCetvcW3vZXaDUEHEJNqCR46-Vew?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7o0f23.png" group-title="VOD Nashya", Gold Dust (2020)
+#EXTINF:-1 group-title="VOD Nashya",Gold Dust (2020)
 https://www.googleapis.com/drive/v3/files/1Pt38AVbEJQqBPbKSszP4a7UtkSHudvTn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p56IecC.png" group-title="VOD Nashya", The Turning (2020)
+#EXTINF:-1 group-title="VOD Nashya",The Turning (2020)
 https://www.googleapis.com/drive/v3/files/1tjX2ovm1fzBKSARhBtqppuERo2yzYcFB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VL6LZ6O.png" group-title="VOD Nashya", I Still Believe (2020)
+#EXTINF:-1 group-title="VOD Nashya",I Still Believe (2020)
 https://www.googleapis.com/drive/v3/files/19QyehM1H3mWXIa0OT2ddFq7I3CCAA9Qn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kw1jmoy.png" group-title="VOD Nashya", Resistance (2020)
+#EXTINF:-1 group-title="VOD Nashya",Resistance (2020)
 https://www.googleapis.com/drive/v3/files/10O9dDLe_M6NT1CxE1rxTEA6JFGf1Hd9F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TKJ6wm.png" group-title="VOD Nashya", Never Rarely Sometimes Always (2020) 
-https://www.googleapis.com/drive/v3/files/1rCUrg07zAvo3ddX-kcDtHL84_i2waj78?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VeCPuJh.png" group-title="VOD Nashya", The Windermere Children (2020)
-https://www.googleapis.com/drive/v3/files/1XA3mx1jXWnzmC459po-BwoVs9CupLKgL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLRaJAx.png" group-title="VOD Nashya", Alien Outbreak (2020) 
-https://www.googleapis.com/drive/v3/files/14IjQLyHZ82JZyYwqTUeldnrOs6GiZjBd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JCATt7s.png" group-title="VOD Nashya", Escape from Pretoria (2020)
-https://www.googleapis.com/drive/v3/files/1Jm1EGR_2O_IH6g_jWkO8LA4Zw8Sh265e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lxNAzPF.png" group-title="VOD Nashya", Eve (2019)
-https://www.googleapis.com/drive/v3/files/1NS11VIk8Im7uWGqcW9KF8uUlOeYkwrcJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bn5Vnm.png" group-title="VOD Nashya", Butt Boy (2019)
-https://www.googleapis.com/drive/v3/files/1xz7EPXMLD-CRCDeAkVdPmB-ChGw5BqZk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c1dDHMb.png" group-title="VOD Nashya", Honey Boy (2019)
-https://www.googleapis.com/drive/v3/files/1p3cwx2qtvzHGRYURU2G0UlfdXkzYs6Ac?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tmrsDus.png" group-title="VOD Nashya", Just Mercy (2019)
-https://www.googleapis.com/drive/v3/files/1vfHXUCsKxmYhIRKMWlMORlpaKg2Yh_IF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w7cLVTT.png" group-title="VOD Nashya", Judy & Punch (2019)
-https://www.googleapis.com/drive/v3/files/1VqWB74YztDPIkEoDumomY1DrEjjJyLZ0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maQKeWN.png" group-title="VOD Nashya", Bull (2019)
-https://www.googleapis.com/drive/v3/files/11xAi4e_UX3bgLUmPXBwN2oP8HOj9BfZA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHwDCs1.png" group-title="VOD Nashya", Nesting Dolls (2019)
-https://www.googleapis.com/drive/v3/files/1ZqzVSDGOzWMv0yO163fB1DcPNt17tsGd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A5zHoWm.png" group-title="VOD Nashya", After Midnight (2019)
-https://www.googleapis.com/drive/v3/files/17MqoAFkZ9CHMw6QwW3-VpaGake_AuU6x?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yVfxgCf.png" group-title="VOD Nashya", A Hidden Life (2019)
-https://www.googleapis.com/drive/v3/files/1wSkALO7-BomDNWUFUO-P-gBrcx0q3A4o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZYFSI5.png" group-title="VOD Nashya", Richard Jewell (2019)
-https://www.googleapis.com/drive/v3/files/1ZCVJOFc27FjgMMpgbRZhfxR85yZCp6CV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1AfG2ug.png" group-title="VOD Nashya", Blood on Her Name (2019)
-https://www.googleapis.com/drive/v3/files/1bnFtoAlBs4BOheX5zMruCDeNdsMUmPKg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B0jUiZB.png" group-title="VOD Nashya", Jumanji: The Next Level (2019)
-https://www.googleapis.com/drive/v3/files/1thzq230Y4VyowidaXcT02MzZ3SUn8Va0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a4ex2au.png" group-title="VOD Nashya", Bombshell (2019)
-https://www.googleapis.com/drive/v3/files/1RvSICASNsMPYNsA7MeyFd-5NoydQ6HOi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbhhbGh.png" group-title="VOD Nashya", After We Leave (2019)
-https://www.googleapis.com/drive/v3/files/1_jaEO53B_IfzFTLZXPJufncyjDWtQPHW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V9OJmgB.png" group-title="VOD Nashya", Guns Akimbo (2019) 
-https://www.googleapis.com/drive/v3/files/1wVqXlG9CQ6-gdkZDe1QYv0OwdZ6VdGhM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gqXPCjk.png" group-title="VOD Nashya", Verotika (2019)
-https://www.googleapis.com/drive/v3/files/1vg4VMFKR-4OUAkbZ9dbCMFKWQJJTj88J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s1VGDo7.png" group-title="VOD Nashya", Charlie’s Angels (2019)
-https://www.googleapis.com/drive/v3/files/1LaiW4aEvYv84_z-qdFdVLN4ckt2SzZTm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x6MqkG2.png" group-title="VOD Nashya", Last Christmas (2019)
-https://www.googleapis.com/drive/v3/files/1T68kMhFMd6Oim35ByJAZJEwASbN-S9OK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezkgRbk.png" group-title="VOD Nashya", Jay and Silent Bob Reboot (2019)
-https://www.googleapis.com/drive/v3/files/13SVqgfCtBBL5i5q0MGvhHn3ZwvajnzYz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qbrXk8N.png" group-title="VOD Nashya", Get Gone (2019)
-https://www.googleapis.com/drive/v3/files/1eBuvEfsekruqNzmo6CYTC31DJIzMX_q5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kr0lyzn.png" group-title="VOD Nashya", Cats (2019)
-https://www.googleapis.com/drive/v3/files/1Hi2eMQKiJqTzSySXMxkHB_fA_Q0Xk6PO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kPr1EgA.png" group-title="VOD Nashya", Greener Grass (2019)
-https://www.googleapis.com/drive/v3/files/1dzHh1r3f15mKmt07Q2NOfmTquBBAijUr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RRo43Ki.png" group-title="VOD Nashya", Playing with Fire (2019)
-https://www.googleapis.com/drive/v3/files/1yDvOUBvPwA2mP3Cl2IZK25PXFoCipJTr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yf5S9wM.png" group-title="VOD Nashya", Midway (2019)
-https://www.googleapis.com/drive/v3/files/1YZ1OuKS-xTa63mjdRTU7Wgy2IWZUEdVX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eg4IO5O.png" group-title="VOD Nashya", Kindred Spirits (2019)
-https://www.googleapis.com/drive/v3/files/1rNftsU5RyXi_V--aYqq35l3bjcVawC5b?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0T9rn0.png" group-title="VOD Nashya", Doctor Sleep (2019)
-https://www.googleapis.com/drive/v3/files/1mKO5URO4CvqDDtgFSiXjX_lHdo06kKrw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJTO2DA.png" group-title="VOD Nashya", Dark Waters (2019)
-https://www.googleapis.com/drive/v3/files/1YQaDiS92jSJr8vkc1oWu1j24UNls1AfW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iKeObjs.png" group-title="VOD Nashya", 1917 (2019)
-https://www.googleapis.com/drive/v3/files/1QJEgDyrqYBHj_TlQoJ9QO8Zf01iRFhgt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VXUJ5c5.png" group-title="VOD Nashya", Troop Zero (2019)
-https://www.googleapis.com/drive/v3/files/1t-ldcSgcYumHLM6e8Mo4jc_XW2mF7WUL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bt1zf4U.png" group-title="VOD Nashya", Motherless Brooklyn (2019)
-https://www.googleapis.com/drive/v3/files/1d_2jsO83oIovYgFLEEvnV86qz8IKSdOw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AuqPqQH.png" group-title="VOD Nashya", Changeland (2019)
-https://www.googleapis.com/drive/v3/files/1n6TpXRrOQx5PK4U2b1pMqJuosP2qjztM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9rRdgc.png" group-title="VOD Nashya", Home with a View of the Monster (2019)
-https://www.googleapis.com/drive/v3/files/1Nfk7UjCn4N6VDSzBGxj2w146AWwyf-TA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QNbem3l.png" group-title="VOD Nashya", Little Women (2019)
-https://www.googleapis.com/drive/v3/files/16Y4buHK5bhU7ixIquFz5_Lpj3JccY54M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0G2BsV.png" group-title="VOD Nashya", Terminator: Dark Fate (2019)
-https://www.googleapis.com/drive/v3/files/1NEHm3bSrKng19Bwgd-fBiZD0Tkg31cC4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFRs8iI.png" group-title="VOD Nashya", Corporate Animals (2019)
-https://www.googleapis.com/drive/v3/files/1z0eUCN7NuKstDI0SAuef2ntqiJQWPpUb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3y5OQMA.png" group-title="VOD Nashya", The Assent (2019)
-https://www.googleapis.com/drive/v3/files/1Cv6xIiEjkw83SOkBbYdby-fEoGzkgnzk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i6z0wVl.png" group-title="VOD Nashya", The Mercenary (2019)
-https://www.googleapis.com/drive/v3/files/1il4tlEb8VosYeBl1mS4Q5JNi-5aW47f2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ylphO3e.png" group-title="VOD Nashya", Inherit the Viper (2019)
-https://www.googleapis.com/drive/v3/files/15F9lAIljFnHxYIoAGcVUhuHN0h7KYZJ9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zF5i1oi.png" group-title="VOD Nashya", Lake Artifact (2019)
-https://www.googleapis.com/drive/v3/files/18SjO1S7O_GDy0R4V2A2Bhx1Y__emMSdx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h1NWoZS.png" group-title="VOD Nashya", Snatchers (2019)
-https://www.googleapis.com/drive/v3/files/13hnG-5Hh3qT2kvRqb3cbDDQBtPjkDPQR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cW5CqQ1.png" group-title="VOD Nashya", Mine 9 (2019)
-https://www.googleapis.com/drive/v3/files/1cqvSnTf7cMSWroA2bozBGpD2hqm79ra8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dkHx2qn.png" group-title="VOD Nashya", A Serial Killer’s Guide to Life (2019)
-https://www.googleapis.com/drive/v3/files/1hKMEQ4G95WkfMx8qfOa41BhSE69-XI-p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvpFmi5.png" group-title="VOD Nashya", Patients of a Saint (2019)
-https://www.googleapis.com/drive/v3/files/1ipBnh3RH7gP9KLD7sTqHpl2Z3SLdznBM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MZW9fYw.png" group-title="VOD Nashya", The Courier (2019)
-https://www.googleapis.com/drive/v3/files/15dOkl-35wVC2e3PhjvI2Xi2IKC4b9hdT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mYJSt9w.png" group-title="VOD Nashya", Line of Duty (2019) 
-https://www.googleapis.com/drive/v3/files/1HE4Qm_2CHMU7bxYYvJvFc64wXaeTNLiG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNXabA4.png" group-title="VOD Nashya", Mrs Lowry & Son (2019)
-https://www.googleapis.com/drive/v3/files/1XbygY7BcemS9h9bzA-LNLJVQWAJ-dRmo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yrrZirl.png" group-title="VOD Nashya", The Informer (2019)
-https://www.googleapis.com/drive/v3/files/1De1XIgn2XmJ2MgjQjE2rF_zpzxqwsEYp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRtB6Mx.png" group-title="VOD Nashya", Jexi (2019)
-https://www.googleapis.com/drive/v3/files/13UyiRqbMIJTwQuJZIFQRYsSGbK37n-ju?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NvPSxI.png" group-title="VOD Nashya", The Chain (2019)
-https://www.googleapis.com/drive/v3/files/1pHIF0oxI23mR2rMmPH66wvFQ_qNURj3F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RVoiNd.png" group-title="VOD Nashya", Ip Man 4: The Finale (2019)
-#https://www.dropbox.com/s/cztkcv8cxc8b7b6/Nonton%20Movie%20Ip%20Man%204-%20The%20Finale%20%282019%29%20FILMAPIK%20Sub%20Indo%20Gratis%20-%20INDOXXI.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILiutWS.png" group-title="VOD Nashya", Jumanji: The Next Level 2019)
-#https://www.dropbox.com/s/9uq540nnii4ncm3/Jumanji%20The%20Next%20Level%20Full%20-%20Film%20Full%20Movies%20Streaming.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eVkNubc.png" group-title="VOD Nashya", Ford v Ferrari (2019)
-https://www.googleapis.com/drive/v3/files/1qfujtrP2X7jdEBuj7ApsltUwjNoh8V70?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2alcCvZ.png" group-title="VOD Nashya", Maleficent: Mistress of Evil (2019)
-https://www.googleapis.com/drive/v3/files/14TB7kUNATE95hVXHLneAIYCnj2X0BclZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unmx3Ui.png" group-title="VOD Nashya", Black and Blue (2019)
-https://www.googleapis.com/drive/v3/files/1E60N7zZy8jJCDQzKJ35yYSX89-7qmCVQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AR6STzS.png" group-title="VOD Nashya", Knives Out (2019) 
-https://www.googleapis.com/drive/v3/files/1sHtyLvZVLsret31nefGuDzm4XXRMCWHL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8xhJRXe.png" group-title="VOD Nashya", Jojo Rabbit (2019) 
-https://www.googleapis.com/drive/v3/files/1EVSpN6qxQvVLaGtUyLtWdBhKVT2U5dPa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9qNzPA.png" group-title="VOD Nashya", The Ghost Who Walks (2019)
-https://www.googleapis.com/drive/v3/files/111mRrj1X_gdQ8An8y9pi1neUG0J_XiuI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T3ZTG7E.png" group-title="VOD Nashya", Apparition (2019) 
-https://www.googleapis.com/drive/v3/files/1f5EsXHM8QG3HTokoood8lo8DLLrzdPrP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/744ozy2.png" group-title="VOD Nashya", Jexi (2019)
-https://www.googleapis.com/drive/v3/files/1wXAosseWJDFl6wusLE0mJd-xhp9rF_1Q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pFQsqN6.png" group-title="VOD Nashya", The Kill Team (2019)
-https://www.googleapis.com/drive/v3/files/1pJwluw-ur-kb4FImZH0pS0V7PcxWp3NT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wxgZXa.png" group-title="VOD Nashya", John Mulaney & the Sack Lunch Bunch (2019)
-https://www.googleapis.com/drive/v3/files/17sDkSLuNZMfU10cqzyl5vlQrT8i1YrUs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FXnM0zv.png" group-title="VOD Nashya", Sacren (2019)
-https://www.googleapis.com/drive/v3/files/1dWSSgLFeKH8JiV_VG0xDYc9LoVtwfcd9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I2TMmiS.png" group-title="VOD Nashya", Zombieland: Double Tap (2019)
-https://www.googleapis.com/drive/v3/files/1hC1O5Y8t5INpieGIR834EBD7Gk1ORqeA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UMoPmtx.png" group-title="VOD Nashya", Judy (2019)
-https://www.googleapis.com/drive/v3/files/1JsLFsfu_3HO-Wen9JNhl21CqkiSGXHre?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WKNV0da.png" group-title="VOD Nashya", Togo (2019)
-https://www.googleapis.com/drive/v3/files/1p-Vx6rzqkeYyUDA3m49RByGw6mhy9HBn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OlcoTMM.png" group-title="VOD Nashya", The Aeronauts (2019)
-https://www.googleapis.com/drive/v3/files/1YOn6Yx0a-jutwYJHLQMbUNVRd5TVaY9c?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HRB4SzU.png" group-title="VOD Nashya", Knives and Skin (2019)
-https://www.googleapis.com/drive/v3/files/1Ozls8HmN6sN5_LuTO576-l5o7LEskhta?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DWa8Aym.png" group-title="VOD Nashya", The Two Popes (2019)
-https://www527.o0-2.com/token=yE--xQQBtFGxVFBofPxA2Q/1581276178/103.58.0.0/106/e/ad/e33c0f3c239a8bd8fc9b916a0ca32ade-360p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7C8hMw.png" group-title="VOD Nashya", Late Night (2019)
-https://www.googleapis.com/drive/v3/files/1HgFk7238SLM3hLFOuGGhIxvByRHmK8Jb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/szdseVZ.png" group-title="VOD Nashya", Red Devil (2019) 
-https://www.googleapis.com/drive/v3/files/1UV_Tlf-lTod-7w3WOD8t5aabj8dR2U5Y?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qNAmJRk.png" group-title="VOD Nashya", Spider in the Web (2019)
-https://www.googleapis.com/drive/v3/files/1oKSj8H_8WCsomcby4KTzBGfqlHdQJULo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6LFI9ta.png" group-title="VOD Nashya", This Is Our Home (2019)
-https://www.googleapis.com/drive/v3/files/1U15jECkQqqju-AmMsyJjbi_8Vy2AMJmh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qra0Mjc.png" group-title="VOD Nashya", Villains (2019)
-https://www.googleapis.com/drive/v3/files/18gQjQn-h_1mogwikCMd8zpoZRwJ8TA_G?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Rq3Ip1.png" group-title="VOD Nashya", 6 Underground (2019)
-https://www.googleapis.com/drive/v3/files/1bXVXSkD9XVYWzi_9hd8VIsnNotkLJtpK?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PwIbWSS.png" group-title="VOD Nashya", After She Wakes (2019)
-https://www.googleapis.com/drive/v3/files/1clCZiNbzBPTbCiA2D0iHT7heU4nYJkGe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WY1AgNj.png" group-title="VOD Nashya", A Rainy Day in New York (2019)
-https://www.googleapis.com/drive/v3/files/1rE1VTdkz-k-WS_p91NKd_VkYZKkZIiTV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2FHhiT.png" group-title="VOD Nashya", Killerman (2019)
-https://www.googleapis.com/drive/v3/files/1lkHFV1SZ-rA7070clEdO_ETOp5Etnw1Q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6A8JaLF.png" group-title="VOD Nashya", Dark Light (2019)
-https://www.googleapis.com/drive/v3/files/1yX2qXAMBXhmQtJwNjJORcEU_9nee2koC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rHIcUu.png" group-title="VOD Nashya", Doctor Sleep (2019)
-https://www.googleapis.com/drive/v3/files/16Mvd1b_ue7XOu_JIexa_wEopgdEeuoHO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFetlTq.png" group-title="VOD Nashya", Trauma Center (2019)
-https://www.googleapis.com/drive/v3/files/1t4rE_d8D0lC5ShAzMIr51uZ0ifNRk7uq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9pKK4Hy.png" group-title="VOD Nashya", Beyond the Law (2019)
-https://www.googleapis.com/drive/v3/files/1pwnKPMfdOLak8RmT0znJDm3duKIEW3n2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sAhRGTp.png" group-title="VOD Nashya", Grand Isle (2019)
-https://www.googleapis.com/drive/v3/files/1w_BpSIguMamNAr_zsAzUwLiennP4Qr75?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4DzIuQ.png" group-title="VOD Nashya", I See You (2019)
-https://www.googleapis.com/drive/v3/files/1fpAhO6jOK6fACcGGO2n29QOM8LjWtNUR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RIpOyNA.png" group-title="VOD Nashya", Marriage Story (2019)
-https://www.googleapis.com/drive/v3/files/1mPn2Agqg-GCThrORg0wZA7ooL1WbKGV5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V9BFvzu.png" group-title="VOD Nashya", Out of Liberty (2019)
-https://www.googleapis.com/drive/v3/files/1mFIgpPk7UQjC7YHTMR6VXl4qiB2Wocie?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hsGSgNH.png" group-title="VOD Nashya", Ad Astra (2019) 
-https://www.googleapis.com/drive/v3/files/1uAWfMofgwn3-uA5tVaJ75yIlcy5u5IGp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ea2GKPS.png" group-title="VOD Nashya", A Christmas Prince: The Royal Baby (2019)
-https://www.googleapis.com/drive/v3/files/1LGbF1Icl9daN2Uj8uj60IhGV6mT-Ad1b?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dnHpGKN.png" group-title="VOD Nashya", One Must Fall (2019)
-https://www.googleapis.com/drive/v3/files/1qy6aopFh00lTrGiX2OWqzcyhnmdD9lw1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bD3mBpo.png" group-title="VOD Nashya", Ring Ring (2019)
-https://www.googleapis.com/drive/v3/files/1pIX80dltznr9-snoZuT_rokFvXs6fgNG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dEp5phE.png" group-title="VOD Nashya", Dropa (2019)
-https://www.googleapis.com/drive/v3/files/1P7BNQxL03cEeP3HjO8t7UbN04GkGVKrt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sPNNUO9.png" group-title="VOD Nashya", Hustlers (2019)
-https://www.googleapis.com/drive/v3/files/1onhp_Qbfx-yf9Kx6UswUeEYRINY16acu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DixUKn7.png" group-title="VOD Nashya", Overcomer (2019)
-https://www.googleapis.com/drive/v3/files/1bdVl1qf1Elll3Jv8DkmDqes1RgYtSyDG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lbntyg4.png" group-title="VOD Nashya", The Report (2019)
-https://www.googleapis.com/drive/v3/files/1NsItrqEKpX0QNWBJnAmJzBHqBDJZCeAr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFEndf9.png" group-title="VOD Nashya", Holiday Rush (2019)
-https://www.googleapis.com/drive/v3/files/1f6nd7R6RfmBkyxsrterD42EAVLhPidoV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AsG4D1v.png" group-title="VOD Nashya", Brittany Runs a Marathon (2019)
-https://www.googleapis.com/drive/v3/files/1JbHGMILzRdBDv_pw43LOgh-nGDMIRbEV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcqoycF.png" group-title="VOD Nashya", Daniel Isn’t Real (2019)
-https://www.googleapis.com/drive/v3/files/1QcwDNdkocOnax5R6C_3uwZT7JBwqSyuH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pazvrvN.png" group-title="VOD Nashya", Zeroville (2019)
-https://www.googleapis.com/drive/v3/files/1ebbdOx6Hy_NBQC-wl1ijTezH4xA1z_u2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IeivSDo.png" group-title="VOD Nashya", The Shed (2019)
-https://www.googleapis.com/drive/v3/files/1vmnTOxKdCmHi0aZOiuQs8PoaGKgrwTvO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/psU4H6q.png" group-title="VOD Nashya", Once Upon a Time in Hollywood (2019)
-https://www.googleapis.com/drive/v3/files/1BCxbd8uuLiTSS1m4cqTC7KIVOneYkMsn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l2wRnFi.png" group-title="VOD Nashya", Bennett’s War (2019)
-https://www.googleapis.com/drive/v3/files/11bZzPccsGxPDW8ZqLt3n5N83CEiaW8xG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jsGxXOr.png" group-title="VOD Nashya", Mike Birbiglia: The New One (2019)
-https://www.googleapis.com/drive/v3/files/1il0DgVKBs0Li2kl-mRIg_C5EcWoTvFpf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BdoX1wl.png" group-title="VOD Nashya", The Irishman (2019)
-https://www.googleapis.com/drive/v3/files/1aiSDGFCZ6qxsg7UyJJRNNsvCcSLFRqss?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B93q0Jz.png" group-title="VOD Nashya", The Goldfinch (2019)
-https://www.googleapis.com/drive/v3/files/1jG4GV62df9ZSmYQjeUVX7Sjq_vXrilPX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pSmaOxG.png" group-title="VOD Nashya", 3022 (2019)
-https://www.googleapis.com/drive/v3/files/1bROt1rw6-MlNJRjS6LUSEhWrYNH7_BUP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdmKCT0.png" group-title="VOD Nashya", Noelle (2019)
-https://www.googleapis.com/drive/v3/files/19hO0ThsHBaCd2SQrKKpgiYZ9wNDlfpmJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eURXvcv.png" group-title="VOD Nashya", Where’d You Go Bernadette (2019) 
-https://www.googleapis.com/drive/v3/files/11F_2_IH2A1VYHuzLI26C8y7k3dy5ffuK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TvwQggg.png" group-title="VOD Nashya", Crown Vic (2019)
-https://www.googleapis.com/drive/v3/files/1q2wL0UIgy0zbSNeYXy8uU6EfbUFrKGeN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edVAZ3M.png" group-title="VOD Nashya", The Courier (2019)
-https://www.googleapis.com/drive/v3/files/1qO7nh_WO-QoUwrf9cEQeSPHmZ3CEMHZE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2JRGBJ.png" group-title="VOD Nashya", The Knight Before Christmas (2019)
-https://www.googleapis.com/drive/v3/files/1tLsSQ_KVLIWOpAyulsIsKxj227toWZyh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFuYxeb.png" group-title="VOD Nashya", Rambo: Last Blood (2019)
-https://www.googleapis.com/drive/v3/files/1JHvijwFxManbbEB1BW6BjKRAZOoiqa5h?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dGPrpPH.png" group-title="VOD Nashya", Lady and the Tramp (2019)
-https://www.googleapis.com/drive/v3/files/1gYJ3YMr4TztkkCBw8X1VRALkoD6d9HJg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vwR0N2h.png" group-title="VOD Nashya", Ms. Purple (2019)
-https://www.googleapis.com/drive/v3/files/1MuYvB4eMTp3IKRBEQHrsbhlF9H7R_L5M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mx7LpVc.png" group-title="VOD Nashya", The Viking War (2019)
-https://www.googleapis.com/drive/v3/files/1VFbRMAEsKYrcNUJ3v6qgS-3wMAi3122k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbZmWHz.png" group-title="VOD Nashya", Iliza Shlesinger: Unveiled (2019)
-https://www.googleapis.com/drive/v3/files/1C5aaiV-EWdRAIaFGJ2ze5v_YbOB2cHaU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lURMFqg.png" group-title="VOD Nashya", Mary (2019)
-https://www.googleapis.com/drive/v3/files/1BLTvTHH5-ZAxuKfqFxWBsqOp4__DPvwj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/goh8D4Y.png" group-title="VOD Nashya", Mummy Reborn (2019)
-https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nt2DzUZ.png" group-title="VOD Nashya", Lucky Day (2019)
-https://www.googleapis.com/drive/v3/files/1yDoXnLU48Soj4EzdmOvMU_hUrXA2S7JL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pApJmzI.png" group-title="VOD Nashya", Official Secrets (2019)
-https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uA8nWkJ.png" group-title="VOD Nashya", Let It Snow (2019)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6ptIRY.png" group-title="VOD Nashya", The Elephant Queen (2019)
-https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQys8AP.png" group-title="VOD Nashya", Chhichhore (2019)
-https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hYyEMD0.png" group-title="VOD Nashya", Paradise Beach (2019)
-https://www.googleapis.com/drive/v3/files/14JfNgYmYdzjaXNzxUN8HpWQ2EW76UlZB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxl2UD2.png" group-title="VOD Nashya", Dora and the Lost City of Gold (2019)
-https://www.googleapis.com/drive/v3/files/10pR3TG5copewAwFHSKFXaZ221aDa81gE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4xYF9Il.png" group-title="VOD Nashya", Primal (2019)
-https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nNX1xkn.png" group-title="VOD Nashya", Joker (2019)
-https://www.googleapis.com/drive/v3/files/1j2fDFOt7QNEw-TlRezTGGy7a_16EiBMp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#https://www.googleapis.com/drive/v3/files/1EzYSdPcA5AP5LFQvExGhxvkImqEQpsA5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4HQ42S.png" group-title="VOD Nashya", Acceleration (2019)
-https://www.googleapis.com/drive/v3/files/1f4DLbnYAeVqN_otebwSZivA5vkmsbv3J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Clq1w9O.png" group-title="VOD Nashya", Blood Myth (2019)
-https://www.googleapis.com/drive/v3/files/1SFBbV2hZpYJqtoxMLYhc88G3IQi7PCCf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/476WgTG.png" group-title="VOD Nashya", Red Letter Day (2019)
-https://www.googleapis.com/drive/v3/files/1cIl0sIUCjMsnRX2SBbf6B7OS4i5RUZWB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OYarpoN.png" group-title="VOD Nashya", Wake Up (2019
-https://www.googleapis.com/drive/v3/files/1w_ieD1I4y3njzNUFmswiACyuH9IZwSOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IWlubjf.png" group-title="VOD Nashya", Gemini Man (2019)
-https://www.googleapis.com/drive/v3/files/1Q1b795JLu5fP7OW9MDi5RdE3rqf41w3w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c9R1mW.png" group-title="VOD Nashya", Angel Has Fallen (2019)
-https://www.googleapis.com/drive/v3/files/1KplwNeCDz-TSNehub1aDycgs899GxzlI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Cf4hyN.png" group-title="VOD Nashya", Don’t Let Go (2019)
-https://www.googleapis.com/drive/v3/files/1DIhUPci-5G9c0dXN67ZJ7w_cqXxtJxKn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/70eK72D.png" group-title="VOD Nashya", Jeff Garlin: Our Man in Chicago (2019)
-https://www.googleapis.com/drive/v3/files/1Hv6sYEkuzO9kz1d9TCXguazI4xr8wbeO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/awWdJSN.png" group-title="VOD Nashya", Danger Close (2019)
-https://www.googleapis.com/drive/v3/files/1awtZYTn-W7tw59kuetdA_eXL33S7kYlx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vltn32o.png" group-title="VOD Nashya", Radioflash (2019)
-https://www.googleapis.com/drive/v3/files/1Ngnw8j2T0XweqsZeBzpgE8_xIy9fiCTG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1S4Sto.png" group-title="VOD Nashya", Harpoon (2019)
-https://www.googleapis.com/drive/v3/files/1HoVcwONMIzus9VMs-RWRfRZbAbZaRBQE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TjV5ELn.png" group-title="VOD Nashya", Badland (2019)
-https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDCyltx.png" group-title="VOD Nashya", The Peanut Butter Falcon (2019)
-https://www.googleapis.com/drive/v3/files/189woaKJ7vKlbNLM5zDTQEpWVp0ZUyeue?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJEIWjJ.png" group-title="VOD Nashya", Door in the Woods (2019)
-https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EWgj81w.png" group-title="VOD Nashya", The Fighting Preacher (2019)
-https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGHsQB6.png" group-title="VOD Nashya", Transit 17 (2019)
-https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/20amKvh.png" group-title="VOD Nashya", Aladdin (2019)
-https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BITRlXs.png" group-title="VOD Nashya", Avengers: Endgame (2019)
-https://www.googleapis.com/drive/v3/files/1w8e5qH35Tc8splGk1LzJTNwcaGaFE_qb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZvYBuU.jpg" group-title="VOD Nashya", Crawl (2019)
-https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5uKSUN.jpg" group-title="VOD Nashya", El Camino: A Breaking Bad Movie (2019)
-https://www.googleapis.com/drive/v3/files/1ZaDQT-lytf1VSRwXAqeeUmL9E_cDk_sh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T34qmq6.jpg" group-title="VOD Nashya", In the Tall Grass (2019)
-https://www.googleapis.com/drive/v3/files/1GhEt_4IIS6uWSlfLIxhZ1bIHeu47ZkaP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tR1nTO1.png" group-title="VOD Nashya", It Chapter Two (2019)
-https://www.googleapis.com/drive/v3/files/1oV0J7KWiaCiCM-5693ec1wAF50zHcdRQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/URHGzN7.png" group-title="VOD Nashya", Lancaster Skies (2019)
-https://www.googleapis.com/drive/v3/files/1hTSiuBy_fQJPEb07yKAVsTYaBdAlyFH7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ffYuJd0.png" group-title="VOD Nashya", Lucky Day (2019)
-https://www.googleapis.com/drive/v3/files/1icrzCjBPrEpsk128cY5onUcGVVVLxsmo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUtCr5e.jpg" group-title="VOD Nashya", Men in Black: International (2019)
-https://www.googleapis.com/drive/v3/files/1LIkVZaEGq3nDX1lRA4j19PV8TGzZhVDd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2xXRbjM.png" group-title="VOD Nashya", Riot Girls (2019)
-https://www.googleapis.com/drive/v3/files/1AoNXkQuc5zwLxsjwRS0O4QgxhWV1sY1G?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OaQf7Vc.png" group-title="VOD Nashya", Rogue Warfare (2019)
-https://www.googleapis.com/drive/v3/files/1sGrk-8Bv-K-znSVA5_dGKUqgd1_Vp9Hs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ1CKBu.png" group-title="VOD Nashya", Semper Fi (2019)
-https://www.googleapis.com/drive/v3/files/1e54oiCzIw34b55nyfYx6D7aiL8MVJpnR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wQTESRC.png" group-title="VOD Nashya", Stuber (2019)
-https://www.googleapis.com/drive/v3/files/1ApO16q-qYksW4UrE0NZ4FLlzRAlQbzsB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIAhDGK.png" group-title="VOD Nashya", The Parts You Lose (2019)
-https://www.googleapis.com/drive/v3/files/1IWyHXwekqZtnBpwUQVFjepoifjD4VcuV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dkHx2qn.png" group-title="VOD Nashya", The Sonata (2018)
-https://www.googleapis.com/drive/v3/files/1xU8XGWXulyvL3vpA1y_gEPfBd4wyvU1S?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HoXbmrW.png" group-title="VOD Nashya", Segfault (2018)
-https://www.googleapis.com/drive/v3/files/1e3O2oM46h96_r9QgyAI-R1TQ7MpqyZzA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3P9658a.png" group-title="VOD Nashya", Alone We Fight (2018)
-https://www.googleapis.com/drive/v3/files/16p5NQo95-nmF4K8uHkWzB26WdSUCZwuz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ytk1Rei.png" group-title="VOD Nashya", Almost Home (2018)
-https://www.googleapis.com/drive/v3/files/1GxcXJSkg4yIsmXiPYhZW3ls9u0AQveio?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QuXQhIZ.png" group-title="VOD Nashya", Freaks (2018)
-https://www.googleapis.com/drive/v3/files/1tD1eMDl_lo6TjRfvo8icc1bgAOOpqnFV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sP0o2B2.png" group-title="VOD Nashya", Hunting Lands (2018)
-https://www.googleapis.com/drive/v3/files/1N6k9QcxhwaQMMeOSAjZeRfMiOQ4AOjig?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IojNPK6.png" group-title="VOD Nashya", The Axiom (2018)
-https://www.googleapis.com/drive/v3/files/1EqiacBIhrLonxOy4i8lA4xZY7MfyMbr7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nL5xfz9.png" group-title="VOD Nashya", Cold Brook (2018)
-https://www.googleapis.com/drive/v3/files/1AsQa09whAiwgjvhmvEucGQiZcBxlXYYo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUhnMzP.png" group-title="VOD Nashya", Marla Mae (2018)
-https://www.googleapis.com/drive/v3/files/1k6yNP4CorQ1nxagNwHxzBHKQgtxDzxxQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4LpIwhJ.png" group-title="VOD Nashya", Unintended (2018)
-https://www.googleapis.com/drive/v3/files/1Hyx0UdoVIershKmoBIXNpAov9Owfd6w4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q0bXVZ6.png" group-title="VOD Nashya", Aniara (2018)
-https://www.googleapis.com/drive/v3/files/12Nlk5zCS5brb92JlgzB1A6_TEMOgvGuR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YOILhWm.png" group-title="VOD Nashya", Ice Blue (2017)
-https://www.googleapis.com/drive/v3/files/1e7wE_d_0XTWXFeNCaeu5mNI-eI50yum5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7jyR7oX.png" group-title="VOD Nashya", Churchill’s Secret (2016)
-https://www.googleapis.com/drive/v3/files/1kG7JTqZPEjugDLsDoWTntfVcBVzmk8Ej?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XlzJ9iw.png" group-title="VOD Nashya", Captain Phillips (2013)
-https://www.googleapis.com/drive/v3/files/1XIqEg67BS50zSTvF8YCQPhq6Gu9QZ5x3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPttmE4.png" group-title="VOD Nashya", Leap Year (2010)
-https://www.googleapis.com/drive/v3/files/165PsfwvOIufYwg1GjtBz97IA880UaUn8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LYCWtxk.png" group-title="VOD Nashya", When Eight Bells Toll (1971)
-https://www.googleapis.com/drive/v3/files/1cj7YoRSBQIyY_i7kdC64dtEBnmBy6nbr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Nashya",Monkey King: Hero
 https://yiyi.55zuiday.com/20181214/ZhAur8CC/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="VOD Nashya ID",Insya Allah Sah 2 (2018)
@@ -2821,14 +2232,6 @@ https://media-vidio-com.akamaized.net/uploads/1662722/ets-playlist-1600-06596.m3
 https://media-vidio-com.akamaized.net/uploads/1680605/ets-playlist-1600-baeae.m3u8
 #EXTINF:-1 group-title="VoD",Yuk
 https://media-vidio-com.akamaized.net/uploads/1817788/ets-playlist-700-0ed5d.m3u8
-#EXTINF:-1 group-title="VoD",The Fighting Preacher (2019)
-https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VoD",Transit 17 (2019)
-https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VoD",Crawl (2019)
-https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VoD",Chhichhore (2019)
-https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VoD",Perjanjian Dengan Iblis (2019)
 https://hls.kotaksilver.casa/572088/720_968/playlist.m3u8?r=720p
 #EXTINF:-1 group-title="VoD",Valentine (2019)
@@ -2851,10 +2254,6 @@ https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
 https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
 #EXTINF:-1 group-title="VoD",Pocong The Origin
 https://hls.kotaksilver.casa/591415/720_512/playlist.m3u8?r=720p
-#EXTINF:-1 group-title="VoD",Ip Man and Four Kings (2019)
-https://www.googleapis.com/drive/v3/files/11Gi0cFiAoAACGd_wIvWvEX6hWP9NYccw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VoD",Remain Silent (2019)
-https://www.googleapis.com/drive/v3/files/1F6L-vTBUA-R0aZmeGPG2mCWwhSmzWMeW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="FTV  InDo",Aku Mau Cinta yang Hunya Hinyu
 https://media-vidio-com.akamaized.net/uploads/1836878/ets-playlist-1200-d38fb.m3u8
 #EXTINF:-1 group-title="FTV  InDo",Mas Jawara In Your Area
@@ -3007,232 +2406,98 @@ https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vi
 https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b8000.mp4.m3u8
 #EXTINF:-1 group-title="VOD Nashya ID",The Mentalist
 https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b8000.mp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XGazYRh.png" group-title="VOD Nashya ID2", SUNYI(2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",SUNYI(2019)
 https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4giXJiF.png" group-title="VOD Nashya ID2", POCONG THE ORIGIN (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",POCONG THE ORIGIN (2019)
 https://bitball.b-cdn.net/movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LTiy7KI.png" group-title="VOD Nashya ID2", ROY KIYOSHI : THE UNTOLD STORY (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",ROY KIYOSHI : THE UNTOLD STORY (2019)
 https://bitball.b-cdn.net/movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ADahMVz.png" group-title="VOD Nashya ID2", DANUR 3 : SUNYARURI (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",DANUR 3 : SUNYARURI (2019)
 https://bitball.b-cdn.net/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZoCwo3.png" group-title="VOD Nashya ID2", ROH FASIK (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",ROH FASIK (2019)
 https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5NW1wsh.png" group-title="VOD Nashya ID2", MATA BATIN 2 (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",MATA BATIN 2 (2019)
 https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTgcGKC.png" group-title="VOD Nashya ID2", SEKTE (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",SEKTE (2019)
 https://bitball.b-cdn.net/movies/02-12-2020/Sekte.2019.WEB-DL.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fzY3Mdy.png" group-title="VOD Nashya ID2", REVA : GUNA GUNA (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",REVA : GUNA GUNA (2019)
 https://bitball.b-cdn.net/movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aSv4hO8.png" group-title="VOD Nashya ID2", RASUK (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",RASUK (2018)
 https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wR9m4fd.png" group-title="VOD Nashya ID2", BISIKAN IBLIS (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",BISIKAN IBLIS (2018)
 https://bitball.b-cdn.net/movies/03-01-2020/Bisikan.Iblis.2018.WEB-HD.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4UDypuw.png" group-title="VOD Nashya ID2", KEMBANG KANTIL (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",KEMBANG KANTIL (2018)
 https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i3LTL1T.png" group-title="VOD Nashya ID2", JAGA POCONG (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",JAGA POCONG (2018)
 https://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGdCMOs.png" group-title="VOD Nashya ID2", BAYI GAIB (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",BAYI GAIB (2018)
 https://bitball.b-cdn.net/movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btwabBW.png" group-title="VOD Nashya ID2", SUZANNA : BURIED A LIVE (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",SUZANNA : BURIED A LIVE (2018)
 https://bitball.b-cdn.net/movies/indonesia/suzzannabernapas.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hd2FbS7.png" group-title="VOD Nashya ID2", SESAT (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",SESAT (2018)
 https://bitball.b-cdn.net/movies/indonesia/sesat.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7A9Cl4b.png" group-title="VOD Nashya ID2", ARWAH TUMBAL NYAI (2018)
+#EXTINF:-1 group-title="VOD Nashya ID2",ARWAH TUMBAL NYAI (2018)
 https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cv220EA.png" group-title="VOD Nashya ID2", RUGYAH THE EXORCISM (2017)
+#EXTINF:-1 group-title="VOD Nashya ID2",RUGYAH THE EXORCISM (2017)
 https://bitball.b-cdn.net/movies/02-14-2020/Ruqyah.The.Exorcism.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GHU0Qy6.png" group-title="VOD Nashya ID2", GASING TENGKORAK (2017)
+#EXTINF:-1 group-title="VOD Nashya ID2",GASING TENGKORAK (2017)
 https://bitball.b-cdn.net/movies/02-14-2020/Gasing.Tengkorak.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eO3ASWs.png" group-title="VOD Nashya ID2", RUMAH MALAIKAT (2016)
+#EXTINF:-1 group-title="VOD Nashya ID2",RUMAH MALAIKAT (2016)
 https://bitball.b-cdn.net/movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/my1I5Zs.png" group-title="VOD Nashya ID2", KAKAK (2015)
+#EXTINF:-1 group-title="VOD Nashya ID2",KAKAK (2015)
 https://bitball.b-cdn.net/movies/02-16-2020/Kakak.2015.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlICmC5.png" group-title="VOD Nashya ID2", DANAU HITAM (2014)
+#EXTINF:-1 group-title="VOD Nashya ID2",DANAU HITAM (2014)
 https://bitball.b-cdn.net/movies/02-16-2020/Danau.Hitam.2014.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kmy9PEU.png" group-title="VOD Nashya ID2", MALL KLENDER (2014)
+#EXTINF:-1 group-title="VOD Nashya ID2",MALL KLENDER (2014)
 https://bitball.b-cdn.net/movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", DRAKULA CINTA (2014)
+#EXTINF:-1 group-title="VOD Nashya ID2",DRAKULA CINTA (2014)
 https://bitball.b-cdn.net/movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", SARANG HANTU JAKARTA (2014)
+#EXTINF:-1 group-title="VOD Nashya ID2",SARANG HANTU JAKARTA (2014)
 https://bitball.b-cdn.net/movies/02-12-2020/Sarang.Hantu.Jakarta.2014.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GIzE32P.png" group-title="VOD Nashya ID2", KAFAN SUNDEL BOLONG (2012)
+#EXTINF:-1 group-title="VOD Nashya ID2",KAFAN SUNDEL BOLONG (2012)
 https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHKgS76.png" group-title="VOD Nashya ID2", BANGKITNYA SUSTER GEPENG (2012)
+#EXTINF:-1 group-title="VOD Nashya ID2",BANGKITNYA SUSTER GEPENG (2012)
 https://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Txs0gKZ.png" group-title="VOD Nashya ID2", RUMAH BEKAS KUBURAN (2012)
+#EXTINF:-1 group-title="VOD Nashya ID2",RUMAH BEKAS KUBURAN (2012)
 https://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBWOfD0.png" group-title="VOD Nashya ID2", ADA APA DENGAN POCONG (2011)
+#EXTINF:-1 group-title="VOD Nashya ID2",ADA APA DENGAN POCONG (2011)
 https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UTDXDDd.png" group-title="VOD Nashya ID2", POCONG JUGA POCONG (2011)
+#EXTINF:-1 group-title="VOD Nashya ID2",POCONG JUGA POCONG (2011)
 https://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iofuk9U.png" group-title="VOD Nashya ID2", PELET KUNTILANAK (2011)
+#EXTINF:-1 group-title="VOD Nashya ID2",PELET KUNTILANAK (2011)
 https://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yr7RPOM.png" group-title="VOD Nashya ID2", KALUNG JELANGKUNG (2011)
+#EXTINF:-1 group-title="VOD Nashya ID2",KALUNG JELANGKUNG (2011)
 https://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hILBeDv.png" group-title="VOD Nashya ID2", 13 CARA MEMANGGIL SETAN (2011)
+#EXTINF:-1 group-title="VOD Nashya ID2",13 CARA MEMANGGIL SETAN (2011)
 https://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VieS3UD.png" group-title="VOD Nashya ID2", LAGI LAGI ATENG (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=You8%2FmudoDFpVjErMCiQUQe04xxebnq%2F6GT51b%2F9%2F6lzLecZgPjWg2bRLAKAJpn58bC8RGMdeyVXuPqts2%2FyhmnfkCfdw%2BD0WWEVydUy4wGxPCWE774Gq%2Bm31Zxtl1BW5WkyTVADLRMjQxVn5KpNNypJsVHq9OE%2F9ulpflNPMrrSei3BXi2jhCL9u7sB7tRY5ApHvnkthZWVjFMExE0%2BVk&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F674443082&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQiWZWX.png" group-title="VOD Nashya ID2", FOXTROT SIX (2019)
-https://cdn.clonefile.icu/drive/index.php?id=JSV7obn52J8k6cQOXGkDGgQpLEd4j7Lg%2Fb7RmDLnxC96vxE79rWrZTWJgl1NqWNiJCdzkJlcYpKpzdlyLoii2lqO2cAKX8Lk9FwYDkqMsKtxfdBr2B3MOLkEhzzbzA3kaNn6jVrTXArhJQYU9vsR%2BZ8amPfswqQp6B8MDC%2FBtW3bYKg5VuZ9CU26ySKUeu6%2B%2Bu4BwaokZSrNf5UuVcD0l%2F&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F1470887569&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MW5aNS2.png" group-title="VOD Nashya ID2", Dreadout (2019)
-https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NzO1Zfi.png" group-title="VOD Nashya ID2", TABU : MENGUSIK GERBANG IBLIS (2019)
-https://cdn.apidev.icu/drive/index.php?id=Aoh6pdASNtWPRwx4tbR%2FTw2e4kOdabQbvAxIGJAIFWERe4aNWPzCtjm6b9bDGwu%2F8b44DFstxT4Dq1itQQvWOscY6%2FWkGk8WUQeGlsUpB1ib0CX2eCJEr619c6mshkJv51OSaK0zygq3Gl%2FVSgT0UmZRctq0pbNhigQUjI59CtJP5BdvczIDNKTcnu1FHnzro9QpzvIMZypZ70c39Ar5Nh&ref=https%3A%2F%2Fbos21.bid%2Ftabu-mengusik-gerbang-iblis%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", MESSAGE MAN (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",MESSAGE MAN (2019)
 https://hls.kotaksilver.casa/564149/720_517/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Xw0QB6.png" group-title="VOD Nashya ID2", DUA GARIS BIRU (2019) 
-https://cdn.apidev.icu/drive/index.php?id=7NJrSrbCiC3dZGARATl2OQRhuPkWew2Q6V6lud9T8QO80s%2Fc1a7RuXkFyIOczOGiRb%2BFu26SId%2BpHtNDrc86enXviRviP9hdR9cOwK9ZyA2F8FbtU4oYxjxmCO77GEsvuW%2BqoMmR%2FyY604z%2BZJupdjo6mHJDZoSdaaOD9NfbIgbUxEM6%2Fy72i7oP1Yk%2Fi2GuY4t5MefxuT7%2B2YaD4x2ie%2B&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F1023387275&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJBMzUl.png" group-title="VOD Nashya ID2", CINTA ITU BUTA (2019)
-https://cdn.clonefile.icu/drive/index.php?id=R8eqXYVHGUi3qMWH7cmK3wWTkGnHJhbNW0%2BFu2ucjuYziKNu0xcv%2FVMzCN0fSJvySWamHRBFYcMCqaf5ik5qYJCAN51feGTZymbsZdxpdmgx0eDiOGMCU8KVp2ZD5s4Um0RHfIME6ryolo8T7DA32xeGsPBt2QTE29DplxIOqJ5sT%2F3NBv%2Fk6QFZ4zmnmcMYng7KMwzpCTWpJYlRBHgjT%2B&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F731653947&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yAIlKl8.png" group-title="VOD Nashya ID2", BRIDEZILLA (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=16erzV7Su8h0sDZxzJ8LYQJf1UbHs7Cj2dg8ZD5sdOv8HBoO4id1Cycoy7VDsS7iQpi5TvjGBCkVQ%2BCR6JzaHDM%2F%2F68WtLyPRWUVPyDLm7oTM60IhaGi1A2y69V%2FGDGn00U3NL28Wd6eDxyZI6EzWnVNQrlU66KEJavYt0L7IUOv1N7oEI7xCgc8LajYAZUp%2Fo%2Bjt2WH78Eomq9Sb%2BpdzO&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F846071738&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ibI5rXf.png" group-title="VOD Nashya ID2", KAPAL GOYANG KAPTEN (2019)
-https://cdn.clonefile.icu/drive/index.php?id=KVujIpkKZoYvLikO9frgiwAzmOAGmPEERD4xOjl8PLlx%2BSQatY9Ln2ImakCH6jamhijhvhRpoWE7k6gNALuYWFoiPLDwCph0lPINRQG7%2Fi2wiFnixT9sagpeR1wieWjd1evtK8S%2BEpEdJKb45%2FT8x0NfcDAA6Ltm6x8kfeg2eN5pPEIKwg5t5K48zwU4Wmm3omPez%2F39W7zmtrwlyf7H3n&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F992324683&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YNIqj98.png" group-title="VOD Nashya ID2", REVA : GUNA GUNA (2019)
-https://cdn.apidev.icu/drive/index.php?id=3Ci6optkinWdUniyTXg0vAX0ztbW5%2BSIEyv%2FxyuhZGqEvoo8lJNu7XMjjsYuuR3TahThKChQudP8CkqnUxxRE%2BcTSINjjTy%2BGmoIeeTAajgcq62kqXPARiPvnt%2Bh7%2FLW0qrYJDMwwf%2F66gB9L%2F6s7nWYBpFOqjrXUNAAyTLsE9TM2SviPPkdup%2BOAoiXX6WB5BkhD00eJKdUX37fUzDMLz&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F733530160&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YASBCpE.png" group-title="VOD Nashya ID2", ARWAH NONI BELANDA (2019)
-https://cdn.clonefile.icu/drive/index.php?id=RyLu2EbYa%2Fvz9L1aTTFcKQ0uGpZXGIulSoISEzo50POjxZSvGZ7nG8kPRJJtcueeV4%2FnPtXTHMbVh8ziWy%2FZLFnvGXQLv%2FNi6IfuAt%2B3P0B0UOdJIwTRYgIeOuvo3bGH%2Bcq9QQ5X1JfM0LrbM6G%2FbqUQGvg7E6vuqpGlHcQTthwHL2pxuq9Bbxvjs8ZrYLNjJ5vryjoSio7rWii%2FpoWttN&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F633222467&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FXthtNr.png" group-title="VOD Nashya ID2", KUTUK (2019)
-https://cdn.clonefile.icu/drive/index.php?id=bxhQS59tvGeRUcAtpiC62QAlQZ1eVBZC%2FNRGTbtJsghEsJwspY%2FZcB5PwUUshfiBXKM104XpfbcInQ6f8Ku7cadaXf3ZDV8nJg%2FTMrnFH0UKRKzhUVM210q4BZXVL7qowBzPJP9V0hn3r0LYZbBSHLB9F9F45qOrG9G06oLknJYiDhkOOIFw5biDdxGn2Vgb2vyxg46c9WxFeQF%2FAT9gIj&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F730594076&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQWyboK.png" group-title="VOD Nashya ID2", MAKMUM (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=uY4FD8uyuU%2BhEZtslXRLEATRdmhkvER3TyO33FvIzwN9yJbRQ1ae4Ps%2BZVURkbGG%2BzlO09eUaPlQxmlpG70UFeYqvNm1%2B8Qv3qSn2800T24ItMMLFByMSaxe%2FHUSOywSRpjGMTHiO4ZrCI2mtwRHC3OLRwu%2FFtSHRa%2FxtFvQa%2Ba7q2s3ccNl2hapRfZCO4cK%2FhJ%2BgvknuZbvVLsDHjDcNZ&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F788241467&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nQ3zEDP.png" group-title="VOD Nashya ID2", DOREMI & YOU (2019)
-https://cdn.clonefile.icu/drive/index.php?id=ZF2MGaqGsnpC%2BGGlTaxzRAx7cX9Z7i961v9L1uNwAyEi3YIE4lOZ4wJ%2FDKAQMboKoEpWahWn%2FQJM6cMbQfciQxYsluWxppf1PSJTcZeu%2BybKdd5GdFaOWJBi7X3oWG9t9ssZFes0lm2AHXNyFhWfRuozYVWEJM3zxQ89oygi%2BQsE2a2pMYSUZuCGyA9TYwN7%2Bgr9zPp%2B6uTtKFEyQRt0zr&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F882466141&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPrjw63.png" group-title="VOD Nashya ID2", MOVE ON AJA (2019)
-https://cdn.apidev.icu/drive/index.php?id=LQ8z%2BgdRwPCwl0RAy%2B10JAUHbN1s3Fi2gC062CWuxj3pZI5HdvhiykCEtaea8VWcqsUN%2Fbcx3wWvGbcOjd8PEWytXU8Sk9%2FLPWRv5bqRKwCqRLVoBPbQOZvBF92gjnKVaaFyw7IHRj%2FmAy%2BfYG9KiroN7J8xui8qUsxyfmkMGNjY8j86fve3lk4556JvAo%2FvKZalOrak6wlXkt1rS4mobh&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F1407552949&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uao6usF.png" group-title="VOD Nashya ID2", WEDDING AGREEMENT (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=rDA1Gb1kzWSQOX3sGLwBVw40V5w%2BFJpr8WfwoGS2LVFV2c8cXgmQ9pKBqSYYOn7NIiFnY9tcAuj%2FOpR6f4edNejyq8AEGmw0E5%2FHgrCxUnzwxCGKiUzLMomQ62E3nO3yT7C%2BuKqiXTxTUFsVEnccTp67bfBZ0EIc1T%2FQvoDQFhVNYQVKAaCssS9k%2F9zE9H%2FPkg5%2BqdjB1Wgn660Xev7xk8&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F1635912623&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNIhE5n.png" group-title="VOD Nashya ID2", RUMPUT TETANGGA (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=gB5Gj19iiiXl0hMvGHa3VQ9fQT9BpqDOWrRLD72TkLrxuE55XAckzkzjBCW2PK1eocIWHf4tLJoP1H1f4r2tdlU5MA%2FPdOyB%2Fv8HtmeKfUns9%2BSs7Hq1jK8Jkdb8PnHb6HcjuFfGtjEC0oKjsDIiozhtIxz4nW4h7ZcHPb6xkwmOhJ07c72kJruDawvrjyn3V3%2BkVThZnw%2FRk0eTP%2BIYfh&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F2003109001&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HbCem23.png" group-title="VOD Nashya ID2", TWIVORTIARE (2019)
-https://cdn.clonefile.icu/drive/index.php?id=JY2sC15jbxNkGBa0zK2RsgEa9ywLijVuoReqGGHEiP%2BiyHmMhgyUpHZaV%2FNLASHJfF1UmsMjTRF1Q1%2BhoWFu09CTqE1rVdOw56nLtvXaOvsHOIGkjfF0rLp48y%2BgMRJAH1Cr%2BpCmeFd5Y6nEcQwSsxHiDWpbtHG6AxUJPDQaPZ727hAFBw0ealx25v%2FUcsA6Er8NbB7EmcOibSTuhcHQTd&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F1667513377&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWpY0tO.png" group-title="VOD Nashya ID2", SI DOEL THE MOVIE 2 (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=8b9tE2k%2Fn7jrtMDxTKAj4AQ45K7wLN9NUh3%2Fs0Cu4TVXEQze9d9s%2FdtvBHb1SfPlpFuV%2Fu%2FLpeVB%2BIjRTOS49RDBKuIfHb6kj2dXU42fXhEky5nbMhC67Api2Yvnha5q%2FnzMAOSX3lZobtohwZa4YadYGioLgISFkCc%2BV2zORMtsyEGzN9Stg6FeatseMVH%2BMcJPfyBeHiAOFlfi3mrrfS&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F703940739&res=default
-#https://dl.dropbox.com/s/0ri7xkwfb1fm66z/Nonton%20Film%20Si%20Doel%20the%20Movie%202%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYT0ZhR.png" group-title="VOD Nashya ID2",  Lorong (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",Lorong (2019)
 https://dl.dropbox.com/s/54ju0mn1gl2t8bh/Nonton%20Film%20Lorong%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tZEbYvq.png" group-title="VOD Nashya ID2", Rumput Tetangga (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",Rumput Tetangga (2019)
 https://dl.dropbox.com/s/spmmhz8vtd02wko/Nonton%20Film%20Rumput%20Tetangga%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfMgTTA.png" group-title="VOD Nashya ID2", Lorong (2019)
-https://cdn.clonefile.icu/drive/index.php?id=WVuGfvXN%2FBSvxKKjtU7P7guFhji%2B3s4mPGDgPWJkEiF9RCH9xSpbhDwnIskmkVdmRMqFSs8QGkHSPdvpYIQv7qxJVjHufF1V4QF4IliFY7MRzKA0%2BL9oH1aNGQui4Fm3z%2BNPg4CYiPBmpudAiZqG907VshOtUp86k9TG4Pdncofu%2BM3cSHoz%2FW7eCDawfvyJeHNmmUaWCCGzlgdbyoauTH&ref=https%3A%2F%2Fdirect.my.id%2Fstream%2F822986111&res=default
-#https://dl.dropbox.com/s/wauz3tbyrjuipz5/Nonton%20Film%20Lorong%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21_2.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOpUKyu.jpg" group-title="VOD Nashya ID2", PERJANJIAN DENGAN IBLIS (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",PERJANJIAN DENGAN IBLIS (2019)
 https://hls.kotaksilver.casa/572088/720_968/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bMZOHcH.png" group-title="VOD Nashya ID2", KELUARGA CEMARA (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",KELUARGA CEMARA (2019)
 https://hls.kotaksilver.casa/566100/720_656/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCLud2M.png" group-title="VOD Nashya ID2", VALENTINE (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",VALENTINE (2019)
 https://hls.kotaksilver.casa/586553/480_917/playlist.m3u8?r=480p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yza4m4s.jpg" group-title="VOD Nashya ID2", POCONG THE ORIGIN (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",POCONG THE ORIGIN (2019)
 https://hls.kotaksilver.casa/591415/720_512/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYPQEhq.jpg" group-title="VOD Nashya ID2", SUNYI (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",SUNYI (2019)
 https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UZo6VU4.jpg" group-title="VOD Nashya ID2", MATI ANAK (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",MATI ANAK (2019)
 https://hls.kotaksilver.casa/584131/720_665/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dFYy8So.jpg" group-title="VOD Nashya ID2", YOWIS BEN 2 (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",YOWIS BEN 2 (2019)
 https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p5Nh3Qn.jpg" group-title="VOD Nashya ID2", DILAN 1991 (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",DILAN 1991 (2019)
 https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mTFCEee.jpg" group-title="VOD Nashya ID2", TERLALU TAMPAN (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",TERLALU TAMPAN (2019)
 https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmpiqyf.jpg" group-title="VOD Nashya ID2", PSP: GAYA MAHASISWA (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",PSP: GAYA MAHASISWA (2019)
 https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iMXxAPm.jpg" group-title="VOD Nashya ID2", ORANG KAYA BARU (2019)
+#EXTINF:-1 group-title="VOD Nashya ID2",ORANG KAYA BARU (2019)
 https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1A6wDbB.png" group-title="VOD Nashya ID2", THE WAY I LOVE YOU [2019]
-https://cdn.clonefile.icu/drive/index.php?id=ZB3I0WWS%2FWKXIZGFkaJvjAVxrNSagp6veGAXH0yfpim9M12PxOy0yza2%2B9mRJBkfSzoPsfyRFgzoikGGt1130H%2FemYri%2BuJLVnsZ7JwuQLoN%2BtQflw7A1QcFvBfihhSCpz2A394DoikF2p9dRBKzMZpxOoueIS%2BMd5lTcovz6TLXfVev12%2FmeBfTq9AJJDYJxNQufL3%2FvTItViaS69WhTu&ref=https%3A%2F%2Fbos21.bid%2Fthe-way-i-love-you%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d41aRhn.png" group-title="VOD Nashya ID2", THE GIFT (2018)
-https://cdn.clonefile.icu/drive/index.php?id=UEmu1OutOsIc0IK45NGDywZ5oc%2FQekhQZhxNIFFOeQ3YZs0kHX0UhBQntdjN0RLg8ycw9LGUxYmBiABmT0Gp%2Fzu%2BxUVD8Pv%2Fd0jl6jG%2FW2%2B4%2Fj%2FWYfaLBCKI%2FJj5xcSNq5lHM4mjsVcrYcrad8Hwq9EITu0%2FjojKWwum8RklKwflUnXfxweVmudlo3D40xSN0%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-gift-2%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55fini6.png" group-title="VOD Nashya ID2", BUKA'AN 8 (2017)
-https://gdrivecdn.us/drive/index.php?id=yk6mVm6vOPbSdXkc9Xp9aQrmMg9OGRIiOK6R7LGUjJkSG27AMb%2BXVO5ogHHOH9miEa9%2Bcr55SyFl0pJ31wibJn3HC2M06imC7MBh4p9VYaOU%2FTEDLzjo3Prbt%2BcQE3pkar1WEtacStoDkPK1e3e887zUwKZTADVwMN1Z4sxI8Iy%2Bv%2BR7R772Z3p20dD5lBcPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fbukaan-8%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W0ebVeU.png" group-title="VOD Nashya ID2", TEST PACK (2012)
-https://cdn.clonefile.icu/drive/index.php?id=cSZon4OcDGC3K4yDyOiP4ggB37NsT5aNxuauYtWtE53hDCXJAwNNaWl49W8fNRUiNJfDhf6aELO7aGvEAMfrLd8xeuxZbq8%2FWqciuDCxg0X2HC7Afw1uyDiBoa2%2BY18Hhl0WfMxhy9%2FNhgdUOKt%2BDJa%2BxBzue3Q4cDqc72pW4fBsnGECIa%2FZhjMgHEJboFNlQ%3D&ref=https%3A%2F%2Fbos21.bid%2Ftest-pack%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wh3vizB.png" group-title="VOD Nashya ID2", PERFECT DREAM (2017)
-https://cdn.apidev.icu/drive/index.php?id=7%2BXXT%2BbNjyHb4141IdqgmwcN5ar4WxH%2BWGzJ7nHRvn%2F%2BviQftP105BSPWjP9mVe1V%2BZ4uUgUbRiMRKKLK00cUjr4oMgPXo4b7%2BNJh%2F6sK%2FCpSB2pzAh1DfPkVE3MF4htI3SI7qJyJACeOuX367hNYtFONtML6pQxQPMTMYgkilGIsghwNyv32Urf9s3GSW0YA%3D&ref=https%3A%2F%2Fbos21.bid%2Fperfect-dream%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dfmeip.png" group-title="VOD Nashya ID2", PROMISE (2017)
-https://cdn.clonefile.icu/drive/index.php?id=AoOGDt%2FolgPrnshThqDzyAWbAuq%2BuZxFiXBpq7jSStptX1LSDBvfOk0HMwP6NlECa9Bf4YhyurWCWFBeZVIgtjvXbEyq1LWrxoIEky9bLIrteNkBFSFAIpMH1vR8UGP3fPHb2ZOSMuhNHVOUDmtJ1oJmtQQruhpj0C9j8%2BKsvoaqSgG5nYJejTqi7Pt%2BZSOC8%3D&ref=https%3A%2F%2Fbos21.bid%2Fpromise%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R08av4C.png" group-title="VOD Nashya ID2", LOVE AND FAITH (2015)
-https://cdn.clonefile.icu/drive/index.php?id=j5i9XDTrVuA7TjKnuITojQArZZjLE9yOOOgPL4ic4tkA2pr3vlrA5M%2BV6d5KmvoryUsdncTEoFXa8RhdQvyf6duCo3JNYBPlI2k%2BVJc93AHV6tARHxVc0nu3aL%2B4hEeYXEWSjYWDpVTeTlXFeTqhxzvtwj1kGikkd%2B0mFdlvWT7SH4ySVpqNVPGNJEZRHVveU%3D&ref=https%3A%2F%2Fbos21.bid%2Flove-and-faith%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Mzwc58.png" group-title="VOD Nashya ID2", KAMPUNG ZOMBIE (2015)
-https://cdn.clonefile.icu/drive/index.php?id=sZI5Pan8SpEeGapmpHJ2Sgt4M6baDd%2BgREbfGAZK7yL7m%2B1RgftibLVF4OW7G9sAg7KDup04Uyt1Om178KuVBi7VX8SxVe7loMKj1%2FdhSvmvWlHpa5tesVBTuLyUOWri1jHKePCgYfAvm1m%2BUxE82Y5y3G0ijkvxgvgj1qm8yO2CebOXEkwetZmqvSoaGaCBg%3D&ref=https%3A%2F%2Fbos21.bid%2Fkampung-zombie%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gqYhGzU.png" group-title="VOD Nashya ID2", MENGEJAR MALAM PERTAMA (2015)
-https://cdn.cloneapi.icu/drive/index.php?id=SrXU3Z8Tw1NG6iT3O712wAaW3Bkcky50MMswryZ9i1CNVhvDKBG5W93yXWZcEbM0zRj%2BT0EUMWfVLN7mPr0dsNEV%2FdAbqBtyPJXxTxmDgBqoKgYqj05LUBNthfAFYcF%2BAD2kIGDlQ%2FJ4r7w6Er3wmIQSsW3FWJ%2BWweAZsYyja5VYQcPMiomdxUz2wS4Ri2b5h8clW%2Bevf50WTL0Pu1ccXm&ref=https%3A%2F%2Fbos21.bid%2Fmengejar-malam-pertama%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz4yokQ.png" group-title="VOD Nashya ID2", TOBA DREAM (2015)
-https://cdn.clonefile.icu/drive/index.php?id=gMho670UpuaYN7K48Q7xtQku27loJljge45%2FmUeEh2HSYlq9BCegJ4dTFS4z1eGa%2Fg9Z8FK5sdIEvmAPETblWS%2FueYdb%2FbooMVyAWrmuOm9mCico5DWWDL%2BuVrSOYSXpzu%2BuiYuDoCRn5FyAvB59j%2BKIdoUTVRTt25B5o5NSaqCIoemZGlVTvY6dpfoqNzRGs%3D&ref=https%3A%2F%2Fbos21.bid%2Ftoba-dreams%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W5yOPWU.png" group-title="VOD Nashya ID2", SITI (2014)
-https://cdn.cloneapi.icu/drive/index.php?id=yPw4AHJHhLk2zkmZs8dBTQfKFn4ROHVwbSZBdKRY2Uy28UP9YbRQmVkQcmYzzawwiiGacLWWO39SI4Y9cBD9ivmBAIXhmwnGp680%2FBUCUKVckfM9m4o9nXwnDMuzJkwUqbhDkksifdTDVyMWnJliGtwVVl%2BUf9IdLILLY8N2caDs2ETbVX8QTJ7h4WqJFdeeA%3D&ref=https%3A%2F%2Fbos21.bid%2Fsiti%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D49hnJc.png" group-title="VOD Nashya ID2", REMEMBER WHEN (2014)
-https://cdn.apidev.icu/drive/index.php?id=KBe1oJCq7x1%2BjA9xBxkz5Q9%2BT%2F%2FMjpR%2FRYWvbTH6cn5u7pn9tmEjg47%2FJt0BVOgqlBKOCu%2BTpNQVELrvLBYZ%2FrQ%2F1iaoamrC2t0dFZhusm%2B9InisESEVrduEJxqzpRejB5tyffmxAiBIqWc56uDDCVm8Vc8MwJ%2FvOYj2FnrNVgX1WjStp%2F2zeJaL8mgFeYzjQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fremember-when%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q5wGPTj.png" group-title="VOD Nashya ID2", 3600 DETIK (2014)
-https://cdn.cloneapi.icu/drive/index.php?id=jGYgd4L20F0%2BhBa7WaTQSgxh%2F44TSe2fCBjYXUgWBFJqMBPjO3r252SY4STa51ERjwvEkGKd9%2FcclgOmB5wWoSass1rV7T%2Fa5BBt67WFs4wYqGufOeuOpTn6zg2Iop6INmdz6HOTnHFLUqNthpaVFKkldBNtxSPanOZ3Ul2tysjLMMAolssQ0IimfY%2FNqtX%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2F3600-detik%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fqheZdM.png" group-title="VOD Nashya ID2", CRITICAL ELEVEN (2017)
-https://cdn.clonefile.icu/drive/index.php?id=9kSxhOzA%2BtMNvGcsSRsJDg8icJafTnXlQxY%2F2udkAIOme7j9cV8%2F8GSNTFn5%2FDGDE44dzK7Ii8gs2DnTg37GtsXGNhnT3G8XVMR4nNyUvibfemNdKm1e6L3gv%2B5V%2B2POjJ14mopAPItuHuGVBecMBsP1yJXov8FBY6Wa686H%2BbosRSbiQrblN0zn3eiLJkGGg%3D&ref=https%3A%2F%2Fbos21.bid%2Fcritical-eleven%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", KELUARGA CEMARA (2019)
-https://cdn.clonefile.icu/drive/index.php?id=9xc7bdDFdONoP001bBfY2wm23137aX2j2D5PXzEEMqgQ4cl9fb2j9WOsFIba1NfT9PfGH%2BmswFK5XY7%2F1CKXhjWmrb9nXkLSUXrjBh1FdSljgpNhGFSvgPq0Oy8KjovKAMgZuqT77b8W6XNRIEaM1mpGciwb1jbRUbOc7Jdm7hs%2FTLFhkikg9b8crXaw1FpdU%3D&ref=https%3A%2F%2Fbos21.bid%2Fkeluarga-cemara%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", MEET ME AFTER SUNSET (2018)
-https://cdn.cloneapi.icu/drive/index.php?id=jMJX7%2BOLi7CreXqC3PNotA09LyVhOsNZDS8Rvkr5zxpOrwAgrUufB0tvXSFgdHsPxT3l1nIblmXitLBq18GMzmLEDTFdMGgS3E5GZNgqtSKVgK38RpYmqBsyC1CHZHY58TdS0otafaxOGBW9kg26Jdb%2Fo5PTOhQfszKobrGCSaxrVbhP3%2FB8RG9KJ3pVBHICd0ASMIMMorSnxYc0oBOEKT&ref=https%3A%2F%2Fbos21.xyz%2Fmeet-me-after-sunset%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", BAYI GAIB(2018)
-https://cdn.cloneapi.icu/drive/index.php?id=yeCjL3wPG7x7DxrHuoku2wIwULNNQjggzb%2FZ7SFH6ghs9yXCp8agfGXZbzsJIyr%2BpFqjOpo8mCvC%2BKPuivWibXG7C2DIP%2Bta9nq2wGqJljzqKwdv%2Fb3Gac5b3tCxCFTYj22Q5aDOsfc6GidYSrvfxN7CN1VLgpkY0qsFd%2BhroGP2NlIMFDva1wlY3KeFuYNhc%3D&ref=https%3A%2F%2Fbos21.xyz%2Fbayi-gaib%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", NINI THOWOK (2018)
-https://cdn.clonefile.icu/drive/index.php?id=FmT1tgmmkBV7uxE%2BOHVOkwKfNM%2BhZtbMVbe0CGNk4Pdz5JUPBwir6R4ADMi9R8DyrRu%2F0IWAuBv8HAEsiB8kVLED5433JGHx%2Fv4%2Fq4JGpkLHNNCkzcM9BPA8M0XVdV495Gw3xD7VQL9tSvsRGHThxqKAMDFLDGLDAOmbGWeOF3c2k4EG980koS%2BuLN0%2FhbBKM%3D&ref=https%3A%2F%2Fbos21.xyz%2Fnini-thowok%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", SUSTER NGESOT URBAN LEGEND (2018)
-https://cdn.apidev.icu/drive/index.php?id=s95pBe957WaXLktF3%2Fox3AwHxqkDxOqRHNB2KTaG5hOg2KTFHX9kFqJh4Wa3dXJUQUrHLEEkjj7Uc6g8XDaEE8thqqsvn4bWAKsFoGErTCehOlFeJ4psw7kPvJNM%2BEC%2Fw7EO%2F8qpag2EV4c4tM70LiF9L7ELH9uZo64xOwB3c0LhoI23To208ktUxqRHHVxFR7jCE%2FUH3qvdB9qFjR%2B1yA%2Fz4du61LS%2FdSOSKI9uFB4A%3D%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-secret-suster-ngesot-urban-legend%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", KEMBANG KANTIL (2018)
-https://cdn.clonefile.icu/drive/index.php?id=zOv4pH0QzbQhtlxYquipHwjFKwKqMkJvnrbIw%2BRm9nvb67XuxqBfiiaMp0sZQ5chvpYdVdGiBEPILblJgHgir1PHbpQu6Fux2%2BihPNz6asaCzm76DmxtgpP%2Bkbgf%2BF98YwBh3uLbrgE4fFU9CNtXnSFJhRflJ%2BJHzjdR9fQyljLCRvcBwXAOEt2bxQz3fM9W0%3D&ref=https%3A%2F%2Fbos21.xyz%2Fkembang-kantil%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", ARINI (2018)
-https://cdn.apidev.icu/drive/index.php?id=UrVtza%2BRZLYx4UvrTarurAntuFweKV4sSLsvNLg5i1kvN28mDnwetlNF%2B4%2BXQ8D8iDv%2FQ9UBsOd8xmIcfX%2Fxyyzg8J2GiOTx%2FtzQyMPs6ry4np7YHhdleJ5ZwP%2B7wYdf%2BA3%2FokVmkl9cGOjSEdAbUW61Hw84nYAFG6%2BAh9ogwj3bJnHZC7zPl52RgnIcZDDAo%3D&ref=https%3A%2F%2Fbos21.xyz%2Farini%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", ANANTA (2018)
-https://cdn.cloneapi.icu/drive/index.php?id=tbU3PeWNSHqcI6s19QBB0Q2EzTMTH%2FMcfmYT3Se2XZE9UyOT7JKpqdIiGJ01eCRXAHY43rrYccU4E5uulTNt0xAsVEQmv0Q6Gcnk6skpwqURYGpi1lUNA8TzJFIwDhKMR2E%2FRr90%2F7vpIGpluc4T0KkIlrD3nM5L0CH16Py8F1S%2FrkwUJEXHTJQdEpgrSaV2Y%3D&ref=https%3A%2F%2Fbos21.xyz%2Fananta%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", TERBANG: MENEMBUS LANGIT (2018)
-https://cdn.clonefile.icu/drive/index.php?id=rq95M9xnd8AsJI0YG%2BVwBQpK4qZkQW%2B32ga8O8qrCCHJKg2xE3EcORsSYUbTno13h1zXLGcggncsMAFRym%2FbaMJemdlpf8HHB1wObKwleQdQLw5IWQT1DO5PFQnzrYcP2vuxgX1K78gSAlWGATOLZiHo4MXqNxyGy3XZxGRG507i0buGp1JK9jUdH96VSdRYkhl9l%2FUroz0kSljJhlYT9f&ref=https%3A%2F%2Fbos21.club%2Fterbang-menembus-langit%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", TEMAN TAPI MENIKAH (2018)
-https://cdn.cloneapi.icu/drive/index.php?id=6Ua12AB1hjIunDGGZVqEpw81DhuivMO%2FBvAyVat%2Flfsc7bA%2FHYbKgWnp2MMqnYNT0LuV5WanbJ5uMuaqUcEZ%2FtWVHH3x2PQf1LA5bln3sZvgRbXSpO%2Bw2XSgm1XZbPPOTPmmUuf80VetbZxUDbWU%2BMl88BiLyM25v5vn%2FyDQeKVvDRlKi%2FGDrSvZ3lW5nxHk7tHTr%2FyjohufcEsvin5y7z&ref=https%3A%2F%2Fbos21.club%2Fteman-tapi-menikah%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", ALANGKAH LUCUNYA NEGERI INI
-https://cdn.clonefile.icu/drive/index.php?id=Gvx56951xJX8f%2FxiozQUdA3bvykwVwiZNZd9%2BoNoiUU85VEWoLMzbjaQ6Pq8h5F%2BJfATqQapkT0BRHCRsfKDDVUIMNvV7tGhgFK2OJVTLfpE0uT7LO6CbtYjFWTrYZN0Q8a1NCb5P5cfBj6ScfFUzldySsAG3lPEu7B%2FObVQzyqcXRSIz4DzLwxt5MPWIeQkM%2FxyI4JUn9yJi2HlUX8aR%2F&ref=https%3A%2F%2Fbos21.club%2Falangkah-lucunya-negeri-ini%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", 3 HATI 2 DUNIA 1 CINTA
-https://cdn.cloneapi.icu/drive/index.php?id=hjdgu62lhcdSO63SnqbSnwlR8CFR6XPW39GnrKKuQSdJLHV4dsEI77ly3u%2Fp1sfW1PigMgkSK4HnxTl%2FpwKZj22hAKxfRFfSFq6o%2B6hJJfkc%2F74ah4Yu42CQ85IM2C444S7cvouOhPbLZvAzSd6Q6soaXfnYHKRSji2QnoP7Vro9EOSN59sAooMmfDsNCJloB1%2Bx4YrUeJs46l8XzMCXG1&ref=https%3A%2F%2Fbos21.club%2F3-hati-dua-dunia-satu-cinta%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", AMPHIBIOUS 3D
-https://cdn.cloneapi.icu/drive/index.php?id=Er%2Fi78rVfGvP85hqn8AF6AwWHU7trOx1Mrai%2BXp4C7Ntzi%2FY8mAw6gixmSwdQfr61W68BfvN5gOx0%2FJKsVphdtFyRqQ40XTXZj2MzxnUiKl%2BSq%2B8qQBo6fHhhxypd8ItCBcrwogCFxciwgm9PzIvmXhFXQODdOEDi96Rc0zTgYJ2k1YrcVN9qcR8fdkxpFrE4%3D&ref=https%3A%2F%2Fbos21.club%2Famphibious-3d%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", Habibie & Ainun
-https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", Soekarno: Indonesia Merdeka
-https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", Galih & Ratna
-https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", Si Doel The Movie
-https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", Ayat Ayat Cinta
-https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", Ayat Ayat Cinta 2
-https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", MUNAFIK
-https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", PENGABDI SETAN
-https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", DANUR
-https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", MATA BATIN 2 (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", KALUNG JELANGKUNG 
-https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", TUSUK JELANGKUNG 
-https://cdn.apidev.icu/drive/index.php?id=PbYxpduDge%2BTF4V2h%2F3l%2BQ8eyoTRNg8U1rHySiyTvO7ivrS1X4EJlnX75guPZSPxbhUlNK4%2Bef%2FMJ3Z8wx2w5IDYLB6jWGOyeS3MdoSXBG%2BwTBVe3usVgCeT9PoahDDslm8TzOyaWdnV6zxLsfv%2Fl0HpJ8vhR4Y3uhyWgPMtV0KWNh1nwKudorCSGfh8xUh6rGPupb8GQMnB4KJmKQnHgT&ref=https%3A%2F%2Fbos21.bid%2Ftusuk-jelangkung%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", SIZANA : BERNAFAS DALAM KUBUR
-https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
-#EXTINF:-1 tvg-logo="" group-title="VOD Nashya ID2", SATU SURO
-https://cdn.apidev.icu/drive/index.php?id=8gAu2PwGQwNPo5oy4U51XQ5VGhTahPZCxCiEnFu4M1E6saqJkny%2F4yeNeqRk7yL0ZkGWQ%2F6nVHEF21XSR8LSPiJ1gCneJPuK8X5iQXC0TrDwrJ1eGvGZe4WIKYQdhNMmsslixb3YOB%2FDOwaNgtTiW%2BP%2FBLHB%2FcJqI2Z3JlB5zgS5FbqhomMYdrqF%2BqB3CMGfY%3D&ref=https%3A%2F%2Fbos21.bid%2Fsatu-suro%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hbyD8y3.png" group-title="VOD Nashya ID2", ARUNA & LIDAHNYA (2018)
-https://fv6.failiem.lv/Files.fm_2019-10-18_file_q28nm3w7/%5Blovedrama%5D+adl+2018+720p-muxed.mp4?PHPSESSID=d9ns10opdbf5jv726rakldqtf3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uOEs9D.png" group-title="VOD Nashya ID2", DIMSUM MARTABAK (2018)
-https://fv1-2.failiem.lv/Files.fm_2019-10-17_file_zywu6vwp/%5Blovedrama%5D+Dm+2018+720p-muxed.mp4?PHPSESSID=d9ns10opdbf5jv726rakldqtf3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrbeOSa.png" group-title="VOD Nashya ID2", IQRO : PETUALANGAN MERAIH BINATNG(2018)
-https://fv1-2.failiem.lv/Files.fm_2019-12-06_file_gh8bav9p/%5Blovedrama%5D+iqra+720p-muxed.mp4?PHPSESSID=d9ns10opdbf5jv726rakldqtf3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LmgY0oi.png" group-title="VOD Nashya ID2", PENGAKUAN SEORANG PELACUR (2010)
-https://doc-04-9g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ceiai8htt7of7e4blv1rttf01elrom66/1574510400000/08873209996285345147/*/1gw7jN6OVMLjlvvUNv8TIZX7owzxqmAXG?e=download
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kVW2qYn.png" group-title="VOD Nashya ID2", TENTANG CINTA (2007)
-https://fv9-2.failiem.lv/Files.fm_2019-10-29_file_mg3jg7fk/%5Blovedrama%5D+tk+2007-muxed.mp4?PHPSESSID=d9ns10opdbf5jv726rakldqtf3
-
 #EXTINF:-1 group-title="VoD Mandarin",《电影千局1》
 https://135zyv6.xw0371.com/2019/03/19/K9W3TbRk4Ge0oiF7/playlist.m3u8
 #EXTINF:-1 group-title="VoD Mandarin",《电影齐天大圣之火焰山》
@@ -3411,7 +2676,6 @@ http://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
 http://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 #EXTINF:-1 group-title="Singapore",OKTO HD
 http://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-
 #EXTINF:-1 group-title="Malaysia",TV 1
 http://47.240.60.73/xaors/mlxy.php?channel=3ed79d2b1cecd16fbe507a27c31ea0fb
 #EXTINF:-1 group-title="Malaysia",TV 2
@@ -3446,7 +2710,7 @@ http://47.240.60.73/xaors/mlxy.php?channel=b5cfafb25c6d34582ee0a221ec43327d
 http://47.240.60.73/xaors/mlxy.php?channel=b3f18bf612c98c1bfea2daaaa7a7ac5e
 #EXTINF:-1 group-title="Malaysia",Boo
 http://47.240.60.73/xaors/mlxy.php?channel=9408336d8891dad41e74a394224eadbb
-#EXTINF:-1 group-title="Malaysia"Naura
+#EXTINF:-1 group-title="Malaysia",#EXTINF:-1 group-title="Malaysia"Naura
 http://47.240.60.73/xaors/mlxy.php?channel=202e7d8e894c071261c8d0b9538fc01d
 #EXTINF:-1 group-title="Malaysia",Hello
 http://47.240.60.73/xaors/mlxy.php?channel=37e4f4345692cfabae7bb4f4082d2ef6
@@ -3478,27 +2742,27 @@ http://47.240.60.73/xaors/mlxy.php?channel=fa085ab4fe55b782013191b047e08489
 http://47.240.60.73/xaors/mlxy.php?channel=835e44cbfa3e3903e6809bebcaa103d0
 #EXTINF:-1 group-title="Malaysia",Vasantham
 http://47.240.60.73/xaors/mlxy.php?channel=5073477e6d719322cd30d7c41bc15b8b
-#EXTINF:-1 group-title="Malaysia",Astro_愛奇藝,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=08400975e6beeb4aa15293b803fa9879
-#EXTINF:-1 group-title="Malaysia",Astro_華麗臺,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=e5e127c858a11f24dcce918bd5838913
-#EXTINF:-1 group-title="Malaysia",Astro_歡喜臺,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=3de4ad6eb09f1c115ee9c260efa85942
-#EXTINF:-1 group-title="Malaysia",Astro_雙星臺,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=a8b2a54597bbcc99ea1456264b72eab7
-#EXTINF:-1 group-title="Malaysia",Astro_小太阳,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=5991324d95841f0c1c57578d52213b5a
-#EXTINF:-1 group-title="Malaysia",Astro_Ceria,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=e812a3049d85fef4f2ad37b145c9bd62
-#EXTINF:-1 group-title="Malaysia",Astro_Awani,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=9a751631192a8cfe27d4b49a3df79bc1
-#EXTINF:-1 group-title="Malaysia",Astro_Oasis,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=0f01eb1fc688a002847ce176b568afb0
-#EXTINF:-1 group-title="Malaysia",Astro_Warna,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=050558f5c3acc91093378ffdc2b99dc8
-#EXTINF:-1 group-title="Malaysia",Astro_Ria,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=21901f38d17350db577630c9d800446c
-#EXTINF:-1 group-title="Malaysia",Astro_Citra,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=95ba3847447d46019b41ee6b75c5ca67
 #EXTINF:-1 group-title="Malaysia",Astro_Prima
 http://47.240.60.73/xaors/mlxy.php?channel=b5cfafb25c6d34582ee0a221ec43327d
@@ -3506,7 +2770,7 @@ http://47.240.60.73/xaors/mlxy.php?channel=b5cfafb25c6d34582ee0a221ec43327d
 http://47.240.60.73/xaors/mlxy.php?channel=61916b478cbb29d6e11e8ecdec858b30
 #EXTINF:-1 group-title="Malaysia",astro supersport2
 http://47.240.60.73/xaors/mlxy.php?channel=733bcd8a29fafd0ddccf357ff7e156ad
-#EXTINF:-1 group-title="Malaysia",astro supersport3,
+#EXTINF:-1 group-title="Malaysia",
 http://47.240.60.73/xaors/mlxy.php?channel=c4d1acb2343b0d257b0b33a5aafe5055
 #EXTINF:-1 group-title="Malaysia",astro supersport4
 http://47.240.60.73/xaors/mlxy.php?channel=5f8971b1c8d3f734fbe0adc7c70ed332
@@ -3616,8 +2880,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3u8
 #EXTINF:-1 group-title="Asia",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 group-title="Asia",ATV
-http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Asia",BPTV 1
 http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1 group-title="Asia",BRT
@@ -3680,8 +2942,6 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
 #EXTINF:-1 group-title="Asia",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Asia",Mahar Bawdi
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 #EXTINF:-1 group-title="Asia",Mahar TV
 http://maharlive.b-cdn.net/stream.m3u8
 #EXTINF:-1 group-title="Asia",MC Suria HD
@@ -3708,8 +2968,6 @@ https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
 http://162.212.178.70:4842/bysid/3
 #EXTINF:-1 group-title="Asia",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="Asia",Ngh
-https://live.truyenhinhnghean.vn/live/na1_720/index.m3u8
 #EXTINF:-1 group-title="Asia",Nh�n D�n
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 #EXTINF:-1 group-title="Asia",NTB
@@ -3778,12 +3036,6 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="Asia",Workpoint
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
-#EXTINF:-1 group-title="India",sony entairnment
-http://1959377946.rsc.cdn77.org/1959377946/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="India",Sony max
-http://1132864118.rsc.cdn77.org/1132864118/index.m3u8
-#EXTINF:-1 group-title="India",Colors
-http://1784075063.rsc.cdn77.org/1784075063/index.m3u8
 #EXTINF:-1 group-title="Japan",CGNTV 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 group-title="Japan",GSTV
@@ -3972,8 +3224,6 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
 #EXTINF:-1 group-title="England",Al-Hiwar
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 group-title="England",BBC Arabic
-http://95.170.215.107/hls/m3u8/BBCArabic-Backup.m3u8
 #EXTINF:-1 group-title="England",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="England",Box Hits
@@ -4024,8 +3274,6 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
 #EXTINF:-1 group-title="England",MTA Africa
 https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
-#EXTINF:-1 group-title="England",Publitools
-http://95.170.215.107/hls/m3u8/Publitools.m3u8
 #EXTINF:-1 group-title="England",RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 group-title="England",Sheffield TV
@@ -4642,8 +3890,6 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_1200.m3u8
 #EXTINF:-1 group-title="America",TCT Kids
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1 group-title="America",Tempe 11
-http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 group-title="America",The 360 Channel
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 group-title="America",The Asylum
@@ -4686,10 +3932,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 http://rtmp1.abnsat.com/hls/trinity.m3u8
 #EXTINF:-1 group-title="America",TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 group-title="America",TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1 group-title="America",TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 #EXTINF:-1 group-title="America",UALR TV
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
 #EXTINF:-1 group-title="America",UWW-TV
@@ -4764,8 +4006,6 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 #EXTINF:-1 group-title="EMIRATE",B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 group-title="EMIRATE",Cartoon Network كرتون
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 group-title="EMIRATE",Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
 #EXTINF:-1 group-title="EMIRATE",Cinema 1
@@ -4792,8 +4032,6 @@ http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 group-title="EMIRATE",Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 group-title="EMIRATE",Imagine Movies
-http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
 #EXTINF:-1 group-title="EMIRATE",MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
 #EXTINF:-1 group-title="EMIRATE",MBC
@@ -5046,8 +4284,6 @@ http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8
 http://223.82.250.72/live/cctv-15/1.m3u8
 #EXTINF:-1 group-title="Chinnese",CCTV-4高清
 http://117.169.120.140:8080/live/cctv-4/.m3u8
-#EXTINF:-1 group-title="Chinnese",CCTV-5
-http://sdlqx.chinashadt.com:2036/live/CCTV5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Chinnese",CCTV-5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="Chinnese",CCTV-7军事农业
@@ -5078,7 +4314,6 @@ http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="Chinnese",SDETV
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
-
 #EXTINF:-1 group-title="Non Kategories",靖天卡通台
 http://47.240.60.73/xaors/mlxy.php?channel=edc80996aacba3d2cae4c52cec64414d
 #EXTINF:-1 group-title="Non Kategories",Baby TV Taiwan
@@ -5091,7 +4326,6 @@ http://47.240.60.73/xaors/mlxy.php?channel=485ea69cc682f6f05825e1a41046d451
 http://47.240.60.73/xaors/mlxy.php?channel=9abdf8458ac9e9c942d4aec06817ba79
 #EXTINF:-1 group-title="Non Kategories",Disney Taiwan
 http://47.240.60.73/xaors/mlxy.php?channel=7ef9bbf7cd82ccdabd04ff7ea3ab66ec
-
 #EXTINF:-1 group-title="Non Kategories",珠江台 Zhujiang
 http://47.240.60.73/xaors/mlxy.php?channel=cb01aa96e5a99b88309f5ae57c7a5e80
 #EXTINF:-1 group-title="Non Kategories",广东体育
@@ -5226,12 +4460,6 @@ http://47.240.60.73/xaors/mlxy.php?channel=5f0f7eaada270d6845963ee5ec52907b
 http://47.240.60.73/xaors/mlxy.php?channel=354ed3925bd14313878d114aad53bfc2
 #EXTINF:-1 group-title="Non Kategories",爱尔达影剧
 http://47.240.60.73/xaors/mlxy.php?channel=45f870e195159e30535edb6c91850c8e
-#EXTINF:-1 group-title="Non Kategories",美亚电影 
-Meiya Movie,http://47.240.60.73/xaors/mlxy.php?channel=da02dd2201b7b5e4a22c60afaf7690b6
-#EXTINF:-1 group-title="Non Kategories",龙华电影 
-Movie,http://47.240.60.73/xaors/mlxy.php?channel=4dd740b40b59997fcfec996e6a069353
-#EXTINF:-1 group-title="Non Kategories",龙华洋片 
-Western Movie,http://47.240.60.73/xaors/mlxy.php?channel=66805d198a13a7845dd8e06073e51c4e
 #EXTINF:-1 group-title="Non Kategories",龙华戏剧
 http://47.240.60.73/xaors/mlxy.php?channel=7473874dba9fead1b9c66f9219fe13fc
 #EXTINF:-1 group-title="Non Kategories",龙华偶像
@@ -5350,7 +4578,6 @@ http://47.240.60.73/xaors/mlxy.php?channel=9fe134ff276db286a9fc20b432a0bea4
 http://47.240.60.73/xaors/mlxy.php?channel=fd64019a13e764fcbece870c88a27714
 #EXTINF:-1 group-title="Non Kategories",Zee News
 http://47.240.60.73/xaors/mlxy.php?channel=b0651ae2907ab4f69f82a10e4d1ebce3
-
 #EXTINF:-1 group-title="Non Kategories",Channel 5
 http://47.240.60.73/xaors/mlxy.php?channel=4a4d040525e3ae70a4ddc6bdad599cad
 #EXTINF:-1 group-title="Non Kategories",Channel 8
@@ -5565,7 +4792,6 @@ http://47.240.60.73/xaors/mlxy.php?channel=1080ee4db8311690db6d14903a1e9e3d
 http://47.240.60.73/xaors/mlxy.php?channel=05ca6854a497d7cde1e8f501fb188eef
 #EXTINF:-1 group-title="Non Kategories",Discovery_Science
 http://47.240.60.73/xaors/mlxy.php?channel=f8909e2127ca00172106da82a4e72925
-
 #EXTINF:-1 group-title="Non Kategories",Cartoon Network HD
 http://47.240.60.73/xaors/mlxy.php?channel=eec2c5df87f1847687978980a6aa9e1e
 #EXTINF:-1 group-title="Non Kategories",Disney Channel Asia HD
