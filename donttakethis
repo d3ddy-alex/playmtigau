@@ -709,54 +709,87 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",Selamat Menikmati
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,HBO
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,HBO HD
+http://160.119.77.50/iptv/hd-hboeng.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",HBO 
+https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",HBO 1
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",HBO +
+http://vtv.iptvfree.gq:2086/live/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png" group-title="USEE TV",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO HITS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,HBO HITS
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO HITS
+#EXTINF:-1tvg-logo="https://i.imgur.com/bsg35wC.png" group-title="USEE TV",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO SIGNATURE
+#EXTINF:-1tvg-logo="https://i.imgur.com/bsg35wC.png" group-title="USEE TV",HBO SIGNATURE
 http://203.153.218.28:9981/stream/channelid/1197019186
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",Fox Movies 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", Fox Movies 1
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Family 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,Fox Action Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", HBO Family 1
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Hits 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", HBO Hits 1
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Signature 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",HBO Signature 1
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=B4361172F7C80347D7CB7A824A7E050E6255F83E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",HBO Signature 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", HBO Signature 1
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV", Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="USEE TV",AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOb4AiY.png" group-title="USEE TV", FOX SPORTS 
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_b1344100_sleng_.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fVqn37j.png" group-title="USEE TV", FOX SPORTS 2
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DwOLtp5.png" group-title="USEE TV", FOX SPORTS 3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist9_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOW28yn.png" group-title="USEE TV", BEIN SPORTS 1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzUlaOf.png" group-title="USEE TV", BEIN SPORTS 2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ErjLHU.png" group-title="USEE TV", CHAMPIONS TV 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ii5EPA.png" group-title="USEE TV", CHAMPIONS TV 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn95Yug.png" group-title="USEE TV", USEESPORTS
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHhqVMp.png" group-title="USEE TV", USEESPORTS 2
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKRxoX1.png" group-title="USEE TV", EGG NETWORK
+https://vcdnjt.useetv.com/joss/14/egg/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMLnewm.png" group-title="USEE TV", GOLF
+https://vcdnjt.useetv.com/joss/15/golf/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/thUhkST.png" group-title="USEE TV", NBA TV
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72qvyQs.png" group-title="USEE TV", NAT GEO
 https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsLt45p.png" group-title="USEE TV", NAT GEO PEOPLE
@@ -973,31 +1006,16 @@ https://vcdnjt.useetv.com/joss/15/sgem/chunklist_b894100_sleng_.m3u8
 https://vcdnjt.useetv.com/joss/15/sone/chunklist_b894100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtShiO6.png" group-title="USEE TV", TV5 ASIA
 https://vcdnjt.useetv.com/joss/14/tv5monde/chunklist_b684100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vOb4AiY.png" group-title="USEE TV", FOX SPORTS 
-https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_b1344100_sleng_.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVqn37j.png" group-title="USEE TV", FOX SPORTS 2
-https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DwOLtp5.png" group-title="USEE TV", FOX SPORTS 3
-https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist9_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vOW28yn.png" group-title="USEE TV", BEIN SPORTS 1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GzUlaOf.png" group-title="USEE TV", BEIN SPORTS 2
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ErjLHU.png" group-title="USEE TV", CHAMPIONS TV 1
-https://vcdnjt.useetv.com/joss/15/champion1/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ii5EPA.png" group-title="USEE TV", CHAMPIONS TV 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn95Yug.png" group-title="USEE TV", USEESPORTS
-https://vcdnjt.useetv.com/joss/15/useesport/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHhqVMp.png" group-title="USEE TV", USEESPORTS 2
-https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKRxoX1.png" group-title="USEE TV", EGG NETWORK
-https://vcdnjt.useetv.com/joss/14/egg/chunklist_b684100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMLnewm.png" group-title="USEE TV", GOLF
-https://vcdnjt.useetv.com/joss/15/golf/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/thUhkST.png" group-title="USEE TV", NBA TV
-https://vcdnjt.useetv.com/joss/15/nba/chunklist_b1344100_sleng_.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV" ,Mola Sport
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",Astro Super Sport 1
+http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",Astro Super Sport 2
+http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",Astro Super Sport 3
+http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="USEE TV",Astro Super Sport 4
+http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaEoFTW.jpg" group-title="Movies",YOU SAFE ME I SAVE YOU corona info !!
 http://jammy.today:83/live/JFTCherry/39898465/382185.m3u8
