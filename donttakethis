@@ -115,6 +115,9 @@ https://stream.suryaiptv.net/streams/133_.m3u8
 https://stream.suryaiptv.net/streams/134_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",M Channel
 https://stream.suryaiptv.net/streams/135_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",USA: CON TV
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Flim Detective
@@ -466,82 +469,7 @@ http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="NashyaIPtv" ,M Sport
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skysports Main Events HD
-http://47.240.60.73/xaors/mlxy.php?channel=f14f7141ad6a570fa1db359885a0a289
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skysports Premier League HD
-http://47.240.60.73/xaors/mlxy.php?channel=1f59a8c14e5165c2ecb23fd28516c578
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skysports News HD
-http://47.240.60.73/xaors/mlxy.php?channel=56cbaba3a5919a4384507757d8ab7c9d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skysport Arena
-http://47.240.60.73/xaors/mlxy.php?channel=9e6f2a6e0e99ae4ef5a52396526602df
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skysports Mix HD
-http://47.240.60.73/xaors/mlxy.php?channel=700a69b10f9f3fa63956a677372c26bb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",SkySports Golf HD
-http://47.240.60.73/xaors/mlxy.php?channel=b98a7a831d50e8b14ac97b289614504e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",SkySports Action HD
-http://47.240.60.73/xaors/mlxy.php?channel=1bff2bf8b147abbcf135168a2a8a431c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skysports F1
-http://47.240.60.73/xaors/mlxy.php?channel=aef13aff17264f36f9e1bb17f3134ce9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",SkySports Cricket HD
-http://47.240.60.73/xaors/mlxy.php?channel=2fd9444d62e2a422cc17666db9fa961a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Bein 1
-http://47.240.60.73/xaors/mlxy.php?channel=d17695620da49c50c428690ff91660cd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Bein 2
-http://47.240.60.73/xaors/mlxy.php?channel=1c3e582ac3c472c2f52703cc03388301
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Bein 3
-http://47.240.60.73/xaors/mlxy.php?channel=2a3abcb654cf96f8ce84713512b18d6e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Bein 4
-http://47.240.60.73/xaors/mlxy.php?channel=8a51f5ef696d7295422536ce20c7b5c1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BT Sports 1 HD
-http://47.240.60.73/xaors/mlxy.php?channel=26b7f60cba6cd9c9050f3e6306ff4a07
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BT Sports 2 HD
-http://47.240.60.73/xaors/mlxy.php?channel=8a310cffe4d55192802acae88d5ca9be
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BT Sports 3 HD
-http://47.240.60.73/xaors/mlxy.php?channel=f429bbb84bc1e106c1f05ac2b96852e4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",ESPN UK
-http://47.240.60.73/xaors/mlxy.php?channel=64fb328369ee516f041f4a93c60c9f9d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skynet 1
-http://47.240.60.73/xaors/mlxy.php?channel=d446077714d268d2bc737878cd05289f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skynet 2
-http://47.240.60.73/xaors/mlxy.php?channel=ccfffbc24c927d7fd64541df5318cf98
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skynet 3
-http://47.240.60.73/xaors/mlxy.php?channel=bc14891c57c39acc54269c0ec8d63763
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Skynet HD
-http://47.240.60.73/xaors/mlxy.php?channel=8a1396523bc0a6fcf63fa4738c6f8625
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Fox Sports
-http://47.240.60.73/xaors/mlxy.php?channel=4f8803fe378ba9f0a8d67b1b29cc9ec6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Fox Sports 3 HD
-http://47.240.60.73/xaors/mlxy.php?channel=7db0730131182ef040e6df282d24b5f8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 1 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=43190bc3746373ccdab9a0aeb8a3c1d3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 2 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=406ba35a78cf6c091d10ed0e4d525042
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 3 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=07a24b01b06386eedbe689f6aed10b5a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 4 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=2cfd381529bb568fbfd88f7d969e011c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 5 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=c62cadc39dbdce2926e1096ca52d2033
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 6 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=51947cf73d318a21829257a0f0fab2b5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 7 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=930f3809f85bc7a38c1836c0a1eaaa60
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 8 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=3be2591095753b3068b4d5b9fe8b260a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 9 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=8a8ca60d3f60e55ed4e403a9967b4672
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 10 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=4ad28bd3781085d645f84e94471742b9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 11 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=957cec04fe0e84fe14e273a69348ed7a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",BeIN 12 Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=2340c657ec3f6762dc454d548f033ba2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",Astro Foxsport
-http://47.240.60.73/xaors/mlxy.php?channel=270ecb1c01424e2bf33d25b8c31d2047
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",WWE
-http://47.240.60.73/xaors/mlxy.php?channel=35a573604398f03ce83288029c59f096
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="NashyaIPtv",HGTV
-http://47.240.60.73/xaors/mlxy.php?channel=650fff1a5e0d43eda76411c090f50664
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJHbMcu.png" group-title="LOKAL ID Channel",NET TV
@@ -1623,6 +1551,16 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w98444570
 http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Fight Plus
 https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Primier Football 1
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Primier Football 2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Primier Football 3
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Primier Football 4
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+#EXTINF:-1 group-title="Nashya Sport",True Primier Football 5
+https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
 #EXTINF:-1 group-title="Nashya Sport",Useesports 1
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 group-title="Nashya Sport",Useesports 2
@@ -6043,493 +5981,1025 @@ http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="Chinnese",SDETV
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
-#EXTINF:-1 group-title="Non Kategories",靖天卡通台
-http://47.240.60.73/xaors/mlxy.php?channel=edc80996aacba3d2cae4c52cec64414d
-#EXTINF:-1 group-title="Non Kategories",Baby TV Taiwan
-http://47.240.60.73/xaors/mlxy.php?channel=fc693fbb31b3fdabc29a9ffbc4aa4c55
-#EXTINF:-1 group-title="Non Kategories",东森幼幼 Yoyo TV
-http://47.240.60.73/xaors/mlxy.php?channel=9b9a4881bc69e6d251e6388972878d38
-#EXTINF:-1 group-title="Non Kategories",Momo 1
-http://47.240.60.73/xaors/mlxy.php?channel=485ea69cc682f6f05825e1a41046d451
-#EXTINF:-1 group-title="Non Kategories",MY-Kids TV
-http://47.240.60.73/xaors/mlxy.php?channel=9abdf8458ac9e9c942d4aec06817ba79
-#EXTINF:-1 group-title="Non Kategories",Disney Taiwan
-http://47.240.60.73/xaors/mlxy.php?channel=7ef9bbf7cd82ccdabd04ff7ea3ab66ec
-#EXTINF:-1 group-title="Non Kategories",珠江台 Zhujiang
-http://47.240.60.73/xaors/mlxy.php?channel=cb01aa96e5a99b88309f5ae57c7a5e80
-#EXTINF:-1 group-title="Non Kategories",广东体育
-http://47.240.60.73/xaors/mlxy.php?channel=88c104a08e0f9452e529523058f36916
-#EXTINF:-1 group-title="Non Kategories",新视觉 Sitv
-http://47.240.60.73/xaors/mlxy.php?channel=3509ada2b05c4d3c3964cc015f63305d
-#EXTINF:-1 group-title="Non Kategories",凤凰资讯 HD
-http://47.240.60.73/xaors/mlxy.php?channel=fbded000af54f1a4ee0847712298893b
-#EXTINF:-1 group-title="Non Kategories",凤凰卫视 HD
-http://47.240.60.73/xaors/mlxy.php?channel=b87f678640708da14c8bbe45ef43e51f
-#EXTINF:-1 group-title="Non Kategories",星空卫视
-http://47.240.60.73/xaors/mlxy.php?channel=8b3a5a15e7c70db7779ba0ea72bd253c
-#EXTINF:-1 group-title="Non Kategories",Russia Times
-http://47.240.60.73/xaors/mlxy.php?channel=36946a54642c1f26dcc7b94de558c6ef
-#EXTINF:-1 group-title="Non Kategories",MTV Live
-http://47.240.60.73/xaors/mlxy.php?channel=c87c1e5e75b59babfdeb91d02c9c2075
-#EXTINF:-1 group-title="Non Kategories",Asia Travel
-http://47.240.60.73/xaors/mlxy.php?channel=5f1949920930c6b19f91491bf9f47c24
-#EXTINF:-1 group-title="Non Kategories",美食频道 Food Network Asia
-http://47.240.60.73/xaors/mlxy.php?channel=eae3b0e1ec59ffe68852916f0b44e7eb
-#EXTINF:-1 group-title="Non Kategories",TLC Travel Asia
-http://47.240.60.73/xaors/mlxy.php?channel=e1f69e1eacf8070ceecf04a431493ffd
-#EXTINF:-1 group-title="Non Kategories",Fashion TV HD
-http://47.240.60.73/xaors/mlxy.php?channel=d6088abd3276d4e60f0090e1e32336a2
-#EXTINF:-1 group-title="Non Kategories",TVB翡翠台
-http://47.240.60.73/xaors/mlxy.php?channel=f9c0fc853c9dd0b6be92eacc07943460
-#EXTINF:-1 group-title="Non Kategories",TVB明珠台
-http://47.240.60.73/xaors/mlxy.php?channel=c16662fc5c2cc0ba04dc6d35d19e5071
-#EXTINF:-1 group-title="Non Kategories",TVB J2
-http://47.240.60.73/xaors/mlxy.php?channel=4e2a008fe0f5173222b99f03c1560d7b
-#EXTINF:-1 group-title="Non Kategories",TVB财经资讯
-http://47.240.60.73/xaors/mlxy.php?channel=033a753586d9f8babd3fec3db30d9f41
-#EXTINF:-1 group-title="Non Kategories",TVB新闻台
-http://47.240.60.73/xaors/mlxy.php?channel=c401bb84625c372236da993f643d5674
-#EXTINF:-1 group-title="Non Kategories",凤凰香港
-http://47.240.60.73/xaors/mlxy.php?channel=44ca88e2d2844038cdb169e25ac5fbbf
-#EXTINF:-1 group-title="Non Kategories",TVBS新闻台
-http://47.240.60.73/xaors/mlxy.php?channel=7bfd061991d40f48a4741a9e2daf1723
-#EXTINF:-1 group-title="Non Kategories",TVBS欢乐台
-http://47.240.60.73/xaors/mlxy.php?channel=e0d80357ddd31b626f9f7c57566a72fb
-#EXTINF:-1 group-title="Non Kategories",TVBSHD
-http://47.240.60.73/xaors/mlxy.php?channel=8978865d3550043580868e20104181db
-#EXTINF:-1 group-title="Non Kategories",中天亚洲台
-http://47.240.60.73/xaors/mlxy.php?channel=71db2a46b7999600957bae2ff593b88e
-#EXTINF:-1 group-title="Non Kategories",中天娱乐
-http://47.240.60.73/xaors/mlxy.php?channel=e4d8bdda673322f73ad81a85dbd729e3
-#EXTINF:-1 group-title="Non Kategories",中天综合
-http://47.240.60.73/xaors/mlxy.php?channel=02f108bdfea98407fde2f64d0160b458
-#EXTINF:-1 group-title="Non Kategories",中天新闻
-http://47.240.60.73/xaors/mlxy.php?channel=9cc23cfaa77c63bbdf5c25b427c89837
-#EXTINF:-1 group-title="Non Kategories",华视 CTS HD
-http://47.240.60.73/xaors/mlxy.php?channel=61ea04402fef3b5b882cbbfff520f88f
-#EXTINF:-1 group-title="Non Kategories",台视 TTV HD
-http://47.240.60.73/xaors/mlxy.php?channel=2ddfaf5fa08619bf48c2246c25147689
-#EXTINF:-1 group-title="Non Kategories",中视 CTV HD
-http://47.240.60.73/xaors/mlxy.php?channel=2b7ed237c2191c454f4d5e1ab4017d32
-#EXTINF:-1 group-title="Non Kategories",民视新闻台 FTV News
-http://47.240.60.73/xaors/mlxy.php?channel=8f0cfe02045f163efbf510131233ef38
-#EXTINF:-1 group-title="Non Kategories",民视 FTV HD
-http://47.240.60.73/xaors/mlxy.php?channel=dbc824c04b4200f92e3b85cbc59f434e
-#EXTINF:-1 group-title="Non Kategories",公视 HD
-http://47.240.60.73/xaors/mlxy.php?channel=22135c0a31d3ab68940e6b9cc7104a51
-#EXTINF:-1 group-title="Non Kategories",八大第一 Ba Da First
-http://47.240.60.73/xaors/mlxy.php?channel=8b59ed131b528b3e56daaa199c6b714b
-#EXTINF:-1 group-title="Non Kategories",八大戏剧 Ba Da Drama
-http://47.240.60.73/xaors/mlxy.php?channel=7af5f3913325a66c0b2c559e6548ff78
-#EXTINF:-1 group-title="Non Kategories",八大综合 Ba Da Infortainment
-http://47.240.60.73/xaors/mlxy.php?channel=ffd34946005d0cf063d7b0ba8a8f045c
-#EXTINF:-1 group-title="Non Kategories",三立戏剧 Sanli Drama
-http://47.240.60.73/xaors/mlxy.php?channel=cb27886b8839dba819242a88b0ab1599
-#EXTINF:-1 group-title="Non Kategories",三立综合 Sanli Infortainment
-http://47.240.60.73/xaors/mlxy.php?channel=51241aa0d30f4b642e5b5eb89d060d21
-#EXTINF:-1 group-title="Non Kategories",三立都会 Sanli Variety
-http://47.240.60.73/xaors/mlxy.php?channel=01da95d007e8a749c11a8ec64ee2ee11
-#EXTINF:-1 group-title="Non Kategories",三立新闻 Sanli News
-http://47.240.60.73/xaors/mlxy.php?channel=00f6b3c7fb8b9bc7f55cb0127151ad1f
-#EXTINF:-1 group-title="Non Kategories",三立台湾 Sanli Taiwan
-http://47.240.60.73/xaors/mlxy.php?channel=afefbcf0a74f3ad5f9c742396877618a
-#EXTINF:-1 group-title="Non Kategories",东森新闻 ETTV News
-http://47.240.60.73/xaors/mlxy.php?channel=ea86a6a22ddb41a1622626f8078b6c55
-#EXTINF:-1 group-title="Non Kategories",东森财经新闻
-http://47.240.60.73/xaors/mlxy.php?channel=e2a11612c82cf150c8725bae8ab843e8
-#EXTINF:-1 group-title="Non Kategories",东森综合 ETTV Metro
-http://47.240.60.73/xaors/mlxy.php?channel=3a2618e29e13b13000b4789abba54d08
-#EXTINF:-1 group-title="Non Kategories",东森洋片 ETTV Western
-http://47.240.60.73/xaors/mlxy.php?channel=5c0f418e22d1024e445292edaba5dd1a
-#EXTINF:-1 group-title="Non Kategories",东森戏剧 ETTV Drama
-http://47.240.60.73/xaors/mlxy.php?channel=4e3800d0982ae64e861ee2166741a6ba
-#EXTINF:-1 group-title="Non Kategories",东森电影 ETTV Movie
-http://47.240.60.73/xaors/mlxy.php?channel=d824ce205aeb94733357f1c0a2e87609
-#EXTINF:-1 group-title="Non Kategories",卫视中文台
-http://47.240.60.73/xaors/mlxy.php?channel=efbd809fffc18733f2385aee2597858a
-#EXTINF:-1 group-title="Non Kategories",卫视合家台
-http://47.240.60.73/xaors/mlxy.php?channel=efe958943f750e00e1dc046f89d4f936
-#EXTINF:-1 group-title="Non Kategories",星卫电影台
-http://47.240.60.73/xaors/mlxy.php?channel=473a6f1c1e3fb49b1202fd57c11965e2
-#EXTINF:-1 group-title="Non Kategories",Star Entertainment
-http://47.240.60.73/xaors/mlxy.php?channel=b2952120401fd8b4da25975b89d092ac
-#EXTINF:-1 group-title="Non Kategories",Diva
-http://47.240.60.73/xaors/mlxy.php?channel=4d2fe361ad7dd844333e65a1b4968889
-#EXTINF:-1 group-title="Non Kategories",Luxe TV
-http://47.240.60.73/xaors/mlxy.php?channel=0afab1bdc591a15860ec16596ed3d896
-#EXTINF:-1 group-title="Non Kategories",CCTV 4
-http://47.240.60.73/xaors/mlxy.php?channel=56bc9d654da305a11cc4e5261064855d
-#EXTINF:-1 group-title="Non Kategories",MTV Taiwan
-http://47.240.60.73/xaors/mlxy.php?channel=665b7310a44b79dbd8a9f31e5e8476cc
-#EXTINF:-1 group-title="Non Kategories",曼迪日本台
-http://47.240.60.73/xaors/mlxy.php?channel=28fb6c442b212cc16a0567cbe1bbd211
-#EXTINF:-1 group-title="Non Kategories",纬来日本
-http://47.240.60.73/xaors/mlxy.php?channel=fe4e088a8d8e10cc20a012c17cf1c3a6
-#EXTINF:-1 group-title="Non Kategories",纬来综合
-http://47.240.60.73/xaors/mlxy.php?channel=5cdbf943fe29fe91c29e3569a7dfc5fc
-#EXTINF:-1 group-title="Non Kategories",纬来戏剧
-http://47.240.60.73/xaors/mlxy.php?channel=b217ef42ba783fb2ca531c03e55d8f86
-#EXTINF:-1 group-title="Non Kategories",纬来体育
-http://47.240.60.73/xaors/mlxy.php?channel=37d9ff55a922b1323745e47283690f68
-#EXTINF:-1 group-title="Non Kategories",纬来精彩
-http://47.240.60.73/xaors/mlxy.php?channel=51d255141eaa32bba398eba750f0abb9
-#EXTINF:-1 group-title="Non Kategories",大爱1台
-http://47.240.60.73/xaors/mlxy.php?channel=866c0738c8d4bdf59ec9ae641f58b8d9
-#EXTINF:-1 group-title="Non Kategories",Travel Channel
-http://47.240.60.73/xaors/mlxy.php?channel=1a8645aa713ac3a30ae1df7eb019858d
-#EXTINF:-1 group-title="Non Kategories",Eye TV Travel
-http://47.240.60.73/xaors/mlxy.php?channel=2a77d1913e4d8a41827e76786b832ab6
-#EXTINF:-1 group-title="Non Kategories",EYE TV Drama
-http://47.240.60.73/xaors/mlxy.php?channel=e9667ddf17f95b74b285eb85c4d50cda
-#EXTINF:-1 group-title="Non Kategories",亚洲美食 AFC
-http://47.240.60.73/xaors/mlxy.php?channel=c24af8e5ff88a6b333483c6b9d682461
-#EXTINF:-1 group-title="Non Kategories",美食星球
-http://47.240.60.73/xaors/mlxy.php?channel=5f0f7eaada270d6845963ee5ec52907b
-#EXTINF:-1 group-title="Non Kategories",爱尔达综合台
-http://47.240.60.73/xaors/mlxy.php?channel=354ed3925bd14313878d114aad53bfc2
-#EXTINF:-1 group-title="Non Kategories",爱尔达影剧
-http://47.240.60.73/xaors/mlxy.php?channel=45f870e195159e30535edb6c91850c8e
-#EXTINF:-1 group-title="Non Kategories",龙华戏剧
-http://47.240.60.73/xaors/mlxy.php?channel=7473874dba9fead1b9c66f9219fe13fc
-#EXTINF:-1 group-title="Non Kategories",龙华偶像
-http://47.240.60.73/xaors/mlxy.php?channel=1a78bb703e89fc979b466177d660e150
-#EXTINF:-1 group-title="Non Kategories",龙华动画
-http://47.240.60.73/xaors/mlxy.php?channel=debd7ef6eedd4dc6b763f3aac4e9786f
-#EXTINF:-1 group-title="Non Kategories",晴天映画
-http://47.240.60.73/xaors/mlxy.php?channel=9281e5431588a180abc762656370c46b
-#EXTINF:-1 group-title="Non Kategories",晴天电影台
-http://47.240.60.73/xaors/mlxy.php?channel=c37b64d7cffbda9356ec5fed0d199ada
-#EXTINF:-1 group-title="Non Kategories",晴洋戏剧台
-http://47.240.60.73/xaors/mlxy.php?channel=c3d1847cad8c59c9213fbc6a040ac20f
-#EXTINF:-1 group-title="Non Kategories",非凡商业
-http://47.240.60.73/xaors/mlxy.php?channel=503a1636d5960cbafa54eaa37b3804bd
-#EXTINF:-1 group-title="Non Kategories",鸿基影剧台
-http://47.240.60.73/xaors/mlxy.php?channel=5635af28bf3c1ff93171e5e2d8250d2e
-#EXTINF:-1 group-title="Non Kategories",国兴卫视
-http://47.240.60.73/xaors/mlxy.php?channel=919d69f9e656ed8b87c33e89978c992c
-#EXTINF:-1 group-title="Non Kategories",年代新闻
-http://47.240.60.73/xaors/mlxy.php?channel=6795e9568e22c046981992cb582d44d8
-#EXTINF:-1 group-title="Non Kategories",非凡新闻
-http://47.240.60.73/xaors/mlxy.php?channel=6f055fbefdf8e2fd280146a9d2594292
-#EXTINF:-1 group-title="Non Kategories",NBA
-http://47.240.60.73/xaors/mlxy.php?channel=a36cd16dfa2dc427c0c0f49e249e7599
-#EXTINF:-1 group-title="Non Kategories",博斯高球II
-http://47.240.60.73/xaors/mlxy.php?channel=c6b3306cfa4922c1769d29d5b84a40ea
-#EXTINF:-1 group-title="Non Kategories",Golf Plus
-http://47.240.60.73/xaors/mlxy.php?channel=a426438f9e9dbe71ed0026e977083d91
-#EXTINF:-1 group-title="Non Kategories",Setanta Rugby
-http://47.240.60.73/xaors/mlxy.php?channel=2618b6994e7895e3a6b6ca4480fed12d
-#EXTINF:-1 group-title="Non Kategories",Outdoor
-http://47.240.60.73/xaors/mlxy.php?channel=ef35a257993110b8c1b2ae722d833355
-#EXTINF:-1 group-title="Non Kategories",爱尔达足球台
-http://47.240.60.73/xaors/mlxy.php?channel=1143a4ecd8964fd94fb69c253c78b12a
-#EXTINF:-1 group-title="Non Kategories",博斯高球I
-http://47.240.60.73/xaors/mlxy.php?channel=de4bafb51d43804994dbc80c1314561b
-#EXTINF:-1 group-title="Non Kategories",博斯网球台
-http://47.240.60.73/xaors/mlxy.php?channel=f596d46bf4cc86c1c70b0e57211c4f0d
-#EXTINF:-1 group-title="Non Kategories",爱尔达体育台
-http://47.240.60.73/xaors/mlxy.php?channel=0c699dd1f6324a203ea65057a1e75329
-#EXTINF:-1 group-title="Non Kategories",博斯运动 I
-http://47.240.60.73/xaors/mlxy.php?channel=a78be9d7945f1e6e021007fc8ef3f145
-#EXTINF:-1 group-title="Non Kategories",博斯运动 II
-http://47.240.60.73/xaors/mlxy.php?channel=ddddef9785e7e80ab8a0d61c4ba51d1d
-#EXTINF:-1 group-title="Non Kategories",E! Entertainment
-http://47.240.60.73/xaors/mlxy.php?channel=478ee02eaacbc2e27b4718e55c2a5375
-#EXTINF:-1 group-title="Non Kategories",fyi
-http://47.240.60.73/xaors/mlxy.php?channel=a20330c7d159390f545db94361def941
-#EXTINF:-1 group-title="Non Kategories",Discovery Asia
-http://47.240.60.73/xaors/mlxy.php?channel=358947976d2b9d3ae645d0afd20e344e
-#EXTINF:-1 group-title="Non Kategories",Eve
-http://47.240.60.73/xaors/mlxy.php?channel=ea161828292ae0b8b6e4061d251a55fe
-#EXTINF:-1 group-title="Non Kategories",Boomerang TV
-http://47.240.60.73/xaors/mlxy.php?channel=e06f3260a4d22169e9eb0677899cd9c3
-#EXTINF:-1 group-title="Non Kategories",CNN HD 1
-http://47.240.60.73/xaors/mlxy.php?channel=9f0d95dca27985676432ef654c150a38
-#EXTINF:-1 group-title="Non Kategories",BBC World News 1
-http://47.240.60.73/xaors/mlxy.php?channel=08dd3f1ddb56f06a85e9c61194aa0006
-#EXTINF:-1 group-title="Non Kategories",CNBC 1
-http://47.240.60.73/xaors/mlxy.php?channel=89869dfb0a78fbf289e9f7ca13da61f8
-#EXTINF:-1 group-title="Non Kategories",Bloomberg News 1
-http://47.240.60.73/xaors/mlxy.php?channel=418a0f090971b94fb244d8fad6a1d005
-#EXTINF:-1 group-title="Non Kategories",Sky News
-http://47.240.60.73/xaors/mlxy.php?channel=40ae550920504333a1746b8780acd06d
-#EXTINF:-1 group-title="Non Kategories",France 24
-http://47.240.60.73/xaors/mlxy.php?channel=87ad82a33094ba11c59c911baa3f962e
-#EXTINF:-1 group-title="Non Kategories",TV5MONDE
-http://47.240.60.73/xaors/mlxy.php?channel=6969fc37499d2e6636ba81d0d47b99bc
-#EXTINF:-1 group-title="Non Kategories",DW (Deutsch)
-http://47.240.60.73/xaors/mlxy.php?channel=97248368fe6e766992940c30b1b3644f
-#EXTINF:-1 group-title="Non Kategories",Channel 3 Thailand
-http://47.240.60.73/xaors/mlxy.php?channel=80b4059ec18e490812c524b62a5f9db4
-#EXTINF:-1 group-title="Non Kategories",Channel 5 Thailand
-http://47.240.60.73/xaors/mlxy.php?channel=7fafee06cf0c85aeb2c214cf6691e258
-#EXTINF:-1 group-title="Non Kategories",Channel 7 Thailand
-http://47.240.60.73/xaors/mlxy.php?channel=63910876c278b8daea7b72b6823c2af3
-#EXTINF:-1 group-title="Non Kategories",MCOT HD Thailand
-http://47.240.60.73/xaors/mlxy.php?channel=43849b213dde845e2537b733711fbaad
-#EXTINF:-1 group-title="Non Kategories",PPTV Thailand
-http://47.240.60.73/xaors/mlxy.php?channel=8198ab48446bb3aca097a1a3f91287b2
-#EXTINF:-1 group-title="Non Kategories",TVN Korea
-http://47.240.60.73/xaors/mlxy.php?channel=ee77ed7d59ce4de4f863989f30121ebf
-#EXTINF:-1 group-title="Non Kategories",Ria 2
-http://47.240.60.73/xaors/mlxy.php?channel=3ee56d7465000c72ae09ce3ca922c709
-#EXTINF:-1 group-title="Non Kategories",Aljazeera HD
-http://47.240.60.73/xaors/mlxy.php?channel=a72f4df322bda352d2266511442084c6
-#EXTINF:-1 group-title="Non Kategories",BBC Lifestyle
-http://47.240.60.73/xaors/mlxy.php?channel=b16d8491a2688507d81c2f81d39a83bd
-#EXTINF:-1 group-title="Non Kategories",BBC Earth
-http://47.240.60.73/xaors/mlxy.php?channel=5bd6fd723527c041042c7c1597020726
-#EXTINF:-1 group-title="Non Kategories",全佳 Quan Jia
-http://47.240.60.73/xaors/mlxy.php?channel=4a543b40465f53d695c338ef87f660b0
-#EXTINF:-1 group-title="Non Kategories",Astro AOD
-http://47.240.60.73/xaors/mlxy.php?channel=8885cdb3c010eb7cde1ded02a094a1d2
-#EXTINF:-1 group-title="Non Kategories",浙江卫视 Zhejiang
-http://47.240.60.73/xaors/mlxy.php?channel=c5b3b0f4805d0f0c1dfb8bd59f321b1d
-#EXTINF:-1 group-title="Non Kategories",湖南卫视 Hunan
-http://47.240.60.73/xaors/mlxy.php?channel=12008a3980e4ecabaee5d36eda594f09
-#EXTINF:-1 group-title="Non Kategories",江苏卫视 Jiangsu
-http://47.240.60.73/xaors/mlxy.php?channel=41b1ee0ea46042fb0f7b64c258a0db6e
-#EXTINF:-1 group-title="Non Kategories",Star Vijay
-http://47.240.60.73/xaors/mlxy.php?channel=e47b6def6626ab0bd63e38299a394634
-#EXTINF:-1 group-title="Non Kategories",Zee Tamil
-http://47.240.60.73/xaors/mlxy.php?channel=47bc01728b95525e6653d63c9169f67c
-#EXTINF:-1 group-title="Non Kategories",Zee Business
-http://47.240.60.73/xaors/mlxy.php?channel=0b222cdab222dd9c3eee57c716581370
-#EXTINF:-1 group-title="Non Kategories",Thanthi TV
-http://47.240.60.73/xaors/mlxy.php?channel=9278417b2970f84dd7a9aceb5712757b
-#EXTINF:-1 group-title="Non Kategories",Zee Action
-http://47.240.60.73/xaors/mlxy.php?channel=3d2242723ae50826fa439b4fec3796a3
-#EXTINF:-1 group-title="Non Kategories",Zee TV HD
-http://47.240.60.73/xaors/mlxy.php?channel=80ade999da975b0c1089192fce85d082
-#EXTINF:-1 group-title="Non Kategories",Zee Cinema HD
-http://47.240.60.73/xaors/mlxy.php?channel=9fe134ff276db286a9fc20b432a0bea4
-#EXTINF:-1 group-title="Non Kategories",Picture HD
-http://47.240.60.73/xaors/mlxy.php?channel=fd64019a13e764fcbece870c88a27714
-#EXTINF:-1 group-title="Non Kategories",Zee News
-http://47.240.60.73/xaors/mlxy.php?channel=b0651ae2907ab4f69f82a10e4d1ebce3
-#EXTINF:-1 group-title="Non Kategories",Channel 5
-http://47.240.60.73/xaors/mlxy.php?channel=4a4d040525e3ae70a4ddc6bdad599cad
-#EXTINF:-1 group-title="Non Kategories",Channel 8
-http://47.240.60.73/xaors/mlxy.php?channel=7e07dcc9a72a743ee1dc4a7c020a1edd
-#EXTINF:-1 group-title="Non Kategories",Suria
-http://47.240.60.73/xaors/mlxy.php?channel=5d3473f964c5eaaa477b739aa9406a8b
-#EXTINF:-1 group-title="Non Kategories",HD Phx Chinese Channel
-http://47.240.60.73/xaors/mlxy.php?channel=41e0bbdee7df04e74303480cbae2414b
-#EXTINF:-1 group-title="Non Kategories",HD Phx Infonews Channel
-http://47.240.60.73/xaors/mlxy.php?channel=13606d8ecb50f495914cc4c0dcccddeb
-#EXTINF:-1 group-title="Non Kategories",Jade
-http://47.240.60.73/xaors/mlxy.php?channel=a988ec05d4d63b5fd8b2d73dfe90b9be
-#EXTINF:-1 group-title="Non Kategories",Pearl
-http://47.240.60.73/xaors/mlxy.php?channel=d21fc46e7be754c79ba69a4098151b0b
-#EXTINF:-1 group-title="Non Kategories",J2
-http://47.240.60.73/xaors/mlxy.php?channel=c42d09b31a1e516cd14ffcbd593cfa8a
-#EXTINF:-1 group-title="Non Kategories",J5
-http://47.240.60.73/xaors/mlxy.php?channel=99f2edac813c7b7841aecb41dc019bc4
-#EXTINF:-1 group-title="Non Kategories",iNews
-http://47.240.60.73/xaors/mlxy.php?channel=a099de1caf876f686b281cd15696f6e8
-#EXTINF:-1 group-title="Non Kategories",Viu
-http://47.240.60.73/xaors/mlxy.php?channel=c871007278e45ca7b71770802144c301
-#EXTINF:-1 group-title="Non Kategories",HD Phx HK Channel
-http://47.240.60.73/xaors/mlxy.php?channel=91f71b76f1584c4bd90fe533e9968bf3
-#EXTINF:-1 group-title="Non Kategories",Makkal TV
-http://47.240.60.73/xaors/mlxy.php?channel=3b5cc9c529dc044a60630938167975cd
-#EXTINF:-1 group-title="Non Kategories",Raj Music
-http://47.240.60.73/xaors/mlxy.php?channel=41fb989e3153d13fc8c7b4e1a943d771
-#EXTINF:-1 group-title="Non Kategories",KTV UK
-http://47.240.60.73/xaors/mlxy.php?channel=7b00bf072abda6d6d824f50ad294f4ef
-#EXTINF:-1 group-title="Non Kategories",Polimer TV
-http://47.240.60.73/xaors/mlxy.php?channel=1d487a1645fee268125a8a3dfc40eb04
-#EXTINF:-1 group-title="Non Kategories",Color HD
-http://47.240.60.73/xaors/mlxy.php?channel=8dba169eb70181b6341d2bff908194ca
-#EXTINF:-1 group-title="Non Kategories",Star Plus HD
-http://47.240.60.73/xaors/mlxy.php?channel=5c2db90a847e94ab1789db2528f225e1
-#EXTINF:-1 group-title="Non Kategories",Asianet
-http://47.240.60.73/xaors/mlxy.php?channel=89bbcdd6a71670de478815f2f40726db
-#EXTINF:-1 group-title="Non Kategories",Times Now
-http://47.240.60.73/xaors/mlxy.php?channel=62093f01453dda65cbadc95f9393860a
-#EXTINF:-1 group-title="Non Kategories",NHK World
-http://47.240.60.73/xaors/mlxy.php?channel=e7e394c35fc5404ea0b8c5247b9582b8
-#EXTINF:-1 group-title="Non Kategories",JET 綜合
-http://47.240.60.73/xaors/mlxy.php?channel=f2e0232f2fa11011498e0519eea66d62
-#EXTINF:-1 group-title="Non Kategories",NHK
-http://47.240.60.73/xaors/mlxy.php?channel=f94e95d5ff00aa1ea75cfe513becf358
-#EXTINF:-1 group-title="Non Kategories",NHK 1
-http://47.240.60.73/xaors/mlxy.php?channel=7f4c40d37f5425ecc644227085e3b37f
-#EXTINF:-1 group-title="Non Kategories",NHK-総合
-http://47.240.60.73/xaors/mlxy.php?channel=6a840b7b35729cdca61ff2d946b28aad
-#EXTINF:-1 group-title="Non Kategories",NHK-E
-http://47.240.60.73/xaors/mlxy.php?channel=627054e68847d9fc412a642176303a14
-#EXTINF:-1 group-title="Non Kategories",日テレ Nippon TV
-http://47.240.60.73/xaors/mlxy.php?channel=a5dd54b1a1a059bba7f6ec6403f250e7
-#EXTINF:-1 group-title="Non Kategories",テレビ朝日 Asahi TV
-http://47.240.60.73/xaors/mlxy.php?channel=81fc96156d69b211fc64741cb509b0ff
-#EXTINF:-1 group-title="Non Kategories",TBS
-http://47.240.60.73/xaors/mlxy.php?channel=4a0cc618a27b3c7ca0fffff32f03030d
-#EXTINF:-1 group-title="Non Kategories",テレビ東京 Tokyo TV
-http://47.240.60.73/xaors/mlxy.php?channel=2e94ada8d2101c4fc9a4aa71f8cec285
-#EXTINF:-1 group-title="Non Kategories",フジテレビ Fuji TV
-http://47.240.60.73/xaors/mlxy.php?channel=d07fd0094e541524b2d530f4be697a42
-#EXTINF:-1 group-title="Non Kategories",TOKYOMX
-http://47.240.60.73/xaors/mlxy.php?channel=5f2d35a78beeeaac6f7ac92b27a22089
-#EXTINF:-1 group-title="Non Kategories",NHK総合大阪 Osaka
-http://47.240.60.73/xaors/mlxy.php?channel=3372a65b82584a0f19eb5b8fdc1061f1
-#EXTINF:-1 group-title="Non Kategories",NHK-E テレ大阪 Osaka
-http://47.240.60.73/xaors/mlxy.php?channel=1a01bc5a6f8a94b467642b15bcccffbf
-#EXTINF:-1 group-title="Non Kategories",MBS毎日放送
-http://47.240.60.73/xaors/mlxy.php?channel=f08c58c96ca27836451426e295daee2f
-#EXTINF:-1 group-title="Non Kategories",テレビ大阪 TV Osaka
-http://47.240.60.73/xaors/mlxy.php?channel=fa8b76be386670a483e0ffd9205aaaa5
-#EXTINF:-1 group-title="Non Kategories",関西テレビ Kansai TV
-http://47.240.60.73/xaors/mlxy.php?channel=a06c15149a25b3c32e4fe60c3801763d
-#EXTINF:-1 group-title="Non Kategories",読売テレビ Yomiuri TV
-http://47.240.60.73/xaors/mlxy.php?channel=2c11e2c3088fca031ad2901851d77e1c
-#EXTINF:-1 group-title="Non Kategories",NHKBS1
-http://47.240.60.73/xaors/mlxy.php?channel=97130040f5e91212a0a8c5282a20efef
-#EXTINF:-1 group-title="Non Kategories",NHKBSプレミア Premium
-http://47.240.60.73/xaors/mlxy.php?channel=4993da59f3239529cb7b0bb314160ca7
-#EXTINF:-1 group-title="Non Kategories",BS日テレ Nippon
-http://47.240.60.73/xaors/mlxy.php?channel=e1b52e2d1f5e990809844b4553e06fe3
-#EXTINF:-1 group-title="Non Kategories",BS朝日 Asahi
-http://47.240.60.73/xaors/mlxy.php?channel=3cd3d7dcf33fdf6234aedae3d21c96f3
-#EXTINF:-1 group-title="Non Kategories",BSジャパン BS Japan
-http://47.240.60.73/xaors/mlxy.php?channel=110c78bad8cbfb5731fad57350b4693b
-#EXTINF:-1 group-title="Non Kategories",BSフジ BS Fuji
-http://47.240.60.73/xaors/mlxy.php?channel=d33104e147156d585cdce2b251e18bf8
-#EXTINF:-1 group-title="Non Kategories",WOWOWプライム Prime
-http://47.240.60.73/xaors/mlxy.php?channel=6fe3ad303e3a79eae5ee30d21d4c0700
-#EXTINF:-1 group-title="Non Kategories",WOWOWライブ Live
-http://47.240.60.73/xaors/mlxy.php?channel=3df6d1a2f200e67e1cf1676e54ae91f5
-#EXTINF:-1 group-title="Non Kategories",WOWOWシネマ Cinema
-http://47.240.60.73/xaors/mlxy.php?channel=4248412acdaec5d3e232b61a51d737bc
-#EXTINF:-1 group-title="Non Kategories",グリーンチャン Green Channel
-http://47.240.60.73/xaors/mlxy.php?channel=f679cfa8d9219dc6ea5a502080bf7633
-#EXTINF:-1 group-title="Non Kategories",nihon TV
-http://47.240.60.73/xaors/mlxy.php?channel=b22b864fd0b9f66c7d0f2ffd719cae38
-#EXTINF:-1 group-title="Non Kategories",sky.Aスポーツ+ SkyA Sports
-http://47.240.60.73/xaors/mlxy.php?channel=1587af28495ad9999db817d4b45deecb
-#EXTINF:-1 group-title="Non Kategories",ゴルフネットHD Golf Network
-http://47.240.60.73/xaors/mlxy.php?channel=75f350280810d55e47ef0a25d350c548
-#EXTINF:-1 group-title="Non Kategories",BSアニマックス Animax
-http://47.240.60.73/xaors/mlxy.php?channel=9242a9b24ef4e3c8dec1397884adb7f1
-#EXTINF:-1 group-title="Non Kategories",J Sports 1
-http://47.240.60.73/xaors/mlxy.php?channel=e1e5f0cdcb0bb6c370c211c0d5ed708f
-#EXTINF:-1 group-title="Non Kategories",J Sports 2
-http://47.240.60.73/xaors/mlxy.php?channel=d593f22f8bd455d342beb3694d0a26e2
-#EXTINF:-1 group-title="Non Kategories",J Sports 3
-http://47.240.60.73/xaors/mlxy.php?channel=84eb2d3e1230ef7eec7ab0fc74dcefce
-#EXTINF:-1 group-title="Non Kategories",J Sports 4
-http://47.240.60.73/xaors/mlxy.php?channel=e7c593cdcb13e6433a2685050c21c5ca
-#EXTINF:-1 group-title="Non Kategories",日テレG+ HD
-http://47.240.60.73/xaors/mlxy.php?channel=3521b293a0625b3ed4e467d691b743a4
-#EXTINF:-1 group-title="Non Kategories",CNA Japan
-http://47.240.60.73/xaors/mlxy.php?channel=5928af1b1a9fdbc9624af7d1f29eb45a
-#EXTINF:-1 group-title="Non Kategories",KBS 1
-http://47.240.60.73/xaors/mlxy.php?channel=063c1852a3d8f9e64c58b7bccd67b190
-#EXTINF:-1 group-title="Non Kategories",KBS 2
-http://47.240.60.73/xaors/mlxy.php?channel=d1fba414a1167ad309a302794fe3276a
-#EXTINF:-1 group-title="Non Kategories",MBC
-http://47.240.60.73/xaors/mlxy.php?channel=f60060c66141281a01bedc8695628bc6
-#EXTINF:-1 group-title="Non Kategories",SBS
-http://47.240.60.73/xaors/mlxy.php?channel=d8576691f21283f048cb8b6c9a98296f
-#EXTINF:-1 group-title="Non Kategories",CNTV
-http://47.240.60.73/xaors/mlxy.php?channel=d770e33ee6e08ccba81ed20835e89030
-#EXTINF:-1 group-title="Non Kategories",EBS
-http://47.240.60.73/xaors/mlxy.php?channel=acb480f8b15641bb6d0016a15ae81faa
-#EXTINF:-1 group-title="Non Kategories",TVN
-http://47.240.60.73/xaors/mlxy.php?channel=dddbeb63212e75f57daecd359687082f
-#EXTINF:-1 group-title="Non Kategories",Spotv
-http://47.240.60.73/xaors/mlxy.php?channel=04fb4e2f297301a010c18bcb201b9d3f
-#EXTINF:-1 group-title="Non Kategories",Disney Channel Korea
-http://47.240.60.73/xaors/mlxy.php?channel=c9798d0fc89068854b05ef05ee3a032b
-#EXTINF:-1 group-title="Non Kategories",MENT TV
-http://47.240.60.73/xaors/mlxy.php?channel=b612630c0b52725a5575d98ba9397889
-#EXTINF:-1 group-title="Non Kategories",JTBC
-http://47.240.60.73/xaors/mlxy.php?channel=baa7341bb5b29ee50b50c91c943801dc
-#EXTINF:-1 group-title="Non Kategories",Super Action
-http://47.240.60.73/xaors/mlxy.php?channel=e29bf19ab86b70b8192d2e803ffddd58
-#EXTINF:-1 group-title="Non Kategories",CGV TV
-http://47.240.60.73/xaors/mlxy.php?channel=18e3c357bdd6f025576d45188a5950bf
-#EXTINF:-1 group-title="Non Kategories",OGN
-http://47.240.60.73/xaors/mlxy.php?channel=5bdd7112f00810b61757a0af43a8a396
-#EXTINF:-1 group-title="Non Kategories",inet TV
-http://47.240.60.73/xaors/mlxy.php?channel=d23fb1f932494408c37447a763b82117
-#EXTINF:-1 group-title="Non Kategories",SBS Sports
-http://47.240.60.73/xaors/mlxy.php?channel=d58a343a1aaf339fdad36a48b5b3cd67
-#EXTINF:-1 group-title="Non Kategories",MBC Sports 2
-http://47.240.60.73/xaors/mlxy.php?channel=88e633d44f6e9ac6c1220cb9361c1c02
-#EXTINF:-1 group-title="Non Kategories",SBS Plus
-http://47.240.60.73/xaors/mlxy.php?channel=e9134799e27b7ffe98d43bd0e18cffea
-#EXTINF:-1 group-title="Non Kategories",MBC Sports+
-http://47.240.60.73/xaors/mlxy.php?channel=4c90182251e2ef61a8b7cdd50fe2e5fc
-#EXTINF:-1 group-title="Non Kategories",KBS World
-http://47.240.60.73/xaors/mlxy.php?channel=aeed65c72acec67f236c5a0521432510
-#EXTINF:-1 group-title="Non Kategories",NBCSN
-http://47.240.60.73/xaors/mlxy.php?channel=95135a0cc6e63e7eefa47220c154c35a
-#EXTINF:-1 group-title="Non Kategories",Setanta Sports HD
-http://47.240.60.73/xaors/mlxy.php?channel=2e5ef82d6b19b65d793226d242361822
-#EXTINF:-1 group-title="Non Kategories",NBA TV
-http://47.240.60.73/xaors/mlxy.php?channel=9677650253dc9dfdb0d80aa686cfb43e
-#EXTINF:-1 group-title="Non Kategories",TLC
-http://47.240.60.73/xaors/mlxy.php?channel=e2df28cb3212784bdb25fcb92a7011e4
-#EXTINF:-1 group-title="Non Kategories",CNN HD
-http://47.240.60.73/xaors/mlxy.php?channel=0301250d792812d45a4fe095ddc16c8d
-#EXTINF:-1 group-title="Non Kategories",BBC World News
-http://47.240.60.73/xaors/mlxy.php?channel=e606127de887c65da763ed3a438b7be8
-#EXTINF:-1 group-title="Non Kategories",Bloomberg News
-http://47.240.60.73/xaors/mlxy.php?channel=854ff86a9625cdfea161a5b3847de75a
-#EXTINF:-1 group-title="Non Kategories",Sun Tv
-http://47.240.60.73/xaors/mlxy.php?channel=2b4be0cd6f646271969e47496c774950
-#EXTINF:-1 group-title="Non Kategories",Nickelodeon
-http://47.240.60.73/xaors/mlxy.php?channel=f312a28675f74a3f73b3ec3e3c92591a
-#EXTINF:-1 group-title="Non Kategories",Asian Food Channel HD
-http://47.240.60.73/xaors/mlxy.php?channel=45f202e19161b4479c95cb0ef6af8568
-#EXTINF:-1 group-title="Non Kategories",CNBC
-http://47.240.60.73/xaors/mlxy.php?channel=c5e74a63b94056246a69e11540982b62
-#EXTINF:-1 group-title="Non Kategories",Kids TV
-http://47.240.60.73/xaors/mlxy.php?channel=d7e0539818186b6cfff3935bf3ba3c56
-#EXTINF:-1 group-title="Non Kategories",History HD
-http://47.240.60.73/xaors/mlxy.php?channel=3ca80a49a1cc8c53ab55d4682a752fd4
-#EXTINF:-1 group-title="Non Kategories",Crime Investigation HD
-http://47.240.60.73/xaors/mlxy.php?channel=e27e3721a05ce9990f4b2537313661f7
-#EXTINF:-1 group-title="Non Kategories",Discovery HD
-http://47.240.60.73/xaors/mlxy.php?channel=5c4af5038bcaf226eaf9082481d9a41c
-#EXTINF:-1 group-title="Non Kategories",Nat Geo HD
-http://47.240.60.73/xaors/mlxy.php?channel=31d89cbdcea84676a3b3b09a081d93d3
-#EXTINF:-1 group-title="Non Kategories",Nat Geo Wild HD
-http://47.240.60.73/xaors/mlxy.php?channel=53c978b7f7a5c39ade462b46bcfb596c
-#EXTINF:-1 group-title="Non Kategories",Nat Geo People HD
-http://47.240.60.73/xaors/mlxy.php?channel=a91c367e8d20139cd47dca7c5246b76c
-#EXTINF:-1 group-title="Non Kategories",Discovery Science
-http://47.240.60.73/xaors/mlxy.php?channel=ad47f8b5852b8d409c2def4d5a82c067
-#EXTINF:-1 group-title="Non Kategories",Animal Planet HD
-http://47.240.60.73/xaors/mlxy.php?channel=8b2c096ae3ae63754b8ff8f1fb5c9920
-#EXTINF:-1 group-title="Non Kategories",Nat_Geo People
-http://47.240.60.73/xaors/mlxy.php?channel=40acf6ec9b997a05880d9c6da90c6316
-#EXTINF:-1 group-title="Non Kategories",Nat_Geo HD
-http://47.240.60.73/xaors/mlxy.php?channel=54a11a4c208e1d615235f25db0912e75
-#EXTINF:-1 group-title="Non Kategories",Nat_Geo Wild
-http://47.240.60.73/xaors/mlxy.php?channel=8a37e736a1342a1e6e36f549953dfe90
-#EXTINF:-1 group-title="Non Kategories",Dmax
-http://47.240.60.73/xaors/mlxy.php?channel=de7df547c881ea6b5b3aedfbf02e4da4
-#EXTINF:-1 group-title="Non Kategories",CI
-http://47.240.60.73/xaors/mlxy.php?channel=6f0b859f9d5d75c99d9f8b85859bfeb8
-#EXTINF:-1 group-title="Non Kategories",History 2
-http://47.240.60.73/xaors/mlxy.php?channel=65c825988b8d08c2754e2a9442097a10
-#EXTINF:-1 group-title="Non Kategories",History
-http://47.240.60.73/xaors/mlxy.php?channel=1080ee4db8311690db6d14903a1e9e3d
-#EXTINF:-1 group-title="Non Kategories",Animal_Planet
-http://47.240.60.73/xaors/mlxy.php?channel=05ca6854a497d7cde1e8f501fb188eef
-#EXTINF:-1 group-title="Non Kategories",Discovery_Science
-http://47.240.60.73/xaors/mlxy.php?channel=f8909e2127ca00172106da82a4e72925
-#EXTINF:-1 group-title="Non Kategories",Cartoon Network HD
-http://47.240.60.73/xaors/mlxy.php?channel=eec2c5df87f1847687978980a6aa9e1e
-#EXTINF:-1 group-title="Non Kategories",Disney Channel Asia HD
-http://47.240.60.73/xaors/mlxy.php?channel=66e5f844975a04a7eb386ba6a2318152
-#EXTINF:-1 group-title="Non Kategories",Animax HD
-http://47.240.60.73/xaors/mlxy.php?channel=774352ddbd0b129746e4d119973aedc3
-#EXTINF:-1 group-title="Non Kategories",Baby First
-http://47.240.60.73/xaors/mlxy.php?channel=a66a11cfb1e9d9af21e802f0065149fb
-#EXTINF:-1 group-title="Non Kategories",Cartoon Network Taiwan
-http://47.240.60.73/xaors/mlxy.php?channel=e1c5f501ef7a5c226428090a8aede527
-#EXTINF:-1 group-title="Non Kategories",Nickelodeon Asia
-http://47.240.60.73/xaors/mlxy.php?channel=3fc7eda673deacd9680c7fc23fdc5c53
+
+#EXTINF:-1 group-title="Film On Channel", Film On 1
+https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 2
+https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 3
+https://edge-1192-ch-gv.filmon.com/live/3035.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 4
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 5
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 6
+https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 7
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 8
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 9
+https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 10
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 11
+https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 12
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 13
+https://edge-1192-ch-gv.filmon.com/live/1732.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 14
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 15
+https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 16
+https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 17
+https://edge-1192-ch-gv.filmon.com/live/1772.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 18
+https://edge-1192-ch-gv.filmon.com/live/1775.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 19
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 20
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 21
+https://edge-1192-ch-gv.filmon.com/live/1793.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 22
+https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 23
+https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 24
+https://edge-1192-ch-gv.filmon.com/live/4151.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 25
+https://edge-1192-ch-gv.filmon.com/live/4721.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 26
+https://edge-1192-ch-gv.filmon.com/live/4724.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 27
+https://edge-1192-ch-gv.filmon.com/live/4727.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 28
+https://edge-1192-ch-gv.filmon.com/live/4730.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 29
+https://edge-1192-ch-gv.filmon.com/live/5971.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 30
+https://edge-1192-ch-gv.filmon.com/live/5980.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 31
+https://edge-1192-ch-gv.filmon.com/live/5983.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 32
+https://edge-1192-ch-gv.filmon.com/live/5986.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 33
+https://edge-1192-ch-gv.filmon.com/live/5989.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 34
+https://edge-1192-ch-gv.filmon.com/live/5992.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 35
+https://edge-1192-ch-gv.filmon.com/live/5998.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 36
+https://edge-1192-ch-gv.filmon.com/live/6013.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 37
+https://edge-1192-ch-gv.filmon.com/live/6025.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 38
+https://edge-1192-ch-gv.filmon.com/live/6028.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 39
+https://edge-1192-ch-gv.filmon.com/live/6031.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 40
+https://edge-1192-ch-gv.filmon.com/live/6040.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 41
+https://edge-1192-ch-gv.filmon.com/live/6043.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 42
+https://edge-1192-ch-gv.filmon.com/live/6046.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 43
+https://edge-1192-ch-gv.filmon.com/live/6070.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 44
+https://edge-1192-ch-gv.filmon.com/live/6076.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 45
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 46
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 47
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 48
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Film On Channel", Film On 49
+https://edge-1192-ch-gv.filmon.com/live/4136.high.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="iHot Channel",iHot_1
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_2
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_3
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_4
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_5
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_6
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_7
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_8
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_9
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_10
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_11
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_12
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_13
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_14
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_15
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_16
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_17
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="iHot Channel",iHot_18
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+#EXTINF:-1 group-title="Non Categories",IN: &TV HD
+http://45.120.188.76:8080/0.ts
+#EXTINF:-1 group-title="Non Categories",IN: ZOOM TV
+http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: VH1
+http://185.59.223.82:8080/vh1/mpegts
+#EXTINF:-1 group-title="Non Categories",USA: MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: 9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: BABY FIRST
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: BOOMARANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: CBSN HD
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: NEWS 18 ASSAM
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DD NEWS
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: D SPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ABP NEWS HD
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE TV HD (VPN)
+http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY TV HD (VPN)
+http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY SAB HD (VPN)
+http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DD NATIONAL
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: THE Q INDIA
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",RU: BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Non Categories",IN: ZEE CINEMA HD (VPN)
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE ACTION (VPN)
+http://216.144.250.174/Zee_ActIon_HD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: STAR GOLD HD (VPN)
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY MAX HD (VPN)
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: SONY MAX 2 (VPN)
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: B4U MOVIES
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: ZEE LIVING
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZOOM TV
+http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZING
+http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY MIX (VPN)
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: B4U MUSIC
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: MASTIII
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DIL SE
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Non Categories",IN: DISCOVERY
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DISCOVERY KIDS
+http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DISCOVERY TURBO
+http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DISCOVERY SCIENCE
+http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ANIMAL PLANET HD
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: TLC HD
+http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY MAX
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY MAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY TV HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY SAB HD
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY MIX
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY BBC EARTH HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY YAY
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY PIX HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: AXN HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Non Categories",IN: BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: BOLLYWOOD
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: MOVIE ZONE
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DD NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: INDIA NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: DW
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: AAJ TAK
+https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: TAZ
+https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: NDTV PROFILE
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: JAN TV
+http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: KHABARAIN ABHI TAK
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SADHNA PLUS
+http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SURYA NEWS
+http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SWARAJ EXPRESS
+http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: TAAZA TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: TV 100 NEWS
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: CARTOON NETWORK
+https://stream.simpaisa.com/pitvlive2/cartoon_240p/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: CARTOON NETWORK
+http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: BABY TV
+http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: SONY TEN 2
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY TEN 3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY SIX HD
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="Non Categories",IN: SONY ESPN
+https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="Non Categories",IN: News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ANIMAL PLANET
+https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
+#EXTINF:-1 group-title="Non Categories",IN: INDIA NEWS
+http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: STAR SPORTS 1
+http://103.68.116.50/live/feed1006/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: http://www.tv-logo.com/pt-data/uploads/images/logo/aaj_tak_uk.jpg
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: CNBC TV18
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: Bloomberg TV
+https://ch.iptvmate.net/55223f6e32038e5be12628de5464cf0e.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: CNBC Awaaz
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Bloomberg TV
+https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
+#EXTINF:-1 group-title="Non Categories",APAC: Bloomberg TV Australia
+https://ch.iptvmate.net/74b9c18d51b3f6ef71af33d28bba81f0.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: STAR SPORTS 1 HD
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY SIX HD
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: STAR SPORTS SELECT 1 HD
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY TEN 1 HD
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY TEN 2 HD
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY TEN 3 HD
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY MAX HD
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE BANGLA HD
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 group-title="Non Categories",IN:
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 group-title="Non Categories",IN:
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: TATA SKY IBADAT
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: NEWS 18
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: AAJ TAK
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: NAT GEO
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE BANGLA
+http://43.251.86.2:8080/hls/channel_1.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: AMAR UJALA
+http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE HINDUSTAN
+http://103.144.200.7:8080/hls/zeetv/index.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE BANGLA
+http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",APAC: ZEE CINEMA
+http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: STAR PLUS HD
+http://130.185.150.79:1935/db24/starplus/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE BANGLA
+http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SONY AATH
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE THEATER
+http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: ZEE ACTION
+http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
+
+
+#EXTINF:-1 group-title="Non Categories",ASIA: CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Non Categories",JP: NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: SPORTS MAX
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: HISTORY 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 group-title="Non Categories",PARIS: FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: MGM
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: BOLLYWOOD TV
+http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",UAE: MBC BOLLYWOOD
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1 group-title="Non Categories",APAC: COLORS TV
+http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: STAR PLUS (VPN)
+http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",APAC: COLORS TV
+http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: N TV MOVIES
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: STAR WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: HUMRAAZ TV
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: ARY FAMILY
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",PK: EXPRESS
+http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: SUB RANG
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 group-title="Non Categories",PK: DUNYA NEWS
+https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: CBS SPORTS HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: RTSH SPORTS
+http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",PK: PTV SPORTS
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",PK: GEO SPORTS
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: BRAZZERS TV EU
+http://188.35.9.26:9031/udp/117m
+#EXTINF:-1 group-title="Non Categories",USA: WWE
+http://cdnak10.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: SUPER ONE HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 group-title="Non Categories",PK: GTV HD
+http://43.251.86.2:8080/hls/channel_1.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: NEWS NET
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: SRK
+http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 group-title="Non Categories",USA: HDFashion & LifeStyle
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: Venus TV
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+#EXTINF:-1 group-title="Non Categories",PK: DUNYA NEWS
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1 group-title="Non Categories",RU: RT
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
+#EXTINF:-1 group-title="Non Categories",USA: MTV
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="Non Categories",RU: BOLLYWOOD CLASSIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Non Categories",IN: STAR SPORTS 1 HD
+http://103.111.120.46/hls/star-sports-1-hd.m3u8
+#EXTINF:-1 group-title="Non Categories",PST: CNN
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: CBSN
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 group-title="Non Categories",USA: BLOOMBERG TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: CBS NEWS
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 group-title="Non Categories",INT: BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: BBC CBESE
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="Non Categories",INT: FASISON TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: VH1
+http://185.59.223.82:8080/vh1/mpegts
+#EXTINF:-1 group-title="Non Categories",BD: MASSRANGA TV
+http://175.41.46.16:8081/hls/10.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: START TIME
+https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
+#EXTINF:-1 group-title="Non Categories",UK: BOOMERANG
+http://178.159.5.210:1000/play/Boomerang/index.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: Boston 25 News (WFXT)
+https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: NAT GEO
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 group-title="Non Categories",RU: DISCOVERY CHANNEL
+http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
+#EXTINF:-1 group-title="Non Categories",SONY MAX (IN)
+http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: The Outdoor Cooking Channel
+https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: Ahlulbayt tv
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",AU: Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",RU: NAT GEO WILD
+http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:-1 group-title="Non Categories",INT: FASHION TV
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: NEWS ENTER
+https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: DUBAI ONE
+https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Faith
+http://hls-live-media.cdn01.net/default/stream_14889.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: 23 ABC
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: FOOD CHANNEL
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 group-title="Non Categories",UK: DISNEY CHANNEL
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=disney
+#EXTINF:-1 group-title="Non Categories",ME: DOCU BOX
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Non Categories",MALAYSIA: FOX ACTION MOVIES
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: Portal Foxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",US: RT
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",RU: ANIMAL PLANET HD
+http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/218/index.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: HUSTLER HD
+http://188.35.9.26:2030/udp/047c
+#EXTINF:-1 group-title="Non Categories",INT: NYX MEDIA
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: NYX MEDIA
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w805691612.m3u8
+
+#EXTINF:-1 group-title="Non Categories",INT: PRIVATE TV
+https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
+
+#EXTINF:-1 group-title="Non Categories",JKT: ID HD
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: RT
+https://ch.iptvmate.net/9fe8cf22585a8f8a3164eb2ef3af2a14.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1 group-title="Non Categories",TH: NAT GEO
+http://78.129.228.178/iptv/AGCFZVZNQQ3Z64/230/index.m3u8
+#EXTINF:-1 group-title="Non Categories",MAL: AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",ID: CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",ID: ANIMAL PLANET HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",RU: NOVA SPORTS 2
+https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8
+#EXTINF:-1 group-title="Non Categories",Kids Central
+https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",Shraddha
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",Shirdi Live
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+#EXTINF:-1 group-title="Non Categories",ABC
+http://58.96.43.121:9981/stream/channelid/1303336422
+#EXTINF:-1 group-title="Non Categories",ABCComedy/Kids
+http://58.96.43.121:9981/stream/channelid/60031137
+#EXTINF:-1 group-title="Non Categories",ABC ME
+http://58.96.43.121:9981/stream/channelid/739262830
+#EXTINF:-1 group-title="Non Categories",ABC NEWS
+http://58.96.43.121:9981/stream/channelid/409730225
+#EXTINF:-1 group-title="Non Categories",INT: 100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: PAEL
+http://v.iisfu.top/live/gt/gat/mzt.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: SONY TV
+http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",JP: NHK WORLD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: ANIMAL PLANET
+http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: MUSIC BOX
+http://hls.clubplus.eu/ch09/index.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: TRT WORLD
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: JUST 89
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 group-title="Non Categories",EU: VIVID TV
+http://188.35.9.26:2031/udp/031a
+
+#EXTINF:-1 group-title="Non Categories",INT: CNA
+http://live1.cdn.iptv8k.org/live/x14/s.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: HISTORY2
+http://cdn.cvattv.com.ar/live/c2live/History_2/verimatrix_rotating/History_2.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: BUZZR
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: AAJ TAK
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: CBSN
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: WOMEN
+http://live.redtraffic.net/woman.m3u8?auth=zarin:RJsKR
+#EXTINF:-1 group-title="Non Categories",USA: NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: BAHRIN SPORTS
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: BEACH TV
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: FLOK TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: SKY C1
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: DOCEL TV
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 group-title="Non Categories",ASIA: ANIMAL PLANET HD
+http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: BEIN SPORTS 3
+https://www.streamer2mytv.com:443/cache/Bein-A-KL-V-E-3/master.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: ALFAJER TV HD
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: KBP SPORTS
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: SS TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CA: QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:-1 group-title="Non Categories",CA: PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",CA: Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",CA: EWTN
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:-1 group-title="Non Categories",CA: Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",CA: Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="Non Categories",FR: ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: MA TV
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Sportsgrid Network
+https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Field & Stream
+https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Everyday Heroes
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Monarch
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: SKY NEWS
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: LAX SPORTS NETWORK
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Non Categories",USA: Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: MMN
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: YOUNG HOLLYWOOD
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: TV SPORTS
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: PEOPLE TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: COURT TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: NBC 15 Madison (WMTV)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="Non Categories",INT: REALITY KING
+http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 group-title="Non Categories",ASIA: BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: BOOMERANG
+https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: DISCOVERY
+http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: DISNEY
+http://playlist.hmara.tv:80/4a8a78be/cede4d97dc3f7f6ac6d9298834ab9d96684147d8.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: ANIMAL PLANET
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+
+#EXTINF:-1 group-title="Non Categories",ME: DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: THE NOW NETWORK
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: Bloomberg TV
+https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
+#EXTINF:-1 group-title="Non Categories",RUS: NAT GEO
+http://178.124.182.25:7011/play/a00f_a11
+#EXTINF:-1 group-title="Non Categories",IN: ANIMAL PLANET
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: 4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",APAC: STAR PLUS
+http://137.59.155.253:8088/hls/Star_Plus.m3u8
+#EXTINF:-1 group-title="Non Categories",ME: STAR GOLD
+http://137.59.155.253:8088/hls/Star_Gold.m3u8
+#EXTINF:-1 group-title="Non Categories",APAC: COLORS TV
+http://137.59.155.253:8088/hls/Colors.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: BLOCK TV
+https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: TRAVEL CHANNEL
+http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/1070/index.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: PATHOUSE PASSION
+http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/1073/index.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: BULK TV
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1 group-title="Non Categories",BBC 2
+http://80.32.125.233:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITV 1
+http://80.32.125.233:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Non Categories",INT:Fashion TV (Slovakia)
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: The Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Shout Factory TV
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Futurism
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Dust (Sci-Fi)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 group-title="Non Categories",IN: SRI SANKARA TV
+https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: NBC NEWS
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: ENTERTAINMENT-F
+http://54.39.105.133:25461/live/Galaxy/Fubo/63.m3u8
+#EXTINF:-1 group-title="Non Categories",4Seven
+http://178.159.5.210:1000/play/4Seven/index.m3u8
+#EXTINF:-1 group-title="Non Categories",55310
+http://178.159.5.210:1000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ABN TV
+http://178.159.5.210:1000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Non Categories",AlJazeeraEng
+http://178.159.5.210:1000/play/AlJazeeraEng/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Animal Planet
+http://178.159.5.210:1000/play/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="Non Categories",B4UMovies
+http://178.159.5.210:1000/play/B4UMovies/index.m3u8
+#EXTINF:-1 group-title="Non Categories",B4UMusic
+http://178.159.5.210:1000/play/B4UMusic/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BBC CBEEBIES
+http://178.159.5.210:1000/play/BBCCBEEBIES/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BBC ONE
+http://178.159.5.210:1000/play/BBCONE/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BBC RED BUTTON1
+http://178.159.5.210:1000/play/BBCREDBUTTON1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BBC TWO
+http://178.159.5.210:1000/play/BBCTWO/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BBCALBA
+http://178.159.5.210:1000/play/BBCALBA/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BBCONESCOTLAND
+http://178.159.5.210:1000/play/BBCONESCOTLAND/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BEN
+http://178.159.5.210:1000/play/BEN/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BET:BlackEntTv
+http://178.159.5.210:1000/play/BETUK/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BLAZE
+http://178.159.5.210:1000/play/BLAZE/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BloombergHD
+http://178.159.5.210:1000/play/BloombergHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Boomerang
+http://178.159.5.210:1000/play/Boomerang/index.m3u8
+#EXTINF:-1 group-title="Non Categories",British Muslim
+http://178.159.5.210:1000/play/BritishMuslim/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CBS Action
+http://178.159.5.210:1000/play/CBSAction/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CBS Drama
+http://178.159.5.210:1000/play/CBSDrama/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CBS Reality
+http://178.159.5.210:1000/play/CBSReality/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CHANNEL 4 FHD
+http://178.159.5.210:1000/play/CHANNEL4FHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CNBC
+http://178.159.5.210:1000/play/CNBC/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CNN
+http://178.159.5.210:1000/play/CNN/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CNN HD
+http://178.159.5.210:1000/play/CNNFHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",COLORS HD
+http://178.159.5.210:1000/play/COLORSHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Channel4
+http://178.159.5.210:1000/play/Channel4/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Channels 24
+http://178.159.5.210:1000/play/Channels24/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Chartshow Hits
+http://178.159.5.210:1000/play/ChartshowHits/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Christmas Hits
+http://178.159.5.210:1000/play/ChristmasHits/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ComedyCentral
+http://178.159.5.210:1000/play/ComedyCentral/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ComedyXtra
+http://178.159.5.210:1000/play/ComedyXtra/index.m3u8
+#EXTINF:-1 group-title="Non Categories",DAVE
+http://178.159.5.210:1000/play/DAVE/index.m3u8
+#EXTINF:-1 group-title="Non Categories",DAYSTAR HD
+http://178.159.5.210:1000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Non Categories",DMAX
+http://178.159.5.210:1000/play/DMAX/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Discovery History
+http://178.159.5.210:1000/play/DiscoveryHistory/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Discovery Science
+http://178.159.5.210:1000/play/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Discovery Turbo
+http://178.159.5.210:1000/play/DiscoveryTurbo/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Drama
+http://178.159.5.210:1000/play/Drama/index.m3u8
+#EXTINF:-1 group-title="Non Categories",E4
+http://178.159.5.210:1000/play/E4/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Eden
+http://178.159.5.210:1000/play/Eden/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Euronews
+http://178.159.5.210:1000/play/Euronews/index.m3u8
+#EXTINF:-1 group-title="Non Categories",FAME TV
+http://178.159.5.210:1000/play/FAMETV/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Film4
+http://178.159.5.210:1000/play/Film4/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Food Network
+http://178.159.5.210:1000/play/FoodNetwork/index.m3u8
+#EXTINF:-1 group-title="Non Categories",GOLD
+http://178.159.5.210:1000/play/GOLD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITV GRANADA HD
+http://178.159.5.210:1000/play/ITVGRANADAHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITV HD 1
+http://178.159.5.210:1000/play/ITVHD1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITV HD 2
+http://178.159.5.210:1000/play/ITVHD2/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITV WALES HD
+http://178.159.5.210:1000/play/ITVWALESHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITV WALES HD
+http://178.159.5.210:1000/play/ITVWALESHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITV3FHD
+http://178.159.5.210:1000/play/ITV3FHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ITVFHD
+http://178.159.5.210:1000/play/ITVFHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",KTV
+http://178.159.5.210:1000/play/KTV/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Keep It Country
+http://178.159.5.210:1000/play/KeepItCountry/index.m3u8
+#EXTINF:-1 group-title="Non Categories",LondonLive
+http://178.159.5.210:1000/play/LondonLive/index.m3u8
+#EXTINF:-1 group-title="Non Categories",NOW 80s
+http://178.159.5.210:1000/play/NOW80s/index.m3u8
+#EXTINF:-1 group-title="Non Categories",NTV
+http://178.159.5.210:1000/play/NTV/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Nick Jr.
+http://178.159.5.210:1000/play/NickJr/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Nicktoons
+http://178.159.5.210:1000/play/Nicktoons/index.m3u8
+#EXTINF:-1 group-title="Non Categories",PICKTV
+http://178.159.5.210:1000/play/PICKTV/index.m3u8
+#EXTINF:-1 group-title="Non Categories",POP
+http://178.159.5.210:1000/play/POP/index.m3u8
+#EXTINF:-1 group-title="Non Categories",POP Max
+http://178.159.5.210:1000/play/POPMax/index.m3u8
+#EXTINF:-1 group-title="Non Categories",QUEST
+http://178.159.5.210:1000/play/QUEST/index.m3u8
+#EXTINF:-1 group-title="Non Categories",QUEST RED
+http://178.159.5.210:1000/play/QUESTRED/index.m3u8
+#EXTINF:-1 group-title="Non Categories",STVFHD
+http://178.159.5.210:1000/play/STVFHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Samaa
+http://178.159.5.210:1000/play/Samaa/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Samaa
+http://178.159.5.210:1000/play/a039/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Sikh Channel
+http://178.159.5.210:1000/play/SikhChannel/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Sony Crime
+http://178.159.5.210:1000/play/SonyCrime/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Sony Movies
+http://178.159.5.210:1000/play/sonymovies/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Starz TV
+http://178.159.5.210:1000/play/StarzTV/index.m3u8
+#EXTINF:-1 group-title="Non Categories",TLC
+http://178.159.5.210:1000/play/TLC/index.m3u8
+#EXTINF:-1 group-title="Non Categories",TV One
+http://178.159.5.210:1000/play/TVOne/index.m3u8
+#EXTINF:-1 group-title="Non Categories",The Vault
+http://178.159.5.210:1000/play/TheVault/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Tiny Pop
+http://178.159.5.210:1000/play/TinyPop/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Travel Channel
+http://178.159.5.210:1000/play/TravelChannel/index.m3u8
+#EXTINF:-1 group-title="Non Categories",True Christmas
+http://178.159.5.210:1000/play/TrueChristmas/index.m3u8
+#EXTINF:-1 group-title="Non Categories",True Ent
+http://178.159.5.210:1000/play/TrueEnt/index.m3u8
+#EXTINF:-1 group-title="Non Categories",UTVFHD
+http://178.159.5.210:1000/play/UTVFHD/index.m3u8
+#EXTINF:-1 group-title="Non Categories",VenusTV
+http://178.159.5.210:1000/play/VenusTV/index.m3u8
+#EXTINF:-1 group-title="Non Categories",YESTERDAY
+http://178.159.5.210:1000/play/YESTERDAY/index.m3u8
+#EXTINF:-1 group-title="Non Categories",horror channel
+http://178.159.5.210:1000/play/horrorchannel/index.m3u8
+#EXTINF:-1 group-title="Non Categories",movies4men
+http://178.159.5.210:1000/play/movies4men/index.m3u8
+#EXTINF:-1 group-title="Non Categories",zeetv
+http://178.159.5.210:1000/play/zeetv/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Aastha
+http://178.159.5.210:1000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Boomerang+1
+http://178.159.5.210:1000/play/Boomerang1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",CN+1
+http://178.159.5.210:1000/play/cartoonnetwork1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ComedyCent+1
+http://178.159.5.210:1000/play/ComedyCent1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",ComedyXtra+1
+http://178.159.5.210:1000/play/ComedyXtra1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",HUM EUROPE
+http://178.159.5.210:1000/play/HUMEUROPE/index.m3u8
+#EXTINF:-1 group-title="Non Categories",HUM Masala
+http://178.159.5.210:1000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Non Categories",HUM News
+http://178.159.5.210:1000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Nick Jr+1
+http://178.159.5.210:1000/play/nickjr1/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Nick
+http://178.159.5.210:1000/play/NickJrPeppa/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Nickelodeon
+http://178.159.5.210:1000/play/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Nickelodeon+1
+http://178.159.5.210:1000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Non Categories",PTC PUNJABI
+http://178.159.5.210:1000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Primal Living
+http://178.159.5.210:1000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Racing
+http://178.159.5.210:1000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Non Categories",SonLife
+http://178.159.5.210:1000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Sony Action
+http://178.159.5.210:1000/play/Sonyaction/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Sony Action
+http://178.159.5.210:1000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Sony Christmas
+http://178.159.5.210:1000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Non Categories",Spotlight TV
+http://178.159.5.210:1000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: EURO SPORTS
+http://91.126.39.98:8086/udp/224.168.32.2:3202
+#EXTINF:-1 group-title="Non Categories",RU: DISCOVERY HD
+http://91.126.39.98:8086/udp/224.169.11.247:3247
+#EXTINF:-1 group-title="Non Categories",ID: DISCOVERY CHANNEL
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Non Categories",APAC: ZEE TV
+https://delivery.macan.live/stream/zeetv/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="Non Categories",INT: HUSTLER TV
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
+#EXTINF:-1 group-title="Non Categories",ME: Adjarasport TV
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: DISCOVERY
+http://212.0.215.106/Discovery/mpegts?checkedby:www.iptvcat.com
+#EXTINF:-1 group-title="Non Categories",INT: AUTOMOTO TV
+https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: MORNING STAR TV
+http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: BBC WORLD NEWS
+http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: FOX
+https://stream.suryaiptv.net/streams/107_.m3u8
+#EXTINF:-1 group-title="Non Categories",ASIA: FOX LIFE
+https://stream.suryaiptv.net/streams/109_.m3u8
+
+#EXTINF:-1 group-title="Non Categories",UK: ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: HUM
+http://178.159.5.210:1000/play/HUMEUROPE/index.m3u8
+#EXTINF:-1 group-title="Non Categories",BD: MASSARANGA HD
+http://175.41.46.16:8081/hls/10.m3u8
+#EXTINF:-1 group-title="Non Categories",USA: MMN
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 group-title="Non Categories",INT: STREET MUSIC
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:-1 group-title="Non Categories",JP: NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="Non Categories",UK: BBC NEWS
+http://51.52.156.22:8888/http/004
