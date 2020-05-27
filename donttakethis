@@ -30,10 +30,9 @@ https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_100000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="NashyaIPtv",RCTI+
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="NashyaIPtv",GTV
-https://cdn-livetv5.metube.id/hls/globaltv_480/index.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Indonesia/72ff3444c7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="NashyaIPtv",GLOBAL TV+
-#https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="NashyaIPtv",MNC 
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="NashyaIPtv",MNC+
